@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<html lang="si">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ලංකා පුවත් — ශ්‍රී ලංකා පුවත් යෙදුම</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Sinhala:wght@400;500;600;700;800&family=Noto+Serif+Sinhala:wght@500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --maroon:#7A1F2B;
+    --maroon-deep:#5A1420;
+    --saffron:#D89A2A;
+    --leaf:#2F6F4E;
+    --betel:#8C3B24;
+    --cream:#F7F1E4;
+    --paper:#FFFDF8;
+    --ink:#2B2320;
+    --ink-soft:#6b5f56;
+    --line:#e7ddc8;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    background:var(--cream);
+    color:var(--ink);
+    font-family:"Noto Sans Sinhala","Noto Sans",sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  .app-header{
+    background:linear-gradient(135deg,var(--maroon) 0%,var(--maroon-deep) 100%);
+    color:var(--cream);
+    padding:22px 18px 16px;
+    position:relative;
+    overflow:hidden;
+  }
+  .app-header::after{
+    content:"";
+    position:absolute; right:-40px; top:-40px;
+    width:160px; height:160px; border-radius:50%;
+    background:radial-gradient(circle, rgba(216,154,42,0.35), transparent 70%);
+  }
+  .app-header .stripe{
+    position:absolute; left:0; top:0; bottom:0; width:6px;
+    background:linear-gradient(180deg,var(--saffron),var(--leaf),var(--betel));
+  }
+  .brand-row{display:flex; align-items:baseline; gap:10px; position:relative; z-index:1;}
+  .brand-mark{
+    font-family:"Noto Serif Sinhala",serif;
+    font-weight:700; font-size:26px; letter-spacing:0.5px;
+  }
+  .brand-sub{
+    font-size:12px; color:#e9d9b8; opacity:0.85; letter-spacing:0.3px;
+  }
+  .date-row{
+    margin-top:6px; font-size:12.5px; color:#e9d9b8; opacity:0.9;
+    position:relative; z-index:1;
+  }
+  .snapshot-note{
+    margin-top:10px; font-size:11.5px; line-height:1.5; color:#f1e3c4;
+    background:rgba(0,0,0,0.18); border-radius:10px; padding:8px 10px;
+    position:relative; z-index:1;
+  }
+  .refresh-row{
+    display:flex; align-items:center; justify-content:space-between; gap:8px;
+    margin-top:10px; position:relative; z-index:1;
+  }
+  #lastUpdated{font-size:11px; color:#e9d9b8; opacity:0.85;}
+  .refresh-btn{
+    font-family:inherit; font-size:12px; font-weight:700; color:var(--maroon-deep);
+    background:var(--saffron); border:none; border-radius:999px;
+    padding:7px 13px; cursor:pointer; white-space:nowrap;
+    transition:transform .12s, opacity .12s;
+  }
+  .refresh-btn:active{transform:scale(0.96);}
+  .refresh-btn:disabled{opacity:0.6; cursor:default;}
+
+  .skeleton{
+    background:var(--paper); border:1px solid var(--line); border-radius:14px;
+    padding:14px 15px; margin-bottom:12px; border-inline-start:4px solid var(--line);
+  }
+  .skeleton .sk-line{
+    height:11px; border-radius:6px; background:linear-gradient(90deg,#eee2c9,#f6efdd,#eee2c9);
+    background-size:200% 100%; animation:shimmer 1.3s infinite;
+    margin-bottom:8px;
+  }
+  @keyframes shimmer{0%{background-position:200% 0;} 100%{background-position:-200% 0;}}
+  .error-note{
+    font-size:12.5px; color:var(--betel); background:#fbeee9; border:1px solid #f0d3c6;
+    border-radius:10px; padding:10px 12px; margin-bottom:12px;
+  }
+  .error-detail{
+    font-size:11px; color:#8a5a4a; margin-top:4px; word-break:break-word;
+  }
+
+  .tabs{
+    display:flex; overflow-x:auto; gap:6px; padding:10px 12px;
+    background:var(--paper); border-bottom:1px solid var(--line);
+    position:sticky; top:0; z-index:5;
+    -ms-overflow-style:none; scrollbar-width:none;
+  }
+  .tabs::-webkit-scrollbar{display:none;}
+  .tab-btn{
+    flex:0 0 auto;
+    font-family:inherit; font-size:14px; font-weight:600;
+    padding:9px 16px; border-radius:999px; border:1.5px solid var(--line);
+    background:var(--paper); color:var(--ink-soft);
+    cursor:pointer; white-space:nowrap;
+    transition:background .18s, color .18s, border-color .18s, transform .12s;
+  }
+  .tab-btn .dot{display:inline-block; width:7px; height:7px; border-radius:50%; margin-inline-end:6px;}
+  .tab-btn.active{
+    color:#fff; border-color:transparent;
+    transform:translateY(-1px);
+  }
+  .tab-btn:active{transform:scale(0.97);}
+
+  .panel{display:none; padding:16px 14px 40px;}
+  .panel.active{display:block; animation:fade .25s ease;}
+  @keyframes fade{from{opacity:0; transform:translateY(4px);} to{opacity:1; transform:translateY(0);}}
+
+  .panel-head{display:flex; align-items:center; justify-content:space-between; margin-bottom:14px;}
+  .panel-title{
+    font-family:"Noto Serif Sinhala",serif; font-weight:700; font-size:19px; color:var(--maroon-deep);
+  }
+  .panel-count{font-size:11.5px; color:var(--ink-soft);}
+
+  .card{
+    background:var(--paper); border:1px solid var(--line); border-radius:14px;
+    padding:14px 15px; margin-bottom:12px;
+    border-inline-start:4px solid var(--accent, var(--maroon));
+    box-shadow:0 1px 2px rgba(90,20,32,0.04);
+  }
+  .card-top{display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;}
+  .source-tag{
+    font-size:11px; font-weight:700; color:var(--accent, var(--maroon));
+    background:color-mix(in srgb, var(--accent, var(--maroon)) 12%, transparent);
+    padding:3px 9px; border-radius:7px;
+  }
+  .time-tag{font-size:11px; color:var(--ink-soft);}
+  .card h3{
+    margin:2px 0 6px; font-size:16px; line-height:1.45; font-weight:700; color:var(--ink);
+  }
+  .card p{margin:0 0 10px; font-size:14px; line-height:1.65; color:#443c36;}
+  .card a.readmore{
+    font-size:13px; font-weight:700; color:var(--accent, var(--maroon));
+    text-decoration:none; border-bottom:1.5px solid currentColor; padding-bottom:1px;
+  }
+
+  .more-box{
+    margin-top:18px; padding:16px; border-radius:14px;
+    background:linear-gradient(135deg, #fff 0%, var(--cream) 100%);
+    border:1px dashed var(--line);
+  }
+  .more-box h4{margin:0 0 8px; font-size:14px; color:var(--maroon-deep); font-family:"Noto Serif Sinhala",serif;}
+  .source-links{display:flex; flex-wrap:wrap; gap:8px;}
+  .source-links a{
+    font-size:12.5px; font-weight:600; color:var(--ink);
+    background:var(--paper); border:1px solid var(--line);
+    padding:7px 12px; border-radius:999px; text-decoration:none;
+  }
+  .source-links a:active{background:var(--cream);}
+
+  footer{
+    text-align:center; font-size:11px; color:var(--ink-soft);
+    padding:18px 20px 30px;
+  }
+</style>
+</head>
+<body>
+
+<div class="app-header">
+  <div class="stripe"></div>
+  <div class="brand-row">
+    <span class="brand-mark">ලංකා පුවත්</span>
+    <span class="brand-sub">Lanka Puvath</span>
+  </div>
+  <div class="date-row" id="dateRow">2026 ජූලි 19, ඉරිදා</div>
+  <div class="snapshot-note">
+    මෙහි පුවත් ශීර්ෂ පාඨ Ada Derana, Hiru News, News First, ITN සහ Lankadeepa වැනි ප්‍රධාන මාධ්‍යවලින් දිනකට වරක් ලබාගනු ලැබේ. සම්පූර්ණ පුවත සඳහා එක් එක් කාඩ්පතේ ඇති සබැඳිය භාවිතා කරන්න.
+  </div>
+  <div class="refresh-row">
+    <span id="lastUpdated">පූරණය වෙමින්…</span>
+    <button id="refreshBtn" class="refresh-btn">↻ අද පුවත් නවීකරණය කරන්න</button>
+  </div>
+</div>
+
+<div class="tabs" id="tabs"></div>
+
+<div id="panels"></div>
+
+<footer>ලංකා පුවත් · මූලාශ්‍ර: Ada Derana · Hiru News · News First · ITN · Lankadeepa · Vigasa</footer>
+
+<script>
+const categories = [
+  { id:"main", label:"ප්‍රධාන පුවත්", color:"#7A1F2B" },
+  { id:"politics", label:"දේශපාලනය", color:"#8C3B24" },
+  { id:"sports", label:"ක්‍රීඩා", color:"#2F6F4E" },
+  { id:"business", label:"ආර්ථිකය", color:"#B77A1D" },
+  { id:"world", label:"ලෝකය", color:"#3B5F7A" },
+];
+
+const fallbackStories = {
+  main: [
+    {
+      source:"Hiru News", time:"පැය 18කට පෙර",
+      title:"LPL තරග පාවාදීම් සැකකරුවන් රක්ෂිත බන්ධනාගාරගත කෙරේ",
+      body:"ලංකා ප්‍රිමියර් ලීග් (LPL) තරගාවලියේ ජැෆ්නා කිංග්ස් කණ්ඩායමේ සම හිමිකරු ඇතුළු සැකකරුවන් දෙදෙනෙකු, තරග පාවාදීමේ චෝදනා මත ක්‍රීඩා විමර්ශන ඒකකය විසින් අත්අඩංගුවට ගෙන කොළඹ මහේස්ත්‍රාත් අධිකරණය මගින් ලබන 31 වැනිදා දක්වා රක්ෂිත බන්ධනාගාරගත කර ඇත.",
+      url:"https://hirunews.lk/"
+    },
+    {
+      source:"Ada Derana", time:"මාසයකට පමණ පෙර",
+      title:"හෝමාගම, කොට්ටාව ඇතුළු ප්‍රදේශවලට පැය 24 ජල කප්පාදුවක්",
+      body:"ජල සැපයුම් කටයුතුවලට අදාළ නඩත්තු කටයුත්තක් හේතුවෙන් හෝමාගම, කොට්ටාව ඇතුළු තවත් ප්‍රදේශ කිහිපයකට පැය 24ක කාලයක් ජල සැපයුම අත්හිටුවන බව ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය දැනුම් දී තිබේ.",
+      url:"https://sinhala.adaderana.lk/"
+    },
+    {
+      source:"News First", time:"මෑතකදී",
+      title:"හිටපු ශ්‍රීලංකන් එයාර්ලයින්ස් ප්‍රධානී කපිල චන්ද්‍රසේන නඩුවේ විමර්ශන ප්‍රගතිය ඉල්ලයි",
+      body:"ශ්‍රීලංකන් ගුවන් සමාගමේ හිටපු ප්‍රධාන විධායක නිලධාරී කපිල චන්ද්‍රසේනට එරෙහි නඩුවේ විමර්ශන ප්‍රගතිය ඔක්තෝබර් 13 වැනිදා අධිකරණයට වාර්තා කරන ලෙස කොළඹ ප්‍රධාන මහේස්ත්‍රාත්වරයා අල්ලස් කොමිසමට නියෝග කර ඇත.",
+      url:"https://sinhala.newsfirst.lk/local"
+    },
+  ],
+  politics: [
+    {
+      source:"News First", time:"මෑතකදී",
+      title:"මුදල් විශුද්ධිකරණය වැළැක්වීමේ ජාතික ක්‍රියාකාරී සැලැස්ම 2026-2030 ගැන සාකච්ඡා",
+      body:"මුදල් විශුද්ධිකරණය හා ත්‍රස්තවාදයට මුදල් සැපයීම මැඩපැවැත්වීම සම්බන්ධයෙන් 2026-2030 කාලය සඳහා වන ජාතික ක්‍රියාකාරී සැලැස්ම පිළිබඳ රජය තුළ සාකච්ඡා ඇරඹී ඇති බව වාර්තා වේ.",
+      url:"https://sinhala.newsfirst.lk/local"
+    },
+    {
+      source:"News First", time:"මෑතකදී",
+      title:"පාස්කු ප්‍රහාරය සම්බන්ධ රඳවා ගැනීම් ත්‍රස්තවාදය වැළැක්වීමේ පනත යටතේ අභියෝගයට",
+      body:"පාස්කු ඉරුදින ත්‍රස්ත ප්‍රහාරයේ විමර්ශනවලට අදාළව ත්‍රස්තවාදය වැළැක්වීමේ පනත යටතේ අත්අඩංගුවට ගෙන රඳවා ගැනීම, අධිකරණයේදී අභියෝගයට ලක්ව ඇති බව වාර්තා වේ.",
+      url:"https://sinhala.newsfirst.lk/local"
+    },
+    {
+      source:"Ada Derana", time:"මෑතකදී",
+      title:"විදුලි වාහන බැටරි කර්මාන්තශාලාවක් ලංකාවේ ඉදිකිරීමට ජපානයෙන් යෝජනාවක්",
+      body:"විදුලි වාහන සඳහා අවශ්‍ය බැටරි නිෂ්පාදනය කරන කර්මාන්තශාලාවක් ශ්‍රී ලංකාවේ ඉදිකිරීම සඳහා ජපානය විසින් යෝජනාවක් ඉදිරිපත් කර ඇති බව අද දෙරණ වාර්තා කරයි.",
+      url:"https://sinhala.adaderana.lk/"
+    },
+  ],
+  sports: [
+    {
+      source:"Hiru Sports", time:"පැය 18කට පෙර",
+      title:"LPL තරග පාවාදීම් සම්බන්ධයෙන් ජැෆ්නා කිංග්ස් හිමිකරු අත්අඩංගුවට",
+      body:"ලංකා ප්‍රිමියර් ලීග් (LPL) තරගාවලියේ තරග පාවාදීමේ චෝදනා මත ජැෆ්නා කිංග්ස් කණ්ඩායමේ සම හිමිකරු මංජොත් කල්රා ඇතුළු පිරිසක් පොලිස් ක්‍රීඩා විමර්ශන විශේෂ ඒකකය විසින් අත්අඩංගුවට ගෙන ඇත.",
+      url:"http://www.hirunews.lk/sports/"
+    },
+    {
+      source:"Dasatha Lanka News", time:"මෑතකදී",
+      title:"ලසිත් මාලිංගට ජාතික කණ්ඩායමේ නව වගකීමක්",
+      body:"ශ්‍රී ලංකා ජාතික ක්‍රිකට් කණ්ඩායමේ වේග පන්දු උපදේශක සහ උපායමාර්ග සැලසුම් පුහුණුකරු ලෙස හිටපු ක්‍රීඩක ලසිත් මාලිංග පත් කර ඇති බව වාර්තා වේ.",
+      url:"https://dasathalankanews.com/"
+    },
+    {
+      source:"Hiru Sports", time:"මෑතකදී",
+      title:"ටෙස්ට් ශ්‍රේණිගත කිරීම්වල ශ්‍රී ලංකාව 6 වන ස්ථානයේ",
+      body:"ICC ටෙස්ට් ශ්‍රේණිගත කිරීම් වගුවේ ශ්‍රී ලංකා ජාතික ක්‍රිකට් කණ්ඩායම මේ වනවිට 6 වන ස්ථානය හිමිකරගෙන සිටින බව හිරු ක්‍රීඩා අංශය වාර්තා කරයි.",
+      url:"http://www.hirunews.lk/sports/"
+    },
+  ],
+  business: [
+    {
+      source:"ITN News", time:"මෑතකදී",
+      title:"ඇමෙරිකානු ඩොලරයට සාපේක්ෂව රුපියල සුළු වශයෙන් ශක්තිමත් වෙයි",
+      body:"ශ්‍රී ලංකා මහ බැංකුවේ දෛනික විනිමය අනුපාතික වාර්තාවට අනුව, ඇමෙරිකානු ඩොලරයේ මිල ගැනුම් රුපියල් 332 ආසන්නයේත් විකුණුම් රුපියල් 342 ආසන්නයේත් පවතී.",
+      url:"https://www.itnnews.lk/"
+    },
+    {
+      source:"Vigasa", time:"මෑතකදී",
+      title:"ලාෆ්ස් හා ලිට්‍රෝ ගෑස් මිල ඉහළට",
+      body:"දේශීය ගෘහස්ථ ගෑස් සමාගම් දෙක වන ලාෆ්ස් හා ලිට්‍රෝ විසින් ගෘහස්ථ ගෑස් සිලින්ඩරයක මිල ඉහළ දමා ඇති බව වාර්තා වේ.",
+      url:"https://sinhala.asianmirror.lk/"
+    },
+    {
+      source:"Central Bank of Sri Lanka", time:"දෛනිකව යාවත්කාලීන", 
+      title:"විනිමය අනුපාත දෛනිකව මහ බැංකුව මගින් නිකුත් කෙරේ",
+      body:"එක්සත් ජනපද ඩොලරය ඇතුළු විදේශ ව්‍යවහාර මුදල් සඳහා වන දෛනික විනිමය අනුපාත ශ්‍රී ලංකා මහ බැංකුව විසින් සෑම දිනකම නිකුත් කරනු ලැබේ.",
+      url:"https://www.cbsl.gov.lk/si"
+    },
+  ],
+  world: [
+    {
+      source:"Ada Derana", time:"මෑතකදී",
+      title:"ට්‍රම්ප්ට එරෙහිව ඇමෙරිකා සෙනෙට් සභාවෙන් තරවටුවක්",
+      body:"ඇමෙරිකා එක්සත් ජනපද සෙනෙට් සභාව මගින් ජනාධිපති ට්‍රම්ප්ගේ ප්‍රතිපත්තියක් සම්බන්ධයෙන් විවේචනාත්මක තීරණයක් හෙළිකර ඇති බව වාර්තා වේ.",
+      url:"https://sinhala.adaderana.lk/"
+    },
+    {
+      source:"Ada Derana", time:"මෑතකදී",
+      title:"මියන්මාරයේ සයිබර් අපරාධ කඳවුරුවලින් විදේශිකයන් දහස් ගණනක් නිදහස්",
+      body:"මියන්මාරයේ පිහිටි සයිබර් අපරාධ කඳවුරුවල සිර වී සිටි විදේශිකයන් 5,000කට වැඩි පිරිසක් මුදාහරින ලද බව වාර්තා වේ.",
+      url:"https://sinhala.adaderana.lk/"
+    },
+  ],
+};
+
+const tabsEl = document.getElementById("tabs");
+const panelsEl = document.getElementById("panels");
+const lastUpdatedEl = document.getElementById("lastUpdated");
+const refreshBtn = document.getElementById("refreshBtn");
+
+function todayKey(){
+  const d = new Date();
+  return `news:${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,"0")}-${String(d.getDate()).padStart(2,"0")}`;
+}
+
+const sourceSites = [
+  ["Ada Derana","https://sinhala.adaderana.lk/"],
+  ["Hiru News","https://hirunews.lk/"],
+  ["News First","https://sinhala.newsfirst.lk/"],
+  ["ITN News","https://www.itnnews.lk/"],
+  ["Lankadeepa","https://www.lankadeepa.lk/"],
+];
+
+categories.forEach((cat, i) => {
+  const btn = document.createElement("button");
+  btn.className = "tab-btn" + (i===0 ? " active" : "");
+  btn.dataset.target = cat.id;
+  btn.innerHTML = `<span class="dot" style="background:${cat.color}"></span>${cat.label}`;
+  btn.style.background = i===0 ? cat.color : "";
+  btn.style.color = i===0 ? "#fff" : "";
+  btn.addEventListener("click", () => switchTab(cat.id));
+  tabsEl.appendChild(btn);
+
+  const panel = document.createElement("div");
+  panel.className = "panel" + (i===0 ? " active" : "");
+  panel.id = "panel-" + cat.id;
+  panel.innerHTML = `
+    <div class="panel-head">
+      <span class="panel-title">${cat.label}</span>
+      <span class="panel-count" id="count-${cat.id}"></span>
+    </div>
+    <div id="cards-${cat.id}"></div>
+    <div class="more-box">
+      <h4>සජීවීව යාවත්කාලීන පුවත් සඳහා</h4>
+      <div class="source-links">
+        ${sourceSites.map(([n,u]) => `<a href="${u}" target="_blank" rel="noopener">${n}</a>`).join("")}
+      </div>
+    </div>
+  `;
+  panelsEl.appendChild(panel);
+});
+
+function switchTab(id){
+  document.querySelectorAll(".tab-btn").forEach(b => {
+    const cat = categories.find(c => c.id === b.dataset.target);
+    const active = b.dataset.target === id;
+    b.classList.toggle("active", active);
+    b.style.background = active ? cat.color : "";
+    b.style.color = active ? "#fff" : "";
+    b.style.borderColor = active ? cat.color : "";
+  });
+  document.querySelectorAll(".panel").forEach(p => {
+    p.classList.toggle("active", p.id === "panel-" + id);
+  });
+}
+
+function showSkeleton(catId){
+  const el = document.getElementById("cards-" + catId);
+  el.innerHTML = Array(2).fill(`
+    <div class="skeleton">
+      <div class="sk-line" style="width:40%"></div>
+      <div class="sk-line" style="width:85%"></div>
+      <div class="sk-line" style="width:60%"></div>
+    </div>
+  `).join("");
+}
+
+function renderCategory(catId, list, color, errorMsg){
+  const el = document.getElementById("cards-" + catId);
+  document.getElementById("count-" + catId).textContent = list.length ? `ශීර්ෂ පාඨ ${list.length}ක්` : "";
+  let html = "";
+  if(errorMsg){
+    html += `<div class="error-note">අද පුවත් ලබාගැනීමට නොහැකි විය — පහත සබැඳි හරහා සෘජුවම පුවත් වෙබ් අඩවි වෙත යන්න.
+      <div class="error-detail">Debug: ${String(errorMsg).slice(0,180)}</div>
+    </div>`;
+  }
+  html += list.map(s => `
+    <div class="card" style="--accent:${color}">
+      <div class="card-top">
+        <span class="source-tag" style="--accent:${color}">${s.source || ""}</span>
+        <span class="time-tag">${s.time || ""}</span>
+      </div>
+      <h3>${s.title || ""}</h3>
+      <p>${s.body || ""}</p>
+      ${s.url ? `<a class="readmore" style="--accent:${color}" href="${s.url}" target="_blank" rel="noopener">සම්පූර්ණ පුවත කියවන්න →</a>` : ""}
+    </div>
+  `).join("");
+  el.innerHTML = html;
+}
+
+// robustly pull the outermost {...} object out of a text blob, tolerating
+// stray commentary before/after and single/double-quote noise
+function extractJsonObject(text){
+  const clean = text.replace(/```json|```/g, "").trim();
+  const start = clean.indexOf("{");
+  if(start === -1) throw new Error("No JSON object found in model response: " + clean.slice(0,200));
+  // walk forward counting brace depth so we find the matching close brace
+  // (safer than lastIndexOf when the model appends trailing commentary)
+  let depth = 0, end = -1;
+  for(let i = start; i < clean.length; i++){
+    if(clean[i] === "{") depth++;
+    else if(clean[i] === "}"){
+      depth--;
+      if(depth === 0){ end = i; break; }
+    }
+  }
+  if(end === -1) throw new Error("Truncated/unbalanced JSON in model response (likely hit max_tokens)");
+  return JSON.parse(clean.slice(start, end + 1));
+}
+
+async function fetchCategoryNews(cat){
+  const prompt = `ඔබ ශ්‍රී ලංකා පුවත් සංස්කාරකවරයෙකි. web search tool භාවිතා කර, Ada Derana, Hiru News, News First, ITN, Lankadeepa යන ප්‍රධාන සිංහල පුවත් අඩවිවලින් "${cat.label}" (${cat.id}) කාණ්ඩයට අදාළ අද දිනයේ වඩාත්ම වැදගත් පුවත් 2ක් සොයන්න.
+
+සෑම පුවතක් සඳහාම මූලාශ්‍රයේ වචන එසේම පිටපත් නොකර, ඔබේම වචනවලින් කෙටියෙන් සාරාංශගත කරන්න. සම්පූර්ණ ප්‍රතිචාරය පහත JSON ආකෘතියෙන් පමණක් ලබාදෙන්න, වෙනත් කිසිදු පෙළක් හෝ මාක්ඩවුන් සලකුණු නොමැතිව:
+
+{"items":[{"source":"මූලාශ්‍ර නම","title":"සිංහල ශීර්ෂ පාඨයක් (වචන 12ට අඩු)","body":"සිංහල සාරාංශයක් (වාක්‍ය 1-2, ඔබේම වචනවලින්)","url":"සම්පූර්ණ ලිපියේ සබැඳිය","time":"අද/ඊයේ වැනි කෙටි කාල සටහනක්"}]}
+
+items array එකේ අයිතම 2ක් හෝ 3ක් තිබිය යුතුය. JSON හැර වෙනත් කිසිවක් ලියන්න එපා.`;
+
+  const response = await fetch("https://api.anthropic.com/v1/messages", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({
+      model: "claude-sonnet-4-6",
+      max_tokens: 4000, // raised from 1000 — web_search overhead was truncating the final JSON
+      messages: [{ role: "user", content: prompt }],
+      tools: [{ type: "web_search_20250305", name: "web_search" }]
+    })
+  });
+
+  const data = await response.json();
+
+  if(!response.ok){
+    const msg = (data && data.error && data.error.message) ? data.error.message : ("HTTP " + response.status);
+    throw new Error(msg);
+  }
+  if(data.stop_reason === "max_tokens"){
+    console.warn(`[${cat.id}] response hit max_tokens and may be truncated`);
+  }
+
+  const text = data.content
+    .filter(b => b.type === "text")
+    .map(b => b.text)
+    .join("\n");
+
+  if(!text.trim()){
+    throw new Error("Empty text response (content: " + JSON.stringify(data.content).slice(0,200) + ")");
+  }
+
+  const parsed = extractJsonObject(text);
+  if(!parsed.items || !Array.isArray(parsed.items)){
+    throw new Error("JSON parsed but missing 'items' array");
+  }
+  return parsed.items;
+}
+
+async function loadAllNews(forceRefresh){
+  const key = todayKey();
+
+  if(!forceRefresh){
+    try{
+      const cached = await window.storage.get(key, false);
+      if(cached && cached.value){
+        const data = JSON.parse(cached.value);
+        categories.forEach(cat => renderCategory(cat.id, data[cat.id] || [], cat.color, null));
+        lastUpdatedEl.textContent = "අවසන් වරට යාවත්කාලීන: අද";
+        return;
+      }
+    }catch(e){ /* no cache yet, continue to fetch */ }
+  }
+
+  categories.forEach(cat => showSkeleton(cat.id));
+  refreshBtn.disabled = true;
+  refreshBtn.textContent = "↻ පුවත් ලබාගනිමින්…";
+  lastUpdatedEl.textContent = "යාවත්කාලීන කරමින්…";
+
+  const result = {};
+  for(const cat of categories){
+    try{
+      result[cat.id] = await fetchCategoryNews(cat);
+      renderCategory(cat.id, result[cat.id], cat.color, null);
+    }catch(e){
+      console.error(`[lanka-news] category "${cat.id}" failed:`, e);
+      result[cat.id] = fallbackStories[cat.id] || [];
+      renderCategory(cat.id, result[cat.id], cat.color, e.message || String(e));
+    }
+    // small gap between calls to avoid back-to-back rate limiting
+    await new Promise(r => setTimeout(r, 300));
+  }
+
+  try{
+    await window.storage.set(key, JSON.stringify(result), false);
+  }catch(e){ console.warn("cache save failed:", e); }
+
+  const now = new Date();
+  lastUpdatedEl.textContent = "අවසන් වරට යාවත්කාලීන: " + now.toLocaleTimeString("si-LK", {hour:"2-digit", minute:"2-digit"});
+  refreshBtn.disabled = false;
+  refreshBtn.textContent = "↻ අද පුවත් නවීකරණය කරන්න";
+}
+
+refreshBtn.addEventListener("click", () => loadAllNews(true));
+
+document.getElementById("dateRow").textContent = new Date().toLocaleDateString("si-LK", {
+  year:"numeric", month:"long", day:"numeric", weekday:"long"
+});
+
+loadAllNews(false);
+</script>
+</body>
+</html>
