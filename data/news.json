@@ -1,39 +1,37 @@
 {
-  "updated_at": "2026-09-21T17:31:21.249666+00:00",
+  "updated_at": "2026-09-21T21:03:17.446664+00:00",
   "sources": [
     {
       "source": "Ada Derana",
       "status": "error",
       "message": "403 Client Error: Forbidden for url: https://sinhala.adaderana.lk/",
-      "checked_at": "2026-09-21T17:31:21.249666+00:00"
+      "checked_at": "2026-09-21T21:03:17.446664+00:00"
     },
     {
       "source": "Hiru News",
       "status": "error",
       "message": "403 Client Error: Forbidden for url: https://www.hirunews.lk/",
-      "checked_at": "2026-09-21T17:31:21.249666+00:00"
+      "checked_at": "2026-09-21T21:03:17.446664+00:00"
     },
     {
       "source": "News First",
       "status": "ok",
       "method": "homepage",
-      "new_articles": 31,
+      "new_articles": 0,
       "items_seen": 31,
-      "checked_at": "2026-09-21T17:31:21.249666+00:00"
+      "checked_at": "2026-09-21T21:03:17.446664+00:00"
     },
     {
       "source": "ITN News",
       "status": "error",
       "message": "403 Client Error: Forbidden for url: https://www.itnnews.lk/",
-      "checked_at": "2026-09-21T17:31:21.249666+00:00"
+      "checked_at": "2026-09-21T21:03:17.446664+00:00"
     },
     {
       "source": "Lankadeepa",
-      "status": "ok",
-      "method": "homepage",
-      "new_articles": 80,
-      "items_seen": 89,
-      "checked_at": "2026-09-21T17:31:21.249666+00:00"
+      "status": "error",
+      "message": "HTTPSConnectionPool(host='www.lankadeepa.lk', port=443): Read timed out. (read timeout=22)",
+      "checked_at": "2026-09-21T21:03:17.446664+00:00"
     },
     {
       "source": "Daily Mirror",
@@ -41,23 +39,21 @@
       "method": "rss",
       "new_articles": 0,
       "items_seen": 12,
-      "checked_at": "2026-09-21T17:31:21.249666+00:00"
+      "checked_at": "2026-09-21T21:03:17.446664+00:00"
     },
     {
       "source": "EconomyNext",
-      "status": "ok",
-      "method": "rss",
-      "new_articles": 0,
-      "items_seen": 20,
-      "checked_at": "2026-09-21T17:31:21.249666+00:00"
+      "status": "error",
+      "message": "Feed contains no entries",
+      "checked_at": "2026-09-21T21:03:17.446664+00:00"
     },
     {
       "source": "The Island",
       "status": "ok",
       "method": "rss",
-      "new_articles": 10,
+      "new_articles": 0,
       "items_seen": 10,
-      "checked_at": "2026-09-21T17:31:21.249666+00:00"
+      "checked_at": "2026-09-21T21:03:17.446664+00:00"
     }
   ],
   "article_count": 166,
@@ -69,7 +65,7 @@
       "url": "https://www.dailymirror.lk/international/CNN--MS-NOW-and-Politico-sue-Trump-over-White-House-ban/107-350834",
       "published_at": "2026-09-21T21:39:00+00:00",
       "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
     },
     {
       "id": "ca3225896f69a8dd09046465",
@@ -78,7 +74,7 @@
       "url": "https://www.dailymirror.lk/breaking-news/CSE-slips-below-21-000-as-turnover-falls-to-second-lowest-level-YTD/108-350833",
       "published_at": "2026-09-21T20:49:00+00:00",
       "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
     },
     {
       "id": "33907ce9bac5d42e1d81b605",
@@ -87,7 +83,7 @@
       "url": "https://www.dailymirror.lk/breaking-news/Nimal-Perera-must-face-legal-action-over-bond-scam:-Lawyer/108-350832",
       "published_at": "2026-09-21T20:45:00+00:00",
       "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
     },
     {
       "id": "3aa799601ef11084e23c46d6",
@@ -96,7 +92,7 @@
       "url": "https://www.dailymirror.lk/breaking-news/Ampara-human-elephant-conflict:-14-new-control-units-to-be-established/108-350830",
       "published_at": "2026-09-21T20:02:00+00:00",
       "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
     },
     {
       "id": "01e01de7fd3d3bfeb2c8817d",
@@ -105,7 +101,7 @@
       "url": "https://www.dailymirror.lk/breaking-news/Vijitha-Herath-to-make-special-statement-in-Parliament-on-Sivarasa-Anojan/108-350829",
       "published_at": "2026-09-21T18:59:00+00:00",
       "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
     },
     {
       "id": "029a11ce3172df4d3225cb8c",
@@ -114,7 +110,7 @@
       "url": "https://www.dailymirror.lk/breaking-news/Justice-Mayadunna-Corea-appointed-Acting-President-of-Court-of-Appeal/108-350828",
       "published_at": "2026-09-21T18:33:00+00:00",
       "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
     },
     {
       "id": "ec70ba9c4ecb2ffdb9afc761",
@@ -123,7 +119,7 @@
       "url": "https://www.dailymirror.lk/breaking-news/No-fuel-price-hike-as-government-plans-concession:-Minister/108-350827",
       "published_at": "2026-09-21T18:21:00+00:00",
       "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
     },
     {
       "id": "1a53853f3fb141c5505a80bc",
@@ -132,7 +128,7 @@
       "url": "https://www.dailymirror.lk/breaking-news/Government-to-appeal-to-Saudi-King-for-Anojan’s-pardon/108-350826",
       "published_at": "2026-09-21T18:14:00+00:00",
       "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
     },
     {
       "id": "4921d37767206ad9968bc5a0",
@@ -142,7 +138,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%85%e0%b6%ad%e0%b7%94%e0%b6%bb%e0%b7%94%e0%b6%9c%e0%b7%92%e0%b6%bb%e0%b7%92%e0%b6%ba-%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%af%e0%b7%9a%e0%b7%81%e0%b6%ba%e0%b7%9a",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
       "category": "main",
       "discovery": "homepage"
     },
@@ -154,7 +150,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b7%80%e0%b6%bb%e0%b7%99%e0%b6%b1%e0%b7%8a%e0%b6%ad%e0%b7%94-%e0%b6%bd%e0%b7%90%e0%b6%b6%e0%b7%92%e0%b6%bd%e0%b7%8f-%e0%b6%a7%e0%b7%92%e0%b6%9a-%e0%b7%80",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
       "category": "politics",
       "discovery": "homepage"
     },
@@ -166,7 +162,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b7%80%e0%b7%8f%e0%b7%84%e0%b6%b1-11-%e0%b6%9a%e0%b7%8a-%e0%b6%91%e0%b6%9a%e0%b7%92%e0%b6%b1%e0%b7%99%e0%b6%9a-%e0%b6%9c%e0%b7%90",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
       "category": "main",
       "discovery": "homepage"
     },
@@ -178,7 +174,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%9a%e0%b7%90%e0%b6%bd%e0%b6%ab%e0%b7%92-%e0%b6%9a%e0%b7%85%e0%b7%94-%e0%b6%9c%e0%b7%92%e0%b6%82-%e0%b6%9c%e0%b6%82%e0%b6%9c%e0%b7%8f-%e0%b7%83",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
       "category": "business",
       "discovery": "homepage"
     },
@@ -190,7 +186,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/21/22-%e0%b7%80%e0%b7%90%e0%b6%b1%e0%b7%92-%e0%b7%83%e0%b6%82%e0%b7%81%e0%b7%9d%e0%b6%b0%e0%b6%b1%e0%b6%ba-%e0%b6%b4%e0%b7%92%e0%b7%85%e0%b7%92",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
       "category": "politics",
       "discovery": "homepage"
     },
@@ -202,7 +198,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/21/calin-popular-awards",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
       "category": "main",
       "discovery": "homepage"
     },
@@ -214,7 +210,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%9c%e0%b7%92%e0%b6%82-%e0%b7%83%e0%b7%84-%e0%b6%9a%e0%b7%94%e0%b6%a9%e0%b7%8f-%e0%b6%9c%e0%b6%82%e0%b6%9f%e0%b7%8f%e0%b7%80%e0%b6%bd%e0%b6%a7",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
       "category": "main",
       "discovery": "homepage"
     },
@@ -226,7 +222,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%af%e0%b7%92%e0%b7%83%e0%b7%8a%e0%b6%ad%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%92%e0%b6%9a%e0%b7%8a%e0%b6%9a-6%e0%b6%9a%e0%b6%a7-%e0%b6%b1%e0%b7%8f%e0%b6%ba",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
       "category": "main",
       "discovery": "homepage"
     },
@@ -238,7 +234,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/08/27/%e0%b6%bd%e0%b7%9c%e0%b7%80-%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%ae%e0%b6%b8-%e0%b7%80%e0%b6%ad%e0%b7%8f%e0%b7%80%e0%b6%a7-liv",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
       "category": "main",
       "discovery": "homepage"
     },
@@ -250,7 +246,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/08/08/%e0%b6%91%e0%b6%bd%e0%b7%8a-%e0%b6%b1%e0%b7%92%e0%b6%b1%e0%b7%9d-%e0%b7%84%e0%b7%9a%e0%b6%ad%e0%b7%94%e0%b7%80%e0%b7%99%e0%b6%b1%e0%b7%8a-%e0%b6%b8%e0%b7%99",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
       "category": "main",
       "discovery": "homepage"
     },
@@ -262,7 +258,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/07/27/%e0%b7%83%e0%b7%92%e0%b6%bb%e0%b7%83-%e0%b6%bd%e0%b6%9a%e0%b7%8a%e0%b7%82%e0%b6%b4%e0%b6%ad%e0%b7%92-%e0%b6%b1%e0%b7%90%e0%b7%80%e0%b7%94%e0%b6%b8%e0%b7%8a",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
       "category": "main",
       "discovery": "homepage"
     },
@@ -274,7 +270,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%b8%e0%b7%84%e0%b6%b1%e0%b7%94%e0%b7%80%e0%b6%bb-%e0%b6%af%e0%b7%92%e0%b7%83%e0%b7%8a%e0%b6%ad%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%92%e0%b6%9a%e0%b7%8a%e0%b6%9a%e0%b6%ba",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
       "category": "main",
       "discovery": "homepage"
     },
@@ -286,7 +282,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/20/%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%af%e0%b7%9a%e0%b7%81-%e0%b6%9a%e0%b7%92%e0%b7%84%e0%b7%92%e0%b6%b4%e0%b6%ba%e0%b6%9a%e0%b6%a7-%e0%b6%85%e0%b6%af%e0%b7%92",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
       "category": "main",
       "discovery": "homepage"
     },
@@ -298,7 +294,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/20/%e0%b6%85%e0%b6%af%e0%b6%ad%e0%b7%8a-%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%af%e0%b7%9a%e0%b7%81-%e0%b6%9a%e0%b7%92%e0%b7%84%e0%b7%92%e0%b6%b4%e0%b6%ba%e0%b6%9a",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
       "category": "business",
       "discovery": "homepage"
     },
@@ -310,7 +306,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/20/%e0%b6%86%e0%b7%83%e0%b7%92%e0%b6%ba%e0%b7%8f%e0%b6%b1%e0%b7%94-%e0%b6%9a%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%93%e0%b6%a9%e0%b7%8f-%e0%b6%8b%e0%b7%85%e0%b7%99%e0%b6%bd",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
       "category": "sports",
       "discovery": "homepage"
     },
@@ -322,7 +318,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/19/%e0%b6%a2%e0%b6%b1%e0%b7%8f%e0%b6%b0%e0%b7%92%e0%b6%b4%e0%b6%ad%e0%b7%92-%e0%b6%85%e0%b6%bb%e0%b6%b8%e0%b7%94%e0%b6%af%e0%b6%bd%e0%b7%92%e0%b6%b1%e0%b7%8a-%e0%b7%80",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
       "category": "politics",
       "discovery": "homepage"
     },
@@ -334,7 +330,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/20/%e0%b6%ad%e0%b6%bb%e0%b6%9c-3-0%e0%b6%9a%e0%b7%8a-%e0%b6%bd%e0%b7%99%e0%b7%83-%e0%b7%81%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%93",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
       "category": "sports",
       "discovery": "homepage"
     },
@@ -346,7 +342,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/16/%e0%b6%91%e0%b6%82%e0%b6%9c%e0%b6%bd%e0%b6%b1%e0%b7%8a%e0%b6%ad%e0%b6%ba-%e0%b7%84%e0%b6%b8%e0%b7%94%e0%b7%80%e0%b7%9a-%e0%b7%81%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%93",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
       "category": "sports",
       "discovery": "homepage"
     },
@@ -358,7 +354,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/15/%e0%b6%bb%e0%b7%94%e0%b6%b8%e0%b7%9a%e0%b7%82%e0%b7%8a%e0%b6%9c%e0%b7%9a-%e0%b7%84%e0%b7%99%e0%b6%bd%e0%b7%8a%e0%b6%bd-%e0%b6%9a%e0%b6%a7%e0%b7%8a%e0%b6%a7%e0%b6%bd",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
       "category": "sports",
       "discovery": "homepage"
     },
@@ -370,7 +366,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/14/%e0%b6%86%e0%b7%83%e0%b7%92%e0%b6%ba%e0%b7%8f%e0%b6%b1%e0%b7%94-%e0%b6%9a%e0%b7%94%e0%b7%83%e0%b6%bd%e0%b7%8f%e0%b6%b1-t20-%e0%b6%9a",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
       "category": "sports",
       "discovery": "homepage"
     },
@@ -382,7 +378,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/14/2026-%e0%b7%80%e0%b6%bb%e0%b7%8a%e0%b6%bd%e0%b7%8a%e0%b6%a9%e0%b7%8a-%e0%b6%85%e0%b6%bd%e0%b7%8a%e0%b6%a7%e0%b7%92%e0%b6%b8%e0%b7%9a",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
       "category": "sports",
       "discovery": "homepage"
     },
@@ -394,7 +390,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/19/%e0%b6%bb%e0%b7%94%e0%b7%83%e0%b7%92%e0%b6%ba%e0%b7%8f%e0%b7%80%e0%b7%99%e0%b6%b1%e0%b7%8a-%e0%b6%ad%e0%b7%99%e0%b6%bd%e0%b7%8a-%e0%b7%83%e0%b7%84-%e0%b6%9c",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
       "category": "politics",
       "discovery": "homepage"
     },
@@ -406,7 +402,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/09/%e0%b6%bd%e0%b7%9d%e0%b6%9a-%e0%b7%83%e0%b7%9e%e0%b6%9b%e0%b7%8a%e2%80%8d%e0%b6%ba-%e0%b7%83%e0%b6%82%e0%b7%80%e0%b7%92%e0%b6%b0%e0%b7%8f%e0%b6%b1%e0%b6%ba%e0%b7%99",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
       "category": "world",
       "discovery": "homepage"
     },
@@ -418,7 +414,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/09/%e0%b6%b6%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%92%e0%b6%ad%e0%b7%8f%e0%b6%b1%e0%b7%8a%e2%80%8d%e0%b6%ba%e0%b6%ba%e0%b7%9a-%e0%b6%9c%e0%b7%94%e0%b7%80%e0%b6%b1%e0%b7%8a",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
       "category": "main",
       "discovery": "homepage"
     },
@@ -430,7 +426,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/08/%e0%b6%b1%e0%b7%90%e0%b7%80%e0%b6%ad-%e0%b6%bb%e0%b6%a7-%e0%b6%9c%e0%b7%9c%e0%b6%a9-%e0%b6%b1%e0%b7%90%e0%b6%9c%e0%b7%93%e0%b6%b8%e0%b7%9a-%e0%b6%9c",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
       "category": "main",
       "discovery": "homepage"
     },
@@ -442,7 +438,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/08/%e0%b7%83%e0%b7%9a%e0%b7%80%e0%b6%9a%e0%b6%ba%e0%b7%92%e0%b6%b1%e0%b7%8a-4-000%e0%b6%9a%e0%b7%8a-%e0%b6%89%e0%b7%80%e0%b6%ad",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
       "category": "main",
       "discovery": "homepage"
     },
@@ -454,7 +450,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/10/apple-%e0%b7%83%e0%b6%b8%e0%b7%8f%e0%b6%9c%e0%b6%b8-%e0%b6%8a%e0%b6%ba%e0%b7%9a-%e0%b6%b4%e0%b7%90%e0%b7%80%e0%b6%ad",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
       "category": "main",
       "discovery": "homepage"
     },
@@ -466,7 +462,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/10/%e0%b6%86%e0%b6%bb%e0%b7%8a%e0%b6%ae%e0%b7%92%e0%b6%9a-%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%ad%e0%b7%92%e0%b7%83%e0%b6%82%e0%b7%83%e0%b7%8a%e0%b6%9a%e0%b6%bb%e0%b6%ab",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
       "category": "business",
       "discovery": "homepage"
     },
@@ -478,7 +474,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/08/25/%e0%b6%bd%e0%b7%9d%e0%b6%9a-%e0%b7%80%e0%b7%99%e0%b7%85%e0%b6%b3%e0%b6%b4%e0%b7%9c%e0%b6%bd%e0%b7%9a-%e0%b6%bb%e0%b6%ad%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%b1%e0%b7%8a",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
       "category": "business",
       "discovery": "homepage"
     },
@@ -490,7 +486,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/08/24/%e0%b7%80%e0%b7%83%e0%b6%bb%e0%b7%9a-%e0%b6%b8%e0%b7%9a-%e0%b6%af%e0%b6%9a%e0%b7%8a%e0%b7%80%e0%b7%8f-%e0%b7%83%e0%b6%82%e0%b6%a0%e0%b7%8f%e0%b6%bb%e0%b6%9a",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
       "category": "world",
       "discovery": "homepage"
     },
@@ -502,7 +498,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/08/19/meta-%e0%b7%83%e0%b6%b8%e0%b7%8f%e0%b6%9c%e0%b6%b8%e0%b6%a7-%e0%b6%91%e0%b6%bb%e0%b7%99%e0%b7%84%e0%b7%92%e0%b7%80-%e0%b6%a9",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
       "category": "business",
       "discovery": "homepage"
     },
@@ -1473,7 +1469,7 @@
       "url": "https://www.dailymirror.lk/breaking-news/Multi-day-fishing-vessels-urged-to-leave-Andaman-sea-areas-amid-rough-weather/108-350823",
       "published_at": "2026-09-21T17:29:00+00:00",
       "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
     },
     {
       "id": "5a0fedaf9bfcd0c7b3cc4c7e",
@@ -1482,7 +1478,7 @@
       "url": "https://www.dailymirror.lk/breaking-news/Landslide-red-warnings-issued-for-six-districts/108-350821",
       "published_at": "2026-09-21T16:43:00+00:00",
       "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
     },
     {
       "id": "fa14924564bf4dab7c3ea537",
@@ -1491,7 +1487,7 @@
       "url": "https://www.dailymirror.lk/breaking-news/Low-pressure-system-to-intensify;-rainy-weather-to-continue/108-350820",
       "published_at": "2026-09-21T16:30:00+00:00",
       "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
     },
     {
       "id": "2642d7cc79fa57d5bb3f20d6",
@@ -1501,7 +1497,7 @@
       "url": "http://island.lk/viyasa-national-business-facilitation-centre-nbfc-to-be-opened-tomorrow-22",
       "published_at": "2026-09-21T16:30:00+00:00",
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
       "category": "business",
       "discovery": "rss"
     },
@@ -1513,7 +1509,7 @@
       "url": "http://island.lk/court-of-appeal-judge-m-sri-mevan-anthony-edirimannasuriya-corea-appointed-as-acting-president-of-the-court-of-appeal",
       "published_at": "2026-09-21T16:26:03+00:00",
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
       "category": "politics",
       "discovery": "rss"
     },
@@ -1525,7 +1521,7 @@
       "url": "http://island.lk/president-instructs-expediting-further-measures-concerning-sivarasa-anojan-sentenced-to-death-in-saudi-arabia",
       "published_at": "2026-09-21T16:22:09+00:00",
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
       "category": "politics",
       "discovery": "rss"
     },
@@ -1537,7 +1533,7 @@
       "url": "http://island.lk/its-shafali-vs-athapaththu-as-sri-lanka-seek-to-stop-india-juggernaut",
       "published_at": "2026-09-21T16:17:17+00:00",
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
       "category": "world",
       "discovery": "rss"
     },
@@ -1548,7 +1544,7 @@
       "url": "https://www.dailymirror.lk/breaking-news/One-dead--seven-injured-following-wasp-attack-in-Lindula/108-350814",
       "published_at": "2026-09-21T15:27:00+00:00",
       "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
     },
     {
       "id": "49e7705959db968f14cdd691",
@@ -1747,7 +1743,7 @@
       "url": "http://island.lk/trophy-row-unlikely-to-repeat-in-japan",
       "published_at": "2026-09-21T04:29:07+00:00",
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
       "category": "main",
       "discovery": "rss"
     },
@@ -1759,7 +1755,7 @@
       "url": "http://island.lk/powerful-explosions-at-syrian-army-site-near-aleppo-injure-at-least-four",
       "published_at": "2026-09-21T04:14:34+00:00",
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
       "category": "main",
       "discovery": "rss"
     },
@@ -1771,7 +1767,7 @@
       "url": "http://island.lk/government-committed-to-ensuring-the-rights-of-children-with-disabilities-and-providing-equal-opportunities-pm",
       "published_at": "2026-09-21T03:56:49+00:00",
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
       "category": "politics",
       "discovery": "rss"
     },
@@ -1783,7 +1779,7 @@
       "url": "http://island.lk/ellis-and-inglis-break-zimbabwe-hearts-to-secure-one-wicket-thriller",
       "published_at": "2026-09-21T03:47:58+00:00",
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
       "category": "main",
       "discovery": "rss"
     },
@@ -1795,7 +1791,7 @@
       "url": "http://island.lk/kenyas-ngetich-breaks-women-only-half-marathon-world-record-by-a-second",
       "published_at": "2026-09-21T00:37:39+00:00",
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
       "category": "world",
       "discovery": "rss"
     },
@@ -1807,7 +1803,7 @@
       "url": "http://island.lk/showers-about-100-mm-are-likely-at-times-in-the-western-sabaragamuwa-and-north-western-provinces-and-in-galle-matara-kandy-and-nuwara-eliya-districts",
       "published_at": "2026-09-21T00:30:50+00:00",
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+      "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
       "category": "main",
       "discovery": "rss"
     },
@@ -1932,7 +1928,7 @@
         "url": "https://www.dailymirror.lk/international/CNN--MS-NOW-and-Politico-sue-Trump-over-White-House-ban/107-350834",
         "published_at": "2026-09-21T21:39:00+00:00",
         "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
       },
       "first_detected": {
         "id": "ae2fa4993ffb81dcf8d78f64",
@@ -1941,7 +1937,7 @@
         "url": "https://www.dailymirror.lk/international/CNN--MS-NOW-and-Politico-sue-Trump-over-White-House-ban/107-350834",
         "published_at": "2026-09-21T21:39:00+00:00",
         "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
       },
       "earliest_at": "2026-09-21T21:39:00+00:00",
       "latest_at": "2026-09-21T21:39:00+00:00",
@@ -1953,7 +1949,7 @@
           "url": "https://www.dailymirror.lk/international/CNN--MS-NOW-and-Politico-sue-Trump-over-White-House-ban/107-350834",
           "published_at": "2026-09-21T21:39:00+00:00",
           "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
         }
       ]
     },
@@ -1968,7 +1964,7 @@
         "url": "https://www.dailymirror.lk/breaking-news/CSE-slips-below-21-000-as-turnover-falls-to-second-lowest-level-YTD/108-350833",
         "published_at": "2026-09-21T20:49:00+00:00",
         "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
       },
       "first_detected": {
         "id": "ca3225896f69a8dd09046465",
@@ -1977,7 +1973,7 @@
         "url": "https://www.dailymirror.lk/breaking-news/CSE-slips-below-21-000-as-turnover-falls-to-second-lowest-level-YTD/108-350833",
         "published_at": "2026-09-21T20:49:00+00:00",
         "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
       },
       "earliest_at": "2026-09-21T20:49:00+00:00",
       "latest_at": "2026-09-21T20:49:00+00:00",
@@ -1989,7 +1985,7 @@
           "url": "https://www.dailymirror.lk/breaking-news/CSE-slips-below-21-000-as-turnover-falls-to-second-lowest-level-YTD/108-350833",
           "published_at": "2026-09-21T20:49:00+00:00",
           "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
         }
       ]
     },
@@ -2004,7 +2000,7 @@
         "url": "https://www.dailymirror.lk/breaking-news/Nimal-Perera-must-face-legal-action-over-bond-scam:-Lawyer/108-350832",
         "published_at": "2026-09-21T20:45:00+00:00",
         "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
       },
       "first_detected": {
         "id": "33907ce9bac5d42e1d81b605",
@@ -2013,7 +2009,7 @@
         "url": "https://www.dailymirror.lk/breaking-news/Nimal-Perera-must-face-legal-action-over-bond-scam:-Lawyer/108-350832",
         "published_at": "2026-09-21T20:45:00+00:00",
         "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
       },
       "earliest_at": "2026-09-21T20:45:00+00:00",
       "latest_at": "2026-09-21T20:45:00+00:00",
@@ -2025,7 +2021,7 @@
           "url": "https://www.dailymirror.lk/breaking-news/Nimal-Perera-must-face-legal-action-over-bond-scam:-Lawyer/108-350832",
           "published_at": "2026-09-21T20:45:00+00:00",
           "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
         }
       ]
     },
@@ -2040,7 +2036,7 @@
         "url": "https://www.dailymirror.lk/breaking-news/Ampara-human-elephant-conflict:-14-new-control-units-to-be-established/108-350830",
         "published_at": "2026-09-21T20:02:00+00:00",
         "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
       },
       "first_detected": {
         "id": "3aa799601ef11084e23c46d6",
@@ -2049,7 +2045,7 @@
         "url": "https://www.dailymirror.lk/breaking-news/Ampara-human-elephant-conflict:-14-new-control-units-to-be-established/108-350830",
         "published_at": "2026-09-21T20:02:00+00:00",
         "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
       },
       "earliest_at": "2026-09-21T20:02:00+00:00",
       "latest_at": "2026-09-21T20:02:00+00:00",
@@ -2061,7 +2057,7 @@
           "url": "https://www.dailymirror.lk/breaking-news/Ampara-human-elephant-conflict:-14-new-control-units-to-be-established/108-350830",
           "published_at": "2026-09-21T20:02:00+00:00",
           "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
         }
       ]
     },
@@ -2076,7 +2072,7 @@
         "url": "https://www.dailymirror.lk/breaking-news/Vijitha-Herath-to-make-special-statement-in-Parliament-on-Sivarasa-Anojan/108-350829",
         "published_at": "2026-09-21T18:59:00+00:00",
         "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
       },
       "first_detected": {
         "id": "01e01de7fd3d3bfeb2c8817d",
@@ -2085,7 +2081,7 @@
         "url": "https://www.dailymirror.lk/breaking-news/Vijitha-Herath-to-make-special-statement-in-Parliament-on-Sivarasa-Anojan/108-350829",
         "published_at": "2026-09-21T18:59:00+00:00",
         "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
       },
       "earliest_at": "2026-09-21T18:59:00+00:00",
       "latest_at": "2026-09-21T18:59:00+00:00",
@@ -2097,7 +2093,7 @@
           "url": "https://www.dailymirror.lk/breaking-news/Vijitha-Herath-to-make-special-statement-in-Parliament-on-Sivarasa-Anojan/108-350829",
           "published_at": "2026-09-21T18:59:00+00:00",
           "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
         }
       ]
     },
@@ -2113,7 +2109,7 @@
         "url": "http://island.lk/court-of-appeal-judge-m-sri-mevan-anthony-edirimannasuriya-corea-appointed-as-acting-president-of-the-court-of-appeal",
         "published_at": "2026-09-21T16:26:03+00:00",
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "politics",
         "discovery": "rss"
       },
@@ -2124,7 +2120,7 @@
         "url": "https://www.dailymirror.lk/breaking-news/Justice-Mayadunna-Corea-appointed-Acting-President-of-Court-of-Appeal/108-350828",
         "published_at": "2026-09-21T18:33:00+00:00",
         "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
       },
       "earliest_at": "2026-09-21T16:26:03+00:00",
       "latest_at": "2026-09-21T18:33:00+00:00",
@@ -2137,7 +2133,7 @@
           "url": "http://island.lk/court-of-appeal-judge-m-sri-mevan-anthony-edirimannasuriya-corea-appointed-as-acting-president-of-the-court-of-appeal",
           "published_at": "2026-09-21T16:26:03+00:00",
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
           "category": "politics",
           "discovery": "rss"
         },
@@ -2148,7 +2144,7 @@
           "url": "https://www.dailymirror.lk/breaking-news/Justice-Mayadunna-Corea-appointed-Acting-President-of-Court-of-Appeal/108-350828",
           "published_at": "2026-09-21T18:33:00+00:00",
           "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
         }
       ]
     },
@@ -2163,7 +2159,7 @@
         "url": "https://www.dailymirror.lk/breaking-news/No-fuel-price-hike-as-government-plans-concession:-Minister/108-350827",
         "published_at": "2026-09-21T18:21:00+00:00",
         "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
       },
       "first_detected": {
         "id": "ec70ba9c4ecb2ffdb9afc761",
@@ -2172,7 +2168,7 @@
         "url": "https://www.dailymirror.lk/breaking-news/No-fuel-price-hike-as-government-plans-concession:-Minister/108-350827",
         "published_at": "2026-09-21T18:21:00+00:00",
         "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
       },
       "earliest_at": "2026-09-21T18:21:00+00:00",
       "latest_at": "2026-09-21T18:21:00+00:00",
@@ -2184,7 +2180,7 @@
           "url": "https://www.dailymirror.lk/breaking-news/No-fuel-price-hike-as-government-plans-concession:-Minister/108-350827",
           "published_at": "2026-09-21T18:21:00+00:00",
           "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
         }
       ]
     },
@@ -2199,7 +2195,7 @@
         "url": "https://www.dailymirror.lk/breaking-news/Government-to-appeal-to-Saudi-King-for-Anojan’s-pardon/108-350826",
         "published_at": "2026-09-21T18:14:00+00:00",
         "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
       },
       "first_detected": {
         "id": "1a53853f3fb141c5505a80bc",
@@ -2208,7 +2204,7 @@
         "url": "https://www.dailymirror.lk/breaking-news/Government-to-appeal-to-Saudi-King-for-Anojan’s-pardon/108-350826",
         "published_at": "2026-09-21T18:14:00+00:00",
         "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
       },
       "earliest_at": "2026-09-21T18:14:00+00:00",
       "latest_at": "2026-09-21T18:14:00+00:00",
@@ -2220,7 +2216,7 @@
           "url": "https://www.dailymirror.lk/breaking-news/Government-to-appeal-to-Saudi-King-for-Anojan’s-pardon/108-350826",
           "published_at": "2026-09-21T18:14:00+00:00",
           "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
         }
       ]
     },
@@ -2236,7 +2232,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%85%e0%b6%ad%e0%b7%94%e0%b6%bb%e0%b7%94%e0%b6%9c%e0%b7%92%e0%b6%bb%e0%b7%92%e0%b6%ba-%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%af%e0%b7%9a%e0%b7%81%e0%b6%ba%e0%b7%9a",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -2248,7 +2244,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%85%e0%b6%ad%e0%b7%94%e0%b6%bb%e0%b7%94%e0%b6%9c%e0%b7%92%e0%b6%bb%e0%b7%92%e0%b6%ba-%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%af%e0%b7%9a%e0%b7%81%e0%b6%ba%e0%b7%9a",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -2263,7 +2259,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%85%e0%b6%ad%e0%b7%94%e0%b6%bb%e0%b7%94%e0%b6%9c%e0%b7%92%e0%b6%bb%e0%b7%92%e0%b6%ba-%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%af%e0%b7%9a%e0%b7%81%e0%b6%ba%e0%b7%9a",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
           "category": "main",
           "discovery": "homepage"
         }
@@ -2281,7 +2277,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b7%80%e0%b6%bb%e0%b7%99%e0%b6%b1%e0%b7%8a%e0%b6%ad%e0%b7%94-%e0%b6%bd%e0%b7%90%e0%b6%b6%e0%b7%92%e0%b6%bd%e0%b7%8f-%e0%b6%a7%e0%b7%92%e0%b6%9a-%e0%b7%80",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "politics",
         "discovery": "homepage"
       },
@@ -2293,7 +2289,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b7%80%e0%b6%bb%e0%b7%99%e0%b6%b1%e0%b7%8a%e0%b6%ad%e0%b7%94-%e0%b6%bd%e0%b7%90%e0%b6%b6%e0%b7%92%e0%b6%bd%e0%b7%8f-%e0%b6%a7%e0%b7%92%e0%b6%9a-%e0%b7%80",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "politics",
         "discovery": "homepage"
       },
@@ -2308,7 +2304,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b7%80%e0%b6%bb%e0%b7%99%e0%b6%b1%e0%b7%8a%e0%b6%ad%e0%b7%94-%e0%b6%bd%e0%b7%90%e0%b6%b6%e0%b7%92%e0%b6%bd%e0%b7%8f-%e0%b6%a7%e0%b7%92%e0%b6%9a-%e0%b7%80",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
           "category": "politics",
           "discovery": "homepage"
         }
@@ -2326,7 +2322,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b7%80%e0%b7%8f%e0%b7%84%e0%b6%b1-11-%e0%b6%9a%e0%b7%8a-%e0%b6%91%e0%b6%9a%e0%b7%92%e0%b6%b1%e0%b7%99%e0%b6%9a-%e0%b6%9c%e0%b7%90",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -2338,7 +2334,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b7%80%e0%b7%8f%e0%b7%84%e0%b6%b1-11-%e0%b6%9a%e0%b7%8a-%e0%b6%91%e0%b6%9a%e0%b7%92%e0%b6%b1%e0%b7%99%e0%b6%9a-%e0%b6%9c%e0%b7%90",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -2353,7 +2349,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b7%80%e0%b7%8f%e0%b7%84%e0%b6%b1-11-%e0%b6%9a%e0%b7%8a-%e0%b6%91%e0%b6%9a%e0%b7%92%e0%b6%b1%e0%b7%99%e0%b6%9a-%e0%b6%9c%e0%b7%90",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
           "category": "main",
           "discovery": "homepage"
         }
@@ -2371,7 +2367,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%9a%e0%b7%90%e0%b6%bd%e0%b6%ab%e0%b7%92-%e0%b6%9a%e0%b7%85%e0%b7%94-%e0%b6%9c%e0%b7%92%e0%b6%82-%e0%b6%9c%e0%b6%82%e0%b6%9c%e0%b7%8f-%e0%b7%83",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "business",
         "discovery": "homepage"
       },
@@ -2383,7 +2379,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%9a%e0%b7%90%e0%b6%bd%e0%b6%ab%e0%b7%92-%e0%b6%9a%e0%b7%85%e0%b7%94-%e0%b6%9c%e0%b7%92%e0%b6%82-%e0%b6%9c%e0%b6%82%e0%b6%9c%e0%b7%8f-%e0%b7%83",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "business",
         "discovery": "homepage"
       },
@@ -2398,7 +2394,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%9a%e0%b7%90%e0%b6%bd%e0%b6%ab%e0%b7%92-%e0%b6%9a%e0%b7%85%e0%b7%94-%e0%b6%9c%e0%b7%92%e0%b6%82-%e0%b6%9c%e0%b6%82%e0%b6%9c%e0%b7%8f-%e0%b7%83",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
           "category": "business",
           "discovery": "homepage"
         }
@@ -2416,7 +2412,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/21/22-%e0%b7%80%e0%b7%90%e0%b6%b1%e0%b7%92-%e0%b7%83%e0%b6%82%e0%b7%81%e0%b7%9d%e0%b6%b0%e0%b6%b1%e0%b6%ba-%e0%b6%b4%e0%b7%92%e0%b7%85%e0%b7%92",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "politics",
         "discovery": "homepage"
       },
@@ -2428,7 +2424,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/21/22-%e0%b7%80%e0%b7%90%e0%b6%b1%e0%b7%92-%e0%b7%83%e0%b6%82%e0%b7%81%e0%b7%9d%e0%b6%b0%e0%b6%b1%e0%b6%ba-%e0%b6%b4%e0%b7%92%e0%b7%85%e0%b7%92",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "politics",
         "discovery": "homepage"
       },
@@ -2443,7 +2439,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/21/22-%e0%b7%80%e0%b7%90%e0%b6%b1%e0%b7%92-%e0%b7%83%e0%b6%82%e0%b7%81%e0%b7%9d%e0%b6%b0%e0%b6%b1%e0%b6%ba-%e0%b6%b4%e0%b7%92%e0%b7%85%e0%b7%92",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
           "category": "politics",
           "discovery": "homepage"
         }
@@ -2461,7 +2457,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/21/calin-popular-awards",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -2473,7 +2469,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/21/calin-popular-awards",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -2488,7 +2484,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/21/calin-popular-awards",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
           "category": "main",
           "discovery": "homepage"
         }
@@ -2506,7 +2502,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%9c%e0%b7%92%e0%b6%82-%e0%b7%83%e0%b7%84-%e0%b6%9a%e0%b7%94%e0%b6%a9%e0%b7%8f-%e0%b6%9c%e0%b6%82%e0%b6%9f%e0%b7%8f%e0%b7%80%e0%b6%bd%e0%b6%a7",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -2518,7 +2514,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%9c%e0%b7%92%e0%b6%82-%e0%b7%83%e0%b7%84-%e0%b6%9a%e0%b7%94%e0%b6%a9%e0%b7%8f-%e0%b6%9c%e0%b6%82%e0%b6%9f%e0%b7%8f%e0%b7%80%e0%b6%bd%e0%b6%a7",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -2533,7 +2529,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%9c%e0%b7%92%e0%b6%82-%e0%b7%83%e0%b7%84-%e0%b6%9a%e0%b7%94%e0%b6%a9%e0%b7%8f-%e0%b6%9c%e0%b6%82%e0%b6%9f%e0%b7%8f%e0%b7%80%e0%b6%bd%e0%b6%a7",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
           "category": "main",
           "discovery": "homepage"
         },
@@ -2545,7 +2541,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/20/%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%af%e0%b7%9a%e0%b7%81-%e0%b6%9a%e0%b7%92%e0%b7%84%e0%b7%92%e0%b6%b4%e0%b6%ba%e0%b6%9a%e0%b6%a7-%e0%b6%85%e0%b6%af%e0%b7%92",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
           "category": "main",
           "discovery": "homepage"
         }
@@ -2563,7 +2559,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%af%e0%b7%92%e0%b7%83%e0%b7%8a%e0%b6%ad%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%92%e0%b6%9a%e0%b7%8a%e0%b6%9a-6%e0%b6%9a%e0%b6%a7-%e0%b6%b1%e0%b7%8f%e0%b6%ba",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -2575,7 +2571,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%af%e0%b7%92%e0%b7%83%e0%b7%8a%e0%b6%ad%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%92%e0%b6%9a%e0%b7%8a%e0%b6%9a-6%e0%b6%9a%e0%b6%a7-%e0%b6%b1%e0%b7%8f%e0%b6%ba",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -2590,7 +2586,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%af%e0%b7%92%e0%b7%83%e0%b7%8a%e0%b6%ad%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%92%e0%b6%9a%e0%b7%8a%e0%b6%9a-6%e0%b6%9a%e0%b6%a7-%e0%b6%b1%e0%b7%8f%e0%b6%ba",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
           "category": "main",
           "discovery": "homepage"
         },
@@ -2620,7 +2616,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/08/27/%e0%b6%bd%e0%b7%9c%e0%b7%80-%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%ae%e0%b6%b8-%e0%b7%80%e0%b6%ad%e0%b7%8f%e0%b7%80%e0%b6%a7-liv",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -2632,7 +2628,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/08/27/%e0%b6%bd%e0%b7%9c%e0%b7%80-%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%ae%e0%b6%b8-%e0%b7%80%e0%b6%ad%e0%b7%8f%e0%b7%80%e0%b6%a7-liv",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -2647,7 +2643,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/08/27/%e0%b6%bd%e0%b7%9c%e0%b7%80-%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%ae%e0%b6%b8-%e0%b7%80%e0%b6%ad%e0%b7%8f%e0%b7%80%e0%b6%a7-liv",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
           "category": "main",
           "discovery": "homepage"
         },
@@ -2659,7 +2655,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/14/2026-%e0%b7%80%e0%b6%bb%e0%b7%8a%e0%b6%bd%e0%b7%8a%e0%b6%a9%e0%b7%8a-%e0%b6%85%e0%b6%bd%e0%b7%8a%e0%b6%a7%e0%b7%92%e0%b6%b8%e0%b7%9a",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
           "category": "sports",
           "discovery": "homepage"
         }
@@ -2677,7 +2673,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/08/08/%e0%b6%91%e0%b6%bd%e0%b7%8a-%e0%b6%b1%e0%b7%92%e0%b6%b1%e0%b7%9d-%e0%b7%84%e0%b7%9a%e0%b6%ad%e0%b7%94%e0%b7%80%e0%b7%99%e0%b6%b1%e0%b7%8a-%e0%b6%b8%e0%b7%99",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -2689,7 +2685,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/08/08/%e0%b6%91%e0%b6%bd%e0%b7%8a-%e0%b6%b1%e0%b7%92%e0%b6%b1%e0%b7%9d-%e0%b7%84%e0%b7%9a%e0%b6%ad%e0%b7%94%e0%b7%80%e0%b7%99%e0%b6%b1%e0%b7%8a-%e0%b6%b8%e0%b7%99",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -2704,7 +2700,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/08/08/%e0%b6%91%e0%b6%bd%e0%b7%8a-%e0%b6%b1%e0%b7%92%e0%b6%b1%e0%b7%9d-%e0%b7%84%e0%b7%9a%e0%b6%ad%e0%b7%94%e0%b7%80%e0%b7%99%e0%b6%b1%e0%b7%8a-%e0%b6%b8%e0%b7%99",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
           "category": "main",
           "discovery": "homepage"
         }
@@ -2722,7 +2718,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/07/27/%e0%b7%83%e0%b7%92%e0%b6%bb%e0%b7%83-%e0%b6%bd%e0%b6%9a%e0%b7%8a%e0%b7%82%e0%b6%b4%e0%b6%ad%e0%b7%92-%e0%b6%b1%e0%b7%90%e0%b7%80%e0%b7%94%e0%b6%b8%e0%b7%8a",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -2734,7 +2730,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/07/27/%e0%b7%83%e0%b7%92%e0%b6%bb%e0%b7%83-%e0%b6%bd%e0%b6%9a%e0%b7%8a%e0%b7%82%e0%b6%b4%e0%b6%ad%e0%b7%92-%e0%b6%b1%e0%b7%90%e0%b7%80%e0%b7%94%e0%b6%b8%e0%b7%8a",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -2749,7 +2745,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/07/27/%e0%b7%83%e0%b7%92%e0%b6%bb%e0%b7%83-%e0%b6%bd%e0%b6%9a%e0%b7%8a%e0%b7%82%e0%b6%b4%e0%b6%ad%e0%b7%92-%e0%b6%b1%e0%b7%90%e0%b7%80%e0%b7%94%e0%b6%b8%e0%b7%8a",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
           "category": "main",
           "discovery": "homepage"
         }
@@ -2767,7 +2763,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%b8%e0%b7%84%e0%b6%b1%e0%b7%94%e0%b7%80%e0%b6%bb-%e0%b6%af%e0%b7%92%e0%b7%83%e0%b7%8a%e0%b6%ad%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%92%e0%b6%9a%e0%b7%8a%e0%b6%9a%e0%b6%ba",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -2779,7 +2775,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%b8%e0%b7%84%e0%b6%b1%e0%b7%94%e0%b7%80%e0%b6%bb-%e0%b6%af%e0%b7%92%e0%b7%83%e0%b7%8a%e0%b6%ad%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%92%e0%b6%9a%e0%b7%8a%e0%b6%9a%e0%b6%ba",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -2794,7 +2790,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%b8%e0%b7%84%e0%b6%b1%e0%b7%94%e0%b7%80%e0%b6%bb-%e0%b6%af%e0%b7%92%e0%b7%83%e0%b7%8a%e0%b6%ad%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%92%e0%b6%9a%e0%b7%8a%e0%b6%9a%e0%b6%ba",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
           "category": "main",
           "discovery": "homepage"
         }
@@ -2812,7 +2808,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/20/%e0%b6%85%e0%b6%af%e0%b6%ad%e0%b7%8a-%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%af%e0%b7%9a%e0%b7%81-%e0%b6%9a%e0%b7%92%e0%b7%84%e0%b7%92%e0%b6%b4%e0%b6%ba%e0%b6%9a",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "business",
         "discovery": "homepage"
       },
@@ -2824,7 +2820,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/20/%e0%b6%85%e0%b6%af%e0%b6%ad%e0%b7%8a-%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%af%e0%b7%9a%e0%b7%81-%e0%b6%9a%e0%b7%92%e0%b7%84%e0%b7%92%e0%b6%b4%e0%b6%ba%e0%b6%9a",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "business",
         "discovery": "homepage"
       },
@@ -2839,7 +2835,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/20/%e0%b6%85%e0%b6%af%e0%b6%ad%e0%b7%8a-%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%af%e0%b7%9a%e0%b7%81-%e0%b6%9a%e0%b7%92%e0%b7%84%e0%b7%92%e0%b6%b4%e0%b6%ba%e0%b6%9a",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
           "category": "business",
           "discovery": "homepage"
         }
@@ -2857,7 +2853,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/20/%e0%b6%86%e0%b7%83%e0%b7%92%e0%b6%ba%e0%b7%8f%e0%b6%b1%e0%b7%94-%e0%b6%9a%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%93%e0%b6%a9%e0%b7%8f-%e0%b6%8b%e0%b7%85%e0%b7%99%e0%b6%bd",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "sports",
         "discovery": "homepage"
       },
@@ -2869,7 +2865,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/20/%e0%b6%86%e0%b7%83%e0%b7%92%e0%b6%ba%e0%b7%8f%e0%b6%b1%e0%b7%94-%e0%b6%9a%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%93%e0%b6%a9%e0%b7%8f-%e0%b6%8b%e0%b7%85%e0%b7%99%e0%b6%bd",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "sports",
         "discovery": "homepage"
       },
@@ -2884,7 +2880,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/20/%e0%b6%86%e0%b7%83%e0%b7%92%e0%b6%ba%e0%b7%8f%e0%b6%b1%e0%b7%94-%e0%b6%9a%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%93%e0%b6%a9%e0%b7%8f-%e0%b6%8b%e0%b7%85%e0%b7%99%e0%b6%bd",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
           "category": "sports",
           "discovery": "homepage"
         }
@@ -2902,7 +2898,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/19/%e0%b6%a2%e0%b6%b1%e0%b7%8f%e0%b6%b0%e0%b7%92%e0%b6%b4%e0%b6%ad%e0%b7%92-%e0%b6%85%e0%b6%bb%e0%b6%b8%e0%b7%94%e0%b6%af%e0%b6%bd%e0%b7%92%e0%b6%b1%e0%b7%8a-%e0%b7%80",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "politics",
         "discovery": "homepage"
       },
@@ -2914,7 +2910,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/19/%e0%b6%a2%e0%b6%b1%e0%b7%8f%e0%b6%b0%e0%b7%92%e0%b6%b4%e0%b6%ad%e0%b7%92-%e0%b6%85%e0%b6%bb%e0%b6%b8%e0%b7%94%e0%b6%af%e0%b6%bd%e0%b7%92%e0%b6%b1%e0%b7%8a-%e0%b7%80",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "politics",
         "discovery": "homepage"
       },
@@ -2929,7 +2925,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/19/%e0%b6%a2%e0%b6%b1%e0%b7%8f%e0%b6%b0%e0%b7%92%e0%b6%b4%e0%b6%ad%e0%b7%92-%e0%b6%85%e0%b6%bb%e0%b6%b8%e0%b7%94%e0%b6%af%e0%b6%bd%e0%b7%92%e0%b6%b1%e0%b7%8a-%e0%b7%80",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
           "category": "politics",
           "discovery": "homepage"
         }
@@ -2947,7 +2943,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/20/%e0%b6%ad%e0%b6%bb%e0%b6%9c-3-0%e0%b6%9a%e0%b7%8a-%e0%b6%bd%e0%b7%99%e0%b7%83-%e0%b7%81%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%93",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "sports",
         "discovery": "homepage"
       },
@@ -2959,7 +2955,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/20/%e0%b6%ad%e0%b6%bb%e0%b6%9c-3-0%e0%b6%9a%e0%b7%8a-%e0%b6%bd%e0%b7%99%e0%b7%83-%e0%b7%81%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%93",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "sports",
         "discovery": "homepage"
       },
@@ -2974,7 +2970,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/20/%e0%b6%ad%e0%b6%bb%e0%b6%9c-3-0%e0%b6%9a%e0%b7%8a-%e0%b6%bd%e0%b7%99%e0%b7%83-%e0%b7%81%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%93",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
           "category": "sports",
           "discovery": "homepage"
         },
@@ -2986,7 +2982,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/16/%e0%b6%91%e0%b6%82%e0%b6%9c%e0%b6%bd%e0%b6%b1%e0%b7%8a%e0%b6%ad%e0%b6%ba-%e0%b7%84%e0%b6%b8%e0%b7%94%e0%b7%80%e0%b7%9a-%e0%b7%81%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%93",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
           "category": "sports",
           "discovery": "homepage"
         },
@@ -2998,7 +2994,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/14/%e0%b6%86%e0%b7%83%e0%b7%92%e0%b6%ba%e0%b7%8f%e0%b6%b1%e0%b7%94-%e0%b6%9a%e0%b7%94%e0%b7%83%e0%b6%bd%e0%b7%8f%e0%b6%b1-t20-%e0%b6%9a",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
           "category": "sports",
           "discovery": "homepage"
         },
@@ -3028,7 +3024,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/15/%e0%b6%bb%e0%b7%94%e0%b6%b8%e0%b7%9a%e0%b7%82%e0%b7%8a%e0%b6%9c%e0%b7%9a-%e0%b7%84%e0%b7%99%e0%b6%bd%e0%b7%8a%e0%b6%bd-%e0%b6%9a%e0%b6%a7%e0%b7%8a%e0%b6%a7%e0%b6%bd",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "sports",
         "discovery": "homepage"
       },
@@ -3040,7 +3036,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/15/%e0%b6%bb%e0%b7%94%e0%b6%b8%e0%b7%9a%e0%b7%82%e0%b7%8a%e0%b6%9c%e0%b7%9a-%e0%b7%84%e0%b7%99%e0%b6%bd%e0%b7%8a%e0%b6%bd-%e0%b6%9a%e0%b6%a7%e0%b7%8a%e0%b6%a7%e0%b6%bd",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "sports",
         "discovery": "homepage"
       },
@@ -3055,7 +3051,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/15/%e0%b6%bb%e0%b7%94%e0%b6%b8%e0%b7%9a%e0%b7%82%e0%b7%8a%e0%b6%9c%e0%b7%9a-%e0%b7%84%e0%b7%99%e0%b6%bd%e0%b7%8a%e0%b6%bd-%e0%b6%9a%e0%b6%a7%e0%b7%8a%e0%b6%a7%e0%b6%bd",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
           "category": "sports",
           "discovery": "homepage"
         }
@@ -3073,7 +3069,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/19/%e0%b6%bb%e0%b7%94%e0%b7%83%e0%b7%92%e0%b6%ba%e0%b7%8f%e0%b7%80%e0%b7%99%e0%b6%b1%e0%b7%8a-%e0%b6%ad%e0%b7%99%e0%b6%bd%e0%b7%8a-%e0%b7%83%e0%b7%84-%e0%b6%9c",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "politics",
         "discovery": "homepage"
       },
@@ -3085,7 +3081,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/19/%e0%b6%bb%e0%b7%94%e0%b7%83%e0%b7%92%e0%b6%ba%e0%b7%8f%e0%b7%80%e0%b7%99%e0%b6%b1%e0%b7%8a-%e0%b6%ad%e0%b7%99%e0%b6%bd%e0%b7%8a-%e0%b7%83%e0%b7%84-%e0%b6%9c",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "politics",
         "discovery": "homepage"
       },
@@ -3100,7 +3096,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/19/%e0%b6%bb%e0%b7%94%e0%b7%83%e0%b7%92%e0%b6%ba%e0%b7%8f%e0%b7%80%e0%b7%99%e0%b6%b1%e0%b7%8a-%e0%b6%ad%e0%b7%99%e0%b6%bd%e0%b7%8a-%e0%b7%83%e0%b7%84-%e0%b6%9c",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
           "category": "politics",
           "discovery": "homepage"
         }
@@ -3118,7 +3114,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/09/%e0%b6%bd%e0%b7%9d%e0%b6%9a-%e0%b7%83%e0%b7%9e%e0%b6%9b%e0%b7%8a%e2%80%8d%e0%b6%ba-%e0%b7%83%e0%b6%82%e0%b7%80%e0%b7%92%e0%b6%b0%e0%b7%8f%e0%b6%b1%e0%b6%ba%e0%b7%99",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "world",
         "discovery": "homepage"
       },
@@ -3130,7 +3126,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/09/%e0%b6%bd%e0%b7%9d%e0%b6%9a-%e0%b7%83%e0%b7%9e%e0%b6%9b%e0%b7%8a%e2%80%8d%e0%b6%ba-%e0%b7%83%e0%b6%82%e0%b7%80%e0%b7%92%e0%b6%b0%e0%b7%8f%e0%b6%b1%e0%b6%ba%e0%b7%99",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "world",
         "discovery": "homepage"
       },
@@ -3145,7 +3141,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/09/%e0%b6%bd%e0%b7%9d%e0%b6%9a-%e0%b7%83%e0%b7%9e%e0%b6%9b%e0%b7%8a%e2%80%8d%e0%b6%ba-%e0%b7%83%e0%b6%82%e0%b7%80%e0%b7%92%e0%b6%b0%e0%b7%8f%e0%b6%b1%e0%b6%ba%e0%b7%99",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
           "category": "world",
           "discovery": "homepage"
         }
@@ -3163,7 +3159,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/09/%e0%b6%b6%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%92%e0%b6%ad%e0%b7%8f%e0%b6%b1%e0%b7%8a%e2%80%8d%e0%b6%ba%e0%b6%ba%e0%b7%9a-%e0%b6%9c%e0%b7%94%e0%b7%80%e0%b6%b1%e0%b7%8a",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -3175,7 +3171,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/09/%e0%b6%b6%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%92%e0%b6%ad%e0%b7%8f%e0%b6%b1%e0%b7%8a%e2%80%8d%e0%b6%ba%e0%b6%ba%e0%b7%9a-%e0%b6%9c%e0%b7%94%e0%b7%80%e0%b6%b1%e0%b7%8a",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -3190,7 +3186,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/09/%e0%b6%b6%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%92%e0%b6%ad%e0%b7%8f%e0%b6%b1%e0%b7%8a%e2%80%8d%e0%b6%ba%e0%b6%ba%e0%b7%9a-%e0%b6%9c%e0%b7%94%e0%b7%80%e0%b6%b1%e0%b7%8a",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
           "category": "main",
           "discovery": "homepage"
         }
@@ -3208,7 +3204,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/08/%e0%b6%b1%e0%b7%90%e0%b7%80%e0%b6%ad-%e0%b6%bb%e0%b6%a7-%e0%b6%9c%e0%b7%9c%e0%b6%a9-%e0%b6%b1%e0%b7%90%e0%b6%9c%e0%b7%93%e0%b6%b8%e0%b7%9a-%e0%b6%9c",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -3220,7 +3216,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/08/%e0%b6%b1%e0%b7%90%e0%b7%80%e0%b6%ad-%e0%b6%bb%e0%b6%a7-%e0%b6%9c%e0%b7%9c%e0%b6%a9-%e0%b6%b1%e0%b7%90%e0%b6%9c%e0%b7%93%e0%b6%b8%e0%b7%9a-%e0%b6%9c",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -3235,7 +3231,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/08/%e0%b6%b1%e0%b7%90%e0%b7%80%e0%b6%ad-%e0%b6%bb%e0%b6%a7-%e0%b6%9c%e0%b7%9c%e0%b6%a9-%e0%b6%b1%e0%b7%90%e0%b6%9c%e0%b7%93%e0%b6%b8%e0%b7%9a-%e0%b6%9c",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
           "category": "main",
           "discovery": "homepage"
         }
@@ -3253,7 +3249,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/08/%e0%b7%83%e0%b7%9a%e0%b7%80%e0%b6%9a%e0%b6%ba%e0%b7%92%e0%b6%b1%e0%b7%8a-4-000%e0%b6%9a%e0%b7%8a-%e0%b6%89%e0%b7%80%e0%b6%ad",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -3265,7 +3261,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/08/%e0%b7%83%e0%b7%9a%e0%b7%80%e0%b6%9a%e0%b6%ba%e0%b7%92%e0%b6%b1%e0%b7%8a-4-000%e0%b6%9a%e0%b7%8a-%e0%b6%89%e0%b7%80%e0%b6%ad",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -3280,7 +3276,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/08/%e0%b7%83%e0%b7%9a%e0%b7%80%e0%b6%9a%e0%b6%ba%e0%b7%92%e0%b6%b1%e0%b7%8a-4-000%e0%b6%9a%e0%b7%8a-%e0%b6%89%e0%b7%80%e0%b6%ad",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
           "category": "main",
           "discovery": "homepage"
         }
@@ -3298,7 +3294,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/10/apple-%e0%b7%83%e0%b6%b8%e0%b7%8f%e0%b6%9c%e0%b6%b8-%e0%b6%8a%e0%b6%ba%e0%b7%9a-%e0%b6%b4%e0%b7%90%e0%b7%80%e0%b6%ad",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -3310,7 +3306,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/10/apple-%e0%b7%83%e0%b6%b8%e0%b7%8f%e0%b6%9c%e0%b6%b8-%e0%b6%8a%e0%b6%ba%e0%b7%9a-%e0%b6%b4%e0%b7%90%e0%b7%80%e0%b6%ad",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -3325,7 +3321,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/10/apple-%e0%b7%83%e0%b6%b8%e0%b7%8f%e0%b6%9c%e0%b6%b8-%e0%b6%8a%e0%b6%ba%e0%b7%9a-%e0%b6%b4%e0%b7%90%e0%b7%80%e0%b6%ad",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
           "category": "main",
           "discovery": "homepage"
         }
@@ -3343,7 +3339,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/10/%e0%b6%86%e0%b6%bb%e0%b7%8a%e0%b6%ae%e0%b7%92%e0%b6%9a-%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%ad%e0%b7%92%e0%b7%83%e0%b6%82%e0%b7%83%e0%b7%8a%e0%b6%9a%e0%b6%bb%e0%b6%ab",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "business",
         "discovery": "homepage"
       },
@@ -3355,7 +3351,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/10/%e0%b6%86%e0%b6%bb%e0%b7%8a%e0%b6%ae%e0%b7%92%e0%b6%9a-%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%ad%e0%b7%92%e0%b7%83%e0%b6%82%e0%b7%83%e0%b7%8a%e0%b6%9a%e0%b6%bb%e0%b6%ab",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "business",
         "discovery": "homepage"
       },
@@ -3370,7 +3366,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/10/%e0%b6%86%e0%b6%bb%e0%b7%8a%e0%b6%ae%e0%b7%92%e0%b6%9a-%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%ad%e0%b7%92%e0%b7%83%e0%b6%82%e0%b7%83%e0%b7%8a%e0%b6%9a%e0%b6%bb%e0%b6%ab",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
           "category": "business",
           "discovery": "homepage"
         }
@@ -3388,7 +3384,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/08/25/%e0%b6%bd%e0%b7%9d%e0%b6%9a-%e0%b7%80%e0%b7%99%e0%b7%85%e0%b6%b3%e0%b6%b4%e0%b7%9c%e0%b6%bd%e0%b7%9a-%e0%b6%bb%e0%b6%ad%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%b1%e0%b7%8a",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "business",
         "discovery": "homepage"
       },
@@ -3400,7 +3396,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/08/25/%e0%b6%bd%e0%b7%9d%e0%b6%9a-%e0%b7%80%e0%b7%99%e0%b7%85%e0%b6%b3%e0%b6%b4%e0%b7%9c%e0%b6%bd%e0%b7%9a-%e0%b6%bb%e0%b6%ad%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%b1%e0%b7%8a",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "business",
         "discovery": "homepage"
       },
@@ -3415,7 +3411,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/08/25/%e0%b6%bd%e0%b7%9d%e0%b6%9a-%e0%b7%80%e0%b7%99%e0%b7%85%e0%b6%b3%e0%b6%b4%e0%b7%9c%e0%b6%bd%e0%b7%9a-%e0%b6%bb%e0%b6%ad%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%b1%e0%b7%8a",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
           "category": "business",
           "discovery": "homepage"
         }
@@ -3433,7 +3429,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/08/24/%e0%b7%80%e0%b7%83%e0%b6%bb%e0%b7%9a-%e0%b6%b8%e0%b7%9a-%e0%b6%af%e0%b6%9a%e0%b7%8a%e0%b7%80%e0%b7%8f-%e0%b7%83%e0%b6%82%e0%b6%a0%e0%b7%8f%e0%b6%bb%e0%b6%9a",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "world",
         "discovery": "homepage"
       },
@@ -3445,7 +3441,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/08/24/%e0%b7%80%e0%b7%83%e0%b6%bb%e0%b7%9a-%e0%b6%b8%e0%b7%9a-%e0%b6%af%e0%b6%9a%e0%b7%8a%e0%b7%80%e0%b7%8f-%e0%b7%83%e0%b6%82%e0%b6%a0%e0%b7%8f%e0%b6%bb%e0%b6%9a",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "world",
         "discovery": "homepage"
       },
@@ -3460,7 +3456,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/08/24/%e0%b7%80%e0%b7%83%e0%b6%bb%e0%b7%9a-%e0%b6%b8%e0%b7%9a-%e0%b6%af%e0%b6%9a%e0%b7%8a%e0%b7%80%e0%b7%8f-%e0%b7%83%e0%b6%82%e0%b6%a0%e0%b7%8f%e0%b6%bb%e0%b6%9a",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
           "category": "world",
           "discovery": "homepage"
         }
@@ -3478,7 +3474,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/08/19/meta-%e0%b7%83%e0%b6%b8%e0%b7%8f%e0%b6%9c%e0%b6%b8%e0%b6%a7-%e0%b6%91%e0%b6%bb%e0%b7%99%e0%b7%84%e0%b7%92%e0%b7%80-%e0%b6%a9",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "business",
         "discovery": "homepage"
       },
@@ -3490,7 +3486,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/08/19/meta-%e0%b7%83%e0%b6%b8%e0%b7%8f%e0%b6%9c%e0%b6%b8%e0%b6%a7-%e0%b6%91%e0%b6%bb%e0%b7%99%e0%b7%84%e0%b7%92%e0%b7%80-%e0%b6%a9",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "business",
         "discovery": "homepage"
       },
@@ -3505,7 +3501,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/08/19/meta-%e0%b7%83%e0%b6%b8%e0%b7%8f%e0%b6%9c%e0%b6%b8%e0%b6%a7-%e0%b6%91%e0%b6%bb%e0%b7%99%e0%b7%84%e0%b7%92%e0%b7%80-%e0%b6%a9",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
           "category": "business",
           "discovery": "homepage"
         }
@@ -6933,7 +6929,7 @@
         "url": "https://www.dailymirror.lk/breaking-news/Multi-day-fishing-vessels-urged-to-leave-Andaman-sea-areas-amid-rough-weather/108-350823",
         "published_at": "2026-09-21T17:29:00+00:00",
         "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
       },
       "first_detected": {
         "id": "3ee394f04d84c30cd5d781fa",
@@ -6942,7 +6938,7 @@
         "url": "https://www.dailymirror.lk/breaking-news/Multi-day-fishing-vessels-urged-to-leave-Andaman-sea-areas-amid-rough-weather/108-350823",
         "published_at": "2026-09-21T17:29:00+00:00",
         "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
       },
       "earliest_at": "2026-09-21T17:29:00+00:00",
       "latest_at": "2026-09-21T17:29:00+00:00",
@@ -6954,7 +6950,7 @@
           "url": "https://www.dailymirror.lk/breaking-news/Multi-day-fishing-vessels-urged-to-leave-Andaman-sea-areas-amid-rough-weather/108-350823",
           "published_at": "2026-09-21T17:29:00+00:00",
           "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
         }
       ]
     },
@@ -6969,7 +6965,7 @@
         "url": "https://www.dailymirror.lk/breaking-news/Landslide-red-warnings-issued-for-six-districts/108-350821",
         "published_at": "2026-09-21T16:43:00+00:00",
         "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
       },
       "first_detected": {
         "id": "5a0fedaf9bfcd0c7b3cc4c7e",
@@ -6978,7 +6974,7 @@
         "url": "https://www.dailymirror.lk/breaking-news/Landslide-red-warnings-issued-for-six-districts/108-350821",
         "published_at": "2026-09-21T16:43:00+00:00",
         "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
       },
       "earliest_at": "2026-09-21T16:43:00+00:00",
       "latest_at": "2026-09-21T16:43:00+00:00",
@@ -6990,7 +6986,7 @@
           "url": "https://www.dailymirror.lk/breaking-news/Landslide-red-warnings-issued-for-six-districts/108-350821",
           "published_at": "2026-09-21T16:43:00+00:00",
           "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
         }
       ]
     },
@@ -7036,7 +7032,7 @@
           "url": "http://island.lk/viyasa-national-business-facilitation-centre-nbfc-to-be-opened-tomorrow-22",
           "published_at": "2026-09-21T16:30:00+00:00",
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
           "category": "business",
           "discovery": "rss"
         }
@@ -7053,7 +7049,7 @@
         "url": "https://www.dailymirror.lk/breaking-news/Low-pressure-system-to-intensify;-rainy-weather-to-continue/108-350820",
         "published_at": "2026-09-21T16:30:00+00:00",
         "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
       },
       "first_detected": {
         "id": "fa14924564bf4dab7c3ea537",
@@ -7062,7 +7058,7 @@
         "url": "https://www.dailymirror.lk/breaking-news/Low-pressure-system-to-intensify;-rainy-weather-to-continue/108-350820",
         "published_at": "2026-09-21T16:30:00+00:00",
         "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
       },
       "earliest_at": "2026-09-21T16:30:00+00:00",
       "latest_at": "2026-09-21T16:30:00+00:00",
@@ -7074,7 +7070,7 @@
           "url": "https://www.dailymirror.lk/breaking-news/Low-pressure-system-to-intensify;-rainy-weather-to-continue/108-350820",
           "published_at": "2026-09-21T16:30:00+00:00",
           "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
         }
       ]
     },
@@ -7090,7 +7086,7 @@
         "url": "http://island.lk/president-instructs-expediting-further-measures-concerning-sivarasa-anojan-sentenced-to-death-in-saudi-arabia",
         "published_at": "2026-09-21T16:22:09+00:00",
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "politics",
         "discovery": "rss"
       },
@@ -7102,7 +7098,7 @@
         "url": "http://island.lk/president-instructs-expediting-further-measures-concerning-sivarasa-anojan-sentenced-to-death-in-saudi-arabia",
         "published_at": "2026-09-21T16:22:09+00:00",
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "politics",
         "discovery": "rss"
       },
@@ -7117,7 +7113,7 @@
           "url": "http://island.lk/president-instructs-expediting-further-measures-concerning-sivarasa-anojan-sentenced-to-death-in-saudi-arabia",
           "published_at": "2026-09-21T16:22:09+00:00",
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
           "category": "politics",
           "discovery": "rss"
         }
@@ -7135,7 +7131,7 @@
         "url": "http://island.lk/its-shafali-vs-athapaththu-as-sri-lanka-seek-to-stop-india-juggernaut",
         "published_at": "2026-09-21T16:17:17+00:00",
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "world",
         "discovery": "rss"
       },
@@ -7147,7 +7143,7 @@
         "url": "http://island.lk/its-shafali-vs-athapaththu-as-sri-lanka-seek-to-stop-india-juggernaut",
         "published_at": "2026-09-21T16:17:17+00:00",
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "world",
         "discovery": "rss"
       },
@@ -7162,7 +7158,7 @@
           "url": "http://island.lk/its-shafali-vs-athapaththu-as-sri-lanka-seek-to-stop-india-juggernaut",
           "published_at": "2026-09-21T16:17:17+00:00",
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
           "category": "world",
           "discovery": "rss"
         }
@@ -7179,7 +7175,7 @@
         "url": "https://www.dailymirror.lk/breaking-news/One-dead--seven-injured-following-wasp-attack-in-Lindula/108-350814",
         "published_at": "2026-09-21T15:27:00+00:00",
         "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
       },
       "first_detected": {
         "id": "946326a61204c0d46f23df5a",
@@ -7188,7 +7184,7 @@
         "url": "https://www.dailymirror.lk/breaking-news/One-dead--seven-injured-following-wasp-attack-in-Lindula/108-350814",
         "published_at": "2026-09-21T15:27:00+00:00",
         "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
       },
       "earliest_at": "2026-09-21T15:27:00+00:00",
       "latest_at": "2026-09-21T15:27:00+00:00",
@@ -7200,7 +7196,7 @@
           "url": "https://www.dailymirror.lk/breaking-news/One-dead--seven-injured-following-wasp-attack-in-Lindula/108-350814",
           "published_at": "2026-09-21T15:27:00+00:00",
           "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00"
         }
       ]
     },
@@ -7918,7 +7914,7 @@
         "url": "http://island.lk/trophy-row-unlikely-to-repeat-in-japan",
         "published_at": "2026-09-21T04:29:07+00:00",
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "main",
         "discovery": "rss"
       },
@@ -7930,7 +7926,7 @@
         "url": "http://island.lk/trophy-row-unlikely-to-repeat-in-japan",
         "published_at": "2026-09-21T04:29:07+00:00",
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "main",
         "discovery": "rss"
       },
@@ -7945,7 +7941,7 @@
           "url": "http://island.lk/trophy-row-unlikely-to-repeat-in-japan",
           "published_at": "2026-09-21T04:29:07+00:00",
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
           "category": "main",
           "discovery": "rss"
         }
@@ -7963,7 +7959,7 @@
         "url": "http://island.lk/powerful-explosions-at-syrian-army-site-near-aleppo-injure-at-least-four",
         "published_at": "2026-09-21T04:14:34+00:00",
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "main",
         "discovery": "rss"
       },
@@ -7975,7 +7971,7 @@
         "url": "http://island.lk/powerful-explosions-at-syrian-army-site-near-aleppo-injure-at-least-four",
         "published_at": "2026-09-21T04:14:34+00:00",
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "main",
         "discovery": "rss"
       },
@@ -7990,7 +7986,7 @@
           "url": "http://island.lk/powerful-explosions-at-syrian-army-site-near-aleppo-injure-at-least-four",
           "published_at": "2026-09-21T04:14:34+00:00",
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
           "category": "main",
           "discovery": "rss"
         }
@@ -8008,7 +8004,7 @@
         "url": "http://island.lk/government-committed-to-ensuring-the-rights-of-children-with-disabilities-and-providing-equal-opportunities-pm",
         "published_at": "2026-09-21T03:56:49+00:00",
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "politics",
         "discovery": "rss"
       },
@@ -8020,7 +8016,7 @@
         "url": "http://island.lk/government-committed-to-ensuring-the-rights-of-children-with-disabilities-and-providing-equal-opportunities-pm",
         "published_at": "2026-09-21T03:56:49+00:00",
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "politics",
         "discovery": "rss"
       },
@@ -8035,7 +8031,7 @@
           "url": "http://island.lk/government-committed-to-ensuring-the-rights-of-children-with-disabilities-and-providing-equal-opportunities-pm",
           "published_at": "2026-09-21T03:56:49+00:00",
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
           "category": "politics",
           "discovery": "rss"
         }
@@ -8053,7 +8049,7 @@
         "url": "http://island.lk/ellis-and-inglis-break-zimbabwe-hearts-to-secure-one-wicket-thriller",
         "published_at": "2026-09-21T03:47:58+00:00",
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "main",
         "discovery": "rss"
       },
@@ -8065,7 +8061,7 @@
         "url": "http://island.lk/ellis-and-inglis-break-zimbabwe-hearts-to-secure-one-wicket-thriller",
         "published_at": "2026-09-21T03:47:58+00:00",
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "main",
         "discovery": "rss"
       },
@@ -8080,7 +8076,7 @@
           "url": "http://island.lk/ellis-and-inglis-break-zimbabwe-hearts-to-secure-one-wicket-thriller",
           "published_at": "2026-09-21T03:47:58+00:00",
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
           "category": "main",
           "discovery": "rss"
         }
@@ -8098,7 +8094,7 @@
         "url": "http://island.lk/kenyas-ngetich-breaks-women-only-half-marathon-world-record-by-a-second",
         "published_at": "2026-09-21T00:37:39+00:00",
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "world",
         "discovery": "rss"
       },
@@ -8110,7 +8106,7 @@
         "url": "http://island.lk/kenyas-ngetich-breaks-women-only-half-marathon-world-record-by-a-second",
         "published_at": "2026-09-21T00:37:39+00:00",
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "world",
         "discovery": "rss"
       },
@@ -8125,7 +8121,7 @@
           "url": "http://island.lk/kenyas-ngetich-breaks-women-only-half-marathon-world-record-by-a-second",
           "published_at": "2026-09-21T00:37:39+00:00",
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
           "category": "world",
           "discovery": "rss"
         }
@@ -8143,7 +8139,7 @@
         "url": "http://island.lk/showers-about-100-mm-are-likely-at-times-in-the-western-sabaragamuwa-and-north-western-provinces-and-in-galle-matara-kandy-and-nuwara-eliya-districts",
         "published_at": "2026-09-21T00:30:50+00:00",
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "main",
         "discovery": "rss"
       },
@@ -8155,7 +8151,7 @@
         "url": "http://island.lk/showers-about-100-mm-are-likely-at-times-in-the-western-sabaragamuwa-and-north-western-provinces-and-in-galle-matara-kandy-and-nuwara-eliya-districts",
         "published_at": "2026-09-21T00:30:50+00:00",
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
         "category": "main",
         "discovery": "rss"
       },
@@ -8170,7 +8166,7 @@
           "url": "http://island.lk/showers-about-100-mm-are-likely-at-times-in-the-western-sabaragamuwa-and-north-western-provinces-and-in-galle-matara-kandy-and-nuwara-eliya-districts",
           "published_at": "2026-09-21T00:30:50+00:00",
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
           "category": "main",
           "discovery": "rss"
         }
