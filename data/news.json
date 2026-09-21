@@ -1,27 +1,117 @@
 {
-  "updated_at": "2026-09-21T11:12:33.776830+00:00",
+  "updated_at": "2026-09-21T17:06:34.225748+00:00",
   "sources": [
     {
       "source": "Daily Mirror",
       "status": "ok",
-      "new_articles": 12,
-      "checked_at": "2026-09-21T11:12:33.776830+00:00"
+      "new_articles": 10,
+      "checked_at": "2026-09-21T17:06:34.225748+00:00"
     },
     {
       "source": "The Island",
       "status": "ok",
       "new_articles": 0,
-      "checked_at": "2026-09-21T11:12:33.776830+00:00"
+      "checked_at": "2026-09-21T17:06:34.225748+00:00"
     },
     {
       "source": "EconomyNext",
       "status": "ok",
-      "new_articles": 20,
-      "checked_at": "2026-09-21T11:12:33.776830+00:00"
+      "new_articles": 3,
+      "checked_at": "2026-09-21T17:06:34.225748+00:00"
     }
   ],
-  "article_count": 32,
+  "article_count": 45,
   "articles": [
+    {
+      "id": "ae2fa4993ffb81dcf8d78f64",
+      "source": "Daily Mirror",
+      "title": "CNN, MS NOW and Politico sue Trump over White House ban",
+      "url": "https://www.dailymirror.lk/international/CNN--MS-NOW-and-Politico-sue-Trump-over-White-House-ban/107-350834",
+      "published_at": "2026-09-21T21:39:00+00:00",
+      "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
+      "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
+    },
+    {
+      "id": "ca3225896f69a8dd09046465",
+      "source": "Daily Mirror",
+      "title": "CSE slips below 21,000 as turnover falls to second-lowest level YTD",
+      "url": "https://www.dailymirror.lk/breaking-news/CSE-slips-below-21-000-as-turnover-falls-to-second-lowest-level-YTD/108-350833",
+      "published_at": "2026-09-21T20:49:00+00:00",
+      "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
+      "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
+    },
+    {
+      "id": "33907ce9bac5d42e1d81b605",
+      "source": "Daily Mirror",
+      "title": "Nimal Perera must face legal action over bond scam: Lawyer",
+      "url": "https://www.dailymirror.lk/breaking-news/Nimal-Perera-must-face-legal-action-over-bond-scam:-Lawyer/108-350832",
+      "published_at": "2026-09-21T20:45:00+00:00",
+      "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
+      "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
+    },
+    {
+      "id": "3aa799601ef11084e23c46d6",
+      "source": "Daily Mirror",
+      "title": "Ampara human-elephant conflict: 14 new control units to be established",
+      "url": "https://www.dailymirror.lk/breaking-news/Ampara-human-elephant-conflict:-14-new-control-units-to-be-established/108-350830",
+      "published_at": "2026-09-21T20:02:00+00:00",
+      "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
+      "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
+    },
+    {
+      "id": "01e01de7fd3d3bfeb2c8817d",
+      "source": "Daily Mirror",
+      "title": "Vijitha Herath to make special statement in Parliament on Sivarasa Anojan",
+      "url": "https://www.dailymirror.lk/breaking-news/Vijitha-Herath-to-make-special-statement-in-Parliament-on-Sivarasa-Anojan/108-350829",
+      "published_at": "2026-09-21T18:59:00+00:00",
+      "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
+      "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
+    },
+    {
+      "id": "029a11ce3172df4d3225cb8c",
+      "source": "Daily Mirror",
+      "title": "Justice Mayadunna Corea appointed Acting President of Court of Appeal",
+      "url": "https://www.dailymirror.lk/breaking-news/Justice-Mayadunna-Corea-appointed-Acting-President-of-Court-of-Appeal/108-350828",
+      "published_at": "2026-09-21T18:33:00+00:00",
+      "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
+      "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
+    },
+    {
+      "id": "ec70ba9c4ecb2ffdb9afc761",
+      "source": "Daily Mirror",
+      "title": "No fuel price hike as government plans concession: Minister",
+      "url": "https://www.dailymirror.lk/breaking-news/No-fuel-price-hike-as-government-plans-concession:-Minister/108-350827",
+      "published_at": "2026-09-21T18:21:00+00:00",
+      "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
+      "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
+    },
+    {
+      "id": "1a53853f3fb141c5505a80bc",
+      "source": "Daily Mirror",
+      "title": "Government to appeal to Saudi King for Anojan’s pardon",
+      "url": "https://www.dailymirror.lk/breaking-news/Government-to-appeal-to-Saudi-King-for-Anojan’s-pardon/108-350826",
+      "published_at": "2026-09-21T18:14:00+00:00",
+      "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
+      "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
+    },
+    {
+      "id": "3ee394f04d84c30cd5d781fa",
+      "source": "Daily Mirror",
+      "title": "Multi-day fishing vessels urged to leave Andaman sea areas amid rough weather",
+      "url": "https://www.dailymirror.lk/breaking-news/Multi-day-fishing-vessels-urged-to-leave-Andaman-sea-areas-amid-rough-weather/108-350823",
+      "published_at": "2026-09-21T17:29:00+00:00",
+      "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
+      "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
+    },
+    {
+      "id": "5a0fedaf9bfcd0c7b3cc4c7e",
+      "source": "Daily Mirror",
+      "title": "Landslide red warnings issued for six districts",
+      "url": "https://www.dailymirror.lk/breaking-news/Landslide-red-warnings-issued-for-six-districts/108-350821",
+      "published_at": "2026-09-21T16:43:00+00:00",
+      "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
+      "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
+    },
     {
       "id": "fa14924564bf4dab7c3ea537",
       "source": "Daily Mirror",
@@ -29,7 +119,7 @@
       "url": "https://www.dailymirror.lk/breaking-news/Low-pressure-system-to-intensify;-rainy-weather-to-continue/108-350820",
       "published_at": "2026-09-21T16:30:00+00:00",
       "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+      "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
     },
     {
       "id": "946326a61204c0d46f23df5a",
@@ -38,7 +128,16 @@
       "url": "https://www.dailymirror.lk/breaking-news/One-dead--seven-injured-following-wasp-attack-in-Lindula/108-350814",
       "published_at": "2026-09-21T15:27:00+00:00",
       "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+      "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
+    },
+    {
+      "id": "49e7705959db968f14cdd691",
+      "source": "EconomyNext",
+      "title": "Foreign investors sell Sri Lanka rupee bonds amid depreciation",
+      "url": "https://economynext.com/foreign-investors-sell-sri-lanka-rupee-bonds-amid-depreciation-284165",
+      "published_at": "2026-09-21T15:19:12+00:00",
+      "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
+      "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
     },
     {
       "id": "d424c0772604d12770be4b5f",
@@ -131,13 +230,31 @@
       "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
     },
     {
+      "id": "08839d84626aeaee17f0a15e",
+      "source": "EconomyNext",
+      "title": "Sri Lanka rupee closes at 330.75/90 to US dollar spot, bond yields flat",
+      "url": "https://economynext.com/sri-lanka-rupee-closes-at-330-75-90-to-us-dollar-spot-bond-yields-flat-284154",
+      "published_at": "2026-09-21T12:05:47+00:00",
+      "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
+      "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
+    },
+    {
+      "id": "b67de7f217744adb875c933a",
+      "source": "EconomyNext",
+      "title": "Sri Lanka’s Resus Energy commissions 2MW solar power plant",
+      "url": "https://economynext.com/sri-lankas-resus-energy-commissions-2mw-solar-power-plant-284135",
+      "published_at": "2026-09-21T11:56:23+00:00",
+      "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
+      "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
+    },
+    {
       "id": "b634e37753b4c226c6e7c908",
       "source": "EconomyNext",
       "title": "Sri Lanka parliamentarians visit China, South Africa for regional forums",
       "url": "https://economynext.com/sri-lanka-parliamentarians-visit-china-south-africa-for-regional-forums-284133",
       "published_at": "2026-09-21T10:35:07+00:00",
       "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+      "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
     },
     {
       "id": "827f1213e2d3337cdfc56a73",
@@ -146,7 +263,7 @@
       "url": "https://economynext.com/sri-lanka-stocks-close-lower-aspi-drops-0-37-pct-284121",
       "published_at": "2026-09-21T09:55:15+00:00",
       "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+      "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
     },
     {
       "id": "2b6c58d24ded240065df398f",
@@ -155,7 +272,7 @@
       "url": "https://economynext.com/sri-lanka-economic-summit-to-focus-on-energy-transition-284115",
       "published_at": "2026-09-21T09:01:28+00:00",
       "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+      "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
     },
     {
       "id": "7d3f3c17922cf72789618e7e",
@@ -164,7 +281,7 @@
       "url": "https://economynext.com/adb-launches-6bn-push-for-healthier-seas-and-coastal-economies-284111",
       "published_at": "2026-09-21T07:18:19+00:00",
       "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+      "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
     },
     {
       "id": "31754142cf09ab34994b725a",
@@ -173,7 +290,7 @@
       "url": "https://economynext.com/sri-lankas-softlogic-finance-plans-rs1bn-rights-issue-284055",
       "published_at": "2026-09-21T05:02:07+00:00",
       "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+      "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
     },
     {
       "id": "8483b2b0963e2ca8bf7ac39d",
@@ -182,7 +299,7 @@
       "url": "https://economynext.com/sri-lanka-rupee-at-331-00-25-to-us-dollar-spot-bond-yields-lower-284062",
       "published_at": "2026-09-21T04:36:47+00:00",
       "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+      "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
     },
     {
       "id": "d490d584ddc553b720bcfd08",
@@ -191,7 +308,7 @@
       "url": "https://economynext.com/sri-lankas-aitken-spence-hotel-holdings-debenture-sale-oversubscribed-284073",
       "published_at": "2026-09-21T04:35:59+00:00",
       "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+      "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
     },
     {
       "id": "5229dbe8cb25df1072f2cddf",
@@ -200,7 +317,7 @@
       "url": "https://economynext.com/sri-lanka-stocks-open-marginally-up-on-monday-aspi-at-21070-284056",
       "published_at": "2026-09-21T04:34:43+00:00",
       "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+      "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
     },
     {
       "id": "1ea3e4ccaa37aad03de1522c",
@@ -209,7 +326,7 @@
       "url": "https://economynext.com/fitch-affirms-and-withdraws-capital-alliance-investment-grade-fund-284040",
       "published_at": "2026-09-20T03:30:39+00:00",
       "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+      "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
     },
     {
       "id": "f3448ef44a3b235cc94176ea",
@@ -218,7 +335,7 @@
       "url": "https://economynext.com/sri-lankas-stories-reimagined-in-what-lives-between-exhibition-284048",
       "published_at": "2026-09-20T03:09:12+00:00",
       "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+      "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
     },
     {
       "id": "b0ee45d49d81550b443eb7b7",
@@ -227,7 +344,7 @@
       "url": "https://economynext.com/sri-lankas-monthly-tourism-revenue-rises-for-first-time-in-10-months-up-2-1-pct-in-august-2026-284038",
       "published_at": "2026-09-19T11:01:29+00:00",
       "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+      "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
     },
     {
       "id": "3dcdaa62094408dcb413aa0f",
@@ -236,7 +353,7 @@
       "url": "https://economynext.com/new-macsync-malware-steals-macos-crypto-and-credentials-kaspersky-284030",
       "published_at": "2026-09-19T08:08:03+00:00",
       "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+      "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
     },
     {
       "id": "37d3a727f86990e0ff06f094",
@@ -245,7 +362,7 @@
       "url": "https://economynext.com/india-extends-gap-finance-to-continue-ferry-service-to-sri-lanka-284023",
       "published_at": "2026-09-18T12:49:50+00:00",
       "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+      "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
     },
     {
       "id": "f2a50a552ac36f60aee8ecbb",
@@ -254,7 +371,7 @@
       "url": "https://economynext.com/sri-lanka-rupee-closes-at-330-75-331-25-to-us-dollar-spot-bond-yields-drop-284016",
       "published_at": "2026-09-18T11:44:45+00:00",
       "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+      "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
     },
     {
       "id": "7bd4b0cc67694eef556c8fe3",
@@ -263,7 +380,7 @@
       "url": "https://economynext.com/sri-lanka-stocks-edge-up-on-friday-to-close-mixed-week-aspi-at-21056-284001",
       "published_at": "2026-09-18T10:36:18+00:00",
       "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+      "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
     },
     {
       "id": "c9ff57dfbf079589ef640954",
@@ -272,7 +389,7 @@
       "url": "https://economynext.com/david-myers-assumes-duties-as-us-deputy-chief-of-mission-in-sri-lanka-283995",
       "published_at": "2026-09-18T09:32:20+00:00",
       "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+      "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
     },
     {
       "id": "f25ffdc67c4f6bdb566b1452",
@@ -281,7 +398,7 @@
       "url": "https://economynext.com/sri-lankas-peoples-leasing-and-finance-to-list-13-75-pct-debentures-283984",
       "published_at": "2026-09-18T08:13:57+00:00",
       "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+      "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
     },
     {
       "id": "6a5127610fe826cac06dc90d",
@@ -313,6 +430,186 @@
   ],
   "stories": [
     {
+      "id": "ae2fa4993ffb81dcf8d78f64",
+      "title": "CNN, MS NOW and Politico sue Trump over White House ban",
+      "earliest_published_at": "2026-09-21T21:39:00+00:00",
+      "earliest_first_seen_at": "2026-09-21T17:06:34.225748+00:00",
+      "latest_at": "2026-09-21T21:39:00+00:00",
+      "articles": [
+        {
+          "id": "ae2fa4993ffb81dcf8d78f64",
+          "source": "Daily Mirror",
+          "title": "CNN, MS NOW and Politico sue Trump over White House ban",
+          "url": "https://www.dailymirror.lk/international/CNN--MS-NOW-and-Politico-sue-Trump-over-White-House-ban/107-350834",
+          "published_at": "2026-09-21T21:39:00+00:00",
+          "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
+          "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
+        }
+      ]
+    },
+    {
+      "id": "ca3225896f69a8dd09046465",
+      "title": "CSE slips below 21,000 as turnover falls to second-lowest level YTD",
+      "earliest_published_at": "2026-09-21T20:49:00+00:00",
+      "earliest_first_seen_at": "2026-09-21T17:06:34.225748+00:00",
+      "latest_at": "2026-09-21T20:49:00+00:00",
+      "articles": [
+        {
+          "id": "ca3225896f69a8dd09046465",
+          "source": "Daily Mirror",
+          "title": "CSE slips below 21,000 as turnover falls to second-lowest level YTD",
+          "url": "https://www.dailymirror.lk/breaking-news/CSE-slips-below-21-000-as-turnover-falls-to-second-lowest-level-YTD/108-350833",
+          "published_at": "2026-09-21T20:49:00+00:00",
+          "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
+          "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
+        }
+      ]
+    },
+    {
+      "id": "33907ce9bac5d42e1d81b605",
+      "title": "Nimal Perera must face legal action over bond scam: Lawyer",
+      "earliest_published_at": "2026-09-21T20:45:00+00:00",
+      "earliest_first_seen_at": "2026-09-21T17:06:34.225748+00:00",
+      "latest_at": "2026-09-21T20:45:00+00:00",
+      "articles": [
+        {
+          "id": "33907ce9bac5d42e1d81b605",
+          "source": "Daily Mirror",
+          "title": "Nimal Perera must face legal action over bond scam: Lawyer",
+          "url": "https://www.dailymirror.lk/breaking-news/Nimal-Perera-must-face-legal-action-over-bond-scam:-Lawyer/108-350832",
+          "published_at": "2026-09-21T20:45:00+00:00",
+          "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
+          "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
+        }
+      ]
+    },
+    {
+      "id": "3aa799601ef11084e23c46d6",
+      "title": "Ampara human-elephant conflict: 14 new control units to be established",
+      "earliest_published_at": "2026-09-21T20:02:00+00:00",
+      "earliest_first_seen_at": "2026-09-21T17:06:34.225748+00:00",
+      "latest_at": "2026-09-21T20:02:00+00:00",
+      "articles": [
+        {
+          "id": "3aa799601ef11084e23c46d6",
+          "source": "Daily Mirror",
+          "title": "Ampara human-elephant conflict: 14 new control units to be established",
+          "url": "https://www.dailymirror.lk/breaking-news/Ampara-human-elephant-conflict:-14-new-control-units-to-be-established/108-350830",
+          "published_at": "2026-09-21T20:02:00+00:00",
+          "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
+          "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
+        }
+      ]
+    },
+    {
+      "id": "01e01de7fd3d3bfeb2c8817d",
+      "title": "Vijitha Herath to make special statement in Parliament on Sivarasa Anojan",
+      "earliest_published_at": "2026-09-21T18:59:00+00:00",
+      "earliest_first_seen_at": "2026-09-21T17:06:34.225748+00:00",
+      "latest_at": "2026-09-21T18:59:00+00:00",
+      "articles": [
+        {
+          "id": "01e01de7fd3d3bfeb2c8817d",
+          "source": "Daily Mirror",
+          "title": "Vijitha Herath to make special statement in Parliament on Sivarasa Anojan",
+          "url": "https://www.dailymirror.lk/breaking-news/Vijitha-Herath-to-make-special-statement-in-Parliament-on-Sivarasa-Anojan/108-350829",
+          "published_at": "2026-09-21T18:59:00+00:00",
+          "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
+          "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
+        }
+      ]
+    },
+    {
+      "id": "029a11ce3172df4d3225cb8c",
+      "title": "Justice Mayadunna Corea appointed Acting President of Court of Appeal",
+      "earliest_published_at": "2026-09-21T18:33:00+00:00",
+      "earliest_first_seen_at": "2026-09-21T17:06:34.225748+00:00",
+      "latest_at": "2026-09-21T18:33:00+00:00",
+      "articles": [
+        {
+          "id": "029a11ce3172df4d3225cb8c",
+          "source": "Daily Mirror",
+          "title": "Justice Mayadunna Corea appointed Acting President of Court of Appeal",
+          "url": "https://www.dailymirror.lk/breaking-news/Justice-Mayadunna-Corea-appointed-Acting-President-of-Court-of-Appeal/108-350828",
+          "published_at": "2026-09-21T18:33:00+00:00",
+          "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
+          "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
+        }
+      ]
+    },
+    {
+      "id": "ec70ba9c4ecb2ffdb9afc761",
+      "title": "No fuel price hike as government plans concession: Minister",
+      "earliest_published_at": "2026-09-21T18:21:00+00:00",
+      "earliest_first_seen_at": "2026-09-21T17:06:34.225748+00:00",
+      "latest_at": "2026-09-21T18:21:00+00:00",
+      "articles": [
+        {
+          "id": "ec70ba9c4ecb2ffdb9afc761",
+          "source": "Daily Mirror",
+          "title": "No fuel price hike as government plans concession: Minister",
+          "url": "https://www.dailymirror.lk/breaking-news/No-fuel-price-hike-as-government-plans-concession:-Minister/108-350827",
+          "published_at": "2026-09-21T18:21:00+00:00",
+          "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
+          "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
+        }
+      ]
+    },
+    {
+      "id": "1a53853f3fb141c5505a80bc",
+      "title": "Government to appeal to Saudi King for Anojan’s pardon",
+      "earliest_published_at": "2026-09-21T18:14:00+00:00",
+      "earliest_first_seen_at": "2026-09-21T17:06:34.225748+00:00",
+      "latest_at": "2026-09-21T18:14:00+00:00",
+      "articles": [
+        {
+          "id": "1a53853f3fb141c5505a80bc",
+          "source": "Daily Mirror",
+          "title": "Government to appeal to Saudi King for Anojan’s pardon",
+          "url": "https://www.dailymirror.lk/breaking-news/Government-to-appeal-to-Saudi-King-for-Anojan’s-pardon/108-350826",
+          "published_at": "2026-09-21T18:14:00+00:00",
+          "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
+          "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
+        }
+      ]
+    },
+    {
+      "id": "3ee394f04d84c30cd5d781fa",
+      "title": "Multi-day fishing vessels urged to leave Andaman sea areas amid rough weather",
+      "earliest_published_at": "2026-09-21T17:29:00+00:00",
+      "earliest_first_seen_at": "2026-09-21T17:06:34.225748+00:00",
+      "latest_at": "2026-09-21T17:29:00+00:00",
+      "articles": [
+        {
+          "id": "3ee394f04d84c30cd5d781fa",
+          "source": "Daily Mirror",
+          "title": "Multi-day fishing vessels urged to leave Andaman sea areas amid rough weather",
+          "url": "https://www.dailymirror.lk/breaking-news/Multi-day-fishing-vessels-urged-to-leave-Andaman-sea-areas-amid-rough-weather/108-350823",
+          "published_at": "2026-09-21T17:29:00+00:00",
+          "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
+          "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
+        }
+      ]
+    },
+    {
+      "id": "5a0fedaf9bfcd0c7b3cc4c7e",
+      "title": "Landslide red warnings issued for six districts",
+      "earliest_published_at": "2026-09-21T16:43:00+00:00",
+      "earliest_first_seen_at": "2026-09-21T17:06:34.225748+00:00",
+      "latest_at": "2026-09-21T16:43:00+00:00",
+      "articles": [
+        {
+          "id": "5a0fedaf9bfcd0c7b3cc4c7e",
+          "source": "Daily Mirror",
+          "title": "Landslide red warnings issued for six districts",
+          "url": "https://www.dailymirror.lk/breaking-news/Landslide-red-warnings-issued-for-six-districts/108-350821",
+          "published_at": "2026-09-21T16:43:00+00:00",
+          "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
+          "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
+        }
+      ]
+    },
+    {
       "id": "fa14924564bf4dab7c3ea537",
       "title": "Low-pressure system to intensify; rainy weather to continue",
       "earliest_published_at": "2026-09-21T16:30:00+00:00",
@@ -326,7 +623,7 @@
           "url": "https://www.dailymirror.lk/breaking-news/Low-pressure-system-to-intensify;-rainy-weather-to-continue/108-350820",
           "published_at": "2026-09-21T16:30:00+00:00",
           "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+          "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
         }
       ]
     },
@@ -344,7 +641,25 @@
           "url": "https://www.dailymirror.lk/breaking-news/One-dead--seven-injured-following-wasp-attack-in-Lindula/108-350814",
           "published_at": "2026-09-21T15:27:00+00:00",
           "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+          "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
+        }
+      ]
+    },
+    {
+      "id": "49e7705959db968f14cdd691",
+      "title": "Foreign investors sell Sri Lanka rupee bonds amid depreciation",
+      "earliest_published_at": "2026-09-21T15:19:12+00:00",
+      "earliest_first_seen_at": "2026-09-21T17:06:34.225748+00:00",
+      "latest_at": "2026-09-21T15:19:12+00:00",
+      "articles": [
+        {
+          "id": "49e7705959db968f14cdd691",
+          "source": "EconomyNext",
+          "title": "Foreign investors sell Sri Lanka rupee bonds amid depreciation",
+          "url": "https://economynext.com/foreign-investors-sell-sri-lanka-rupee-bonds-amid-depreciation-284165",
+          "published_at": "2026-09-21T15:19:12+00:00",
+          "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
+          "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
         }
       ]
     },
@@ -529,6 +844,42 @@
       ]
     },
     {
+      "id": "08839d84626aeaee17f0a15e",
+      "title": "Sri Lanka rupee closes at 330.75/90 to US dollar spot, bond yields flat",
+      "earliest_published_at": "2026-09-21T12:05:47+00:00",
+      "earliest_first_seen_at": "2026-09-21T17:06:34.225748+00:00",
+      "latest_at": "2026-09-21T12:05:47+00:00",
+      "articles": [
+        {
+          "id": "08839d84626aeaee17f0a15e",
+          "source": "EconomyNext",
+          "title": "Sri Lanka rupee closes at 330.75/90 to US dollar spot, bond yields flat",
+          "url": "https://economynext.com/sri-lanka-rupee-closes-at-330-75-90-to-us-dollar-spot-bond-yields-flat-284154",
+          "published_at": "2026-09-21T12:05:47+00:00",
+          "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
+          "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
+        }
+      ]
+    },
+    {
+      "id": "b67de7f217744adb875c933a",
+      "title": "Sri Lanka’s Resus Energy commissions 2MW solar power plant",
+      "earliest_published_at": "2026-09-21T11:56:23+00:00",
+      "earliest_first_seen_at": "2026-09-21T17:06:34.225748+00:00",
+      "latest_at": "2026-09-21T11:56:23+00:00",
+      "articles": [
+        {
+          "id": "b67de7f217744adb875c933a",
+          "source": "EconomyNext",
+          "title": "Sri Lanka’s Resus Energy commissions 2MW solar power plant",
+          "url": "https://economynext.com/sri-lankas-resus-energy-commissions-2mw-solar-power-plant-284135",
+          "published_at": "2026-09-21T11:56:23+00:00",
+          "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
+          "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
+        }
+      ]
+    },
+    {
       "id": "b634e37753b4c226c6e7c908",
       "title": "Sri Lanka parliamentarians visit China, South Africa for regional forums",
       "earliest_published_at": "2026-09-21T10:35:07+00:00",
@@ -542,7 +893,7 @@
           "url": "https://economynext.com/sri-lanka-parliamentarians-visit-china-south-africa-for-regional-forums-284133",
           "published_at": "2026-09-21T10:35:07+00:00",
           "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+          "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
         }
       ]
     },
@@ -560,7 +911,7 @@
           "url": "https://economynext.com/sri-lanka-stocks-close-lower-aspi-drops-0-37-pct-284121",
           "published_at": "2026-09-21T09:55:15+00:00",
           "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+          "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
         }
       ]
     },
@@ -578,7 +929,7 @@
           "url": "https://economynext.com/sri-lanka-economic-summit-to-focus-on-energy-transition-284115",
           "published_at": "2026-09-21T09:01:28+00:00",
           "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+          "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
         }
       ]
     },
@@ -596,7 +947,7 @@
           "url": "https://economynext.com/adb-launches-6bn-push-for-healthier-seas-and-coastal-economies-284111",
           "published_at": "2026-09-21T07:18:19+00:00",
           "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+          "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
         }
       ]
     },
@@ -614,7 +965,7 @@
           "url": "https://economynext.com/sri-lankas-softlogic-finance-plans-rs1bn-rights-issue-284055",
           "published_at": "2026-09-21T05:02:07+00:00",
           "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+          "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
         }
       ]
     },
@@ -632,7 +983,7 @@
           "url": "https://economynext.com/sri-lanka-rupee-closes-at-330-75-331-25-to-us-dollar-spot-bond-yields-drop-284016",
           "published_at": "2026-09-18T11:44:45+00:00",
           "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+          "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
         },
         {
           "id": "8483b2b0963e2ca8bf7ac39d",
@@ -641,7 +992,7 @@
           "url": "https://economynext.com/sri-lanka-rupee-at-331-00-25-to-us-dollar-spot-bond-yields-lower-284062",
           "published_at": "2026-09-21T04:36:47+00:00",
           "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+          "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
         }
       ]
     },
@@ -659,7 +1010,7 @@
           "url": "https://economynext.com/sri-lankas-aitken-spence-hotel-holdings-debenture-sale-oversubscribed-284073",
           "published_at": "2026-09-21T04:35:59+00:00",
           "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+          "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
         }
       ]
     },
@@ -677,7 +1028,7 @@
           "url": "https://economynext.com/sri-lanka-stocks-open-marginally-up-on-monday-aspi-at-21070-284056",
           "published_at": "2026-09-21T04:34:43+00:00",
           "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+          "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
         }
       ]
     },
@@ -695,7 +1046,7 @@
           "url": "https://economynext.com/fitch-affirms-and-withdraws-capital-alliance-investment-grade-fund-284040",
           "published_at": "2026-09-20T03:30:39+00:00",
           "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+          "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
         }
       ]
     },
@@ -713,7 +1064,7 @@
           "url": "https://economynext.com/sri-lankas-stories-reimagined-in-what-lives-between-exhibition-284048",
           "published_at": "2026-09-20T03:09:12+00:00",
           "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+          "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
         }
       ]
     },
@@ -731,7 +1082,7 @@
           "url": "https://economynext.com/sri-lankas-monthly-tourism-revenue-rises-for-first-time-in-10-months-up-2-1-pct-in-august-2026-284038",
           "published_at": "2026-09-19T11:01:29+00:00",
           "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+          "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
         }
       ]
     },
@@ -749,7 +1100,7 @@
           "url": "https://economynext.com/new-macsync-malware-steals-macos-crypto-and-credentials-kaspersky-284030",
           "published_at": "2026-09-19T08:08:03+00:00",
           "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+          "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
         }
       ]
     },
@@ -767,7 +1118,7 @@
           "url": "https://economynext.com/india-extends-gap-finance-to-continue-ferry-service-to-sri-lanka-284023",
           "published_at": "2026-09-18T12:49:50+00:00",
           "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+          "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
         }
       ]
     },
@@ -785,7 +1136,7 @@
           "url": "https://economynext.com/sri-lanka-stocks-edge-up-on-friday-to-close-mixed-week-aspi-at-21056-284001",
           "published_at": "2026-09-18T10:36:18+00:00",
           "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+          "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
         }
       ]
     },
@@ -803,7 +1154,7 @@
           "url": "https://economynext.com/david-myers-assumes-duties-as-us-deputy-chief-of-mission-in-sri-lanka-283995",
           "published_at": "2026-09-18T09:32:20+00:00",
           "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+          "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
         }
       ]
     },
@@ -821,7 +1172,7 @@
           "url": "https://economynext.com/sri-lankas-peoples-leasing-and-finance-to-list-13-75-pct-debentures-283984",
           "published_at": "2026-09-18T08:13:57+00:00",
           "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+          "last_seen_at": "2026-09-21T17:06:34.225748+00:00"
         }
       ]
     },
