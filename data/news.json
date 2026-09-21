@@ -1,1 +1,883 @@
-{"updated_at":null,"sources":[],"article_count":0,"articles":[],"stories":[]}
+{
+  "updated_at": "2026-09-21T11:12:33.776830+00:00",
+  "sources": [
+    {
+      "source": "Daily Mirror",
+      "status": "ok",
+      "new_articles": 12,
+      "checked_at": "2026-09-21T11:12:33.776830+00:00"
+    },
+    {
+      "source": "The Island",
+      "status": "ok",
+      "new_articles": 0,
+      "checked_at": "2026-09-21T11:12:33.776830+00:00"
+    },
+    {
+      "source": "EconomyNext",
+      "status": "ok",
+      "new_articles": 20,
+      "checked_at": "2026-09-21T11:12:33.776830+00:00"
+    }
+  ],
+  "article_count": 32,
+  "articles": [
+    {
+      "id": "fa14924564bf4dab7c3ea537",
+      "source": "Daily Mirror",
+      "title": "Low-pressure system to intensify; rainy weather to continue",
+      "url": "https://www.dailymirror.lk/breaking-news/Low-pressure-system-to-intensify;-rainy-weather-to-continue/108-350820",
+      "published_at": "2026-09-21T16:30:00+00:00",
+      "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+    },
+    {
+      "id": "946326a61204c0d46f23df5a",
+      "source": "Daily Mirror",
+      "title": "One dead, seven injured following wasp attack in Lindula",
+      "url": "https://www.dailymirror.lk/breaking-news/One-dead--seven-injured-following-wasp-attack-in-Lindula/108-350814",
+      "published_at": "2026-09-21T15:27:00+00:00",
+      "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+    },
+    {
+      "id": "d424c0772604d12770be4b5f",
+      "source": "Daily Mirror",
+      "title": "Repeated crises leave Sri Lankans facing layers of trauma, loss",
+      "url": "https://www.dailymirror.lk/breaking-news/Repeated-crises-leave-Sri-Lankans-facing-layers-of-trauma--loss/108-350808",
+      "published_at": "2026-09-21T14:23:00+00:00",
+      "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+    },
+    {
+      "id": "21bc29be94adbb78828f0a77",
+      "source": "Daily Mirror",
+      "title": "Aeroflot to resume flights on October 3",
+      "url": "https://www.dailymirror.lk/breaking-news/Aeroflot-to-resume-flights-on-October-3/108-350807",
+      "published_at": "2026-09-21T14:09:00+00:00",
+      "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+    },
+    {
+      "id": "c77eb30916d952a78fa4f754",
+      "source": "Daily Mirror",
+      "title": "Speaker receives Supreme Court determination on 22nd Amendment",
+      "url": "https://www.dailymirror.lk/breaking-news/Speaker-receives-Supreme-Court-determination-on-22nd-Amendment/108-350806",
+      "published_at": "2026-09-21T14:04:00+00:00",
+      "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+    },
+    {
+      "id": "db94302779091dce8b8f7cb4",
+      "source": "Daily Mirror",
+      "title": "China’s Xi to visit the US from September 23-25",
+      "url": "https://www.dailymirror.lk/international/China’s-Xi-to-visit-the-US-from-September-23-25/107-350805",
+      "published_at": "2026-09-21T13:45:00+00:00",
+      "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+    },
+    {
+      "id": "648f7eb25dcc41a308422aee",
+      "source": "Daily Mirror",
+      "title": "New music licensing rules introduced for weddings, parties and events",
+      "url": "https://www.dailymirror.lk/breaking-news/New-music-licensing-rules-introduced-for-weddings--parties-and-events/108-350804",
+      "published_at": "2026-09-21T13:36:00+00:00",
+      "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+    },
+    {
+      "id": "c511a2cf38466f8c3a3c8cd9",
+      "source": "Daily Mirror",
+      "title": "Irrigation Department warns of rising river levels amid heavy rain",
+      "url": "https://www.dailymirror.lk/breaking-news/Irrigation-Department-warns-of-rising-river-levels-amid-heavy-rain/108-350803",
+      "published_at": "2026-09-21T13:30:00+00:00",
+      "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+    },
+    {
+      "id": "99b3a3095f7fd4ff6cd1105f",
+      "source": "Daily Mirror",
+      "title": "Police to introduce on-site drug testing for drivers within three months - IGP",
+      "url": "https://www.dailymirror.lk/breaking-news/Police-to-introduce-on-site-drug-testing-for-drivers-within-three-months---IGP/108-350802",
+      "published_at": "2026-09-21T13:10:00+00:00",
+      "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+    },
+    {
+      "id": "f168a7308fe7563a8b6415b6",
+      "source": "Daily Mirror",
+      "title": "“ViYASA” National Business Facilitation Centre to open tomorrow",
+      "url": "https://www.dailymirror.lk/breaking-news/“ViYASA”-National-Business-Facilitation-Centre-to-open-tomorrow/108-350801",
+      "published_at": "2026-09-21T12:53:00+00:00",
+      "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+    },
+    {
+      "id": "3195d48b16bae00410951829",
+      "source": "Daily Mirror",
+      "title": "SLMC appoints new National List MP",
+      "url": "https://www.dailymirror.lk/breaking-news/SLMC-appoints-new-National-List-MP/108-350799",
+      "published_at": "2026-09-21T12:47:00+00:00",
+      "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+    },
+    {
+      "id": "987bbaf82b350f4ef5a6e09b",
+      "source": "Daily Mirror",
+      "title": "190,000 cancer injections allegedly imported without approval",
+      "url": "https://www.dailymirror.lk/breaking-news/190-000-cancer-injections-allegedly-imported-without-approval/108-350798",
+      "published_at": "2026-09-21T12:32:00+00:00",
+      "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+    },
+    {
+      "id": "b634e37753b4c226c6e7c908",
+      "source": "EconomyNext",
+      "title": "Sri Lanka parliamentarians visit China, South Africa for regional forums",
+      "url": "https://economynext.com/sri-lanka-parliamentarians-visit-china-south-africa-for-regional-forums-284133",
+      "published_at": "2026-09-21T10:35:07+00:00",
+      "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+    },
+    {
+      "id": "827f1213e2d3337cdfc56a73",
+      "source": "EconomyNext",
+      "title": "Sri Lanka stocks close lower; ASPI drops 0.37-pct",
+      "url": "https://economynext.com/sri-lanka-stocks-close-lower-aspi-drops-0-37-pct-284121",
+      "published_at": "2026-09-21T09:55:15+00:00",
+      "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+    },
+    {
+      "id": "2b6c58d24ded240065df398f",
+      "source": "EconomyNext",
+      "title": "Sri Lanka economic summit to focus on energy transition",
+      "url": "https://economynext.com/sri-lanka-economic-summit-to-focus-on-energy-transition-284115",
+      "published_at": "2026-09-21T09:01:28+00:00",
+      "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+    },
+    {
+      "id": "7d3f3c17922cf72789618e7e",
+      "source": "EconomyNext",
+      "title": "ADB launches $6bn push for healthier seas and coastal economies",
+      "url": "https://economynext.com/adb-launches-6bn-push-for-healthier-seas-and-coastal-economies-284111",
+      "published_at": "2026-09-21T07:18:19+00:00",
+      "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+    },
+    {
+      "id": "31754142cf09ab34994b725a",
+      "source": "EconomyNext",
+      "title": "Sri Lanka’s Softlogic Finance plans Rs1bn rights issue",
+      "url": "https://economynext.com/sri-lankas-softlogic-finance-plans-rs1bn-rights-issue-284055",
+      "published_at": "2026-09-21T05:02:07+00:00",
+      "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+    },
+    {
+      "id": "8483b2b0963e2ca8bf7ac39d",
+      "source": "EconomyNext",
+      "title": "Sri Lanka rupee at 331.00/25 to US dollar spot, bond yields lower",
+      "url": "https://economynext.com/sri-lanka-rupee-at-331-00-25-to-us-dollar-spot-bond-yields-lower-284062",
+      "published_at": "2026-09-21T04:36:47+00:00",
+      "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+    },
+    {
+      "id": "d490d584ddc553b720bcfd08",
+      "source": "EconomyNext",
+      "title": "Sri Lanka’s Aitken Spence Hotel Holdings debenture sale oversubscribed",
+      "url": "https://economynext.com/sri-lankas-aitken-spence-hotel-holdings-debenture-sale-oversubscribed-284073",
+      "published_at": "2026-09-21T04:35:59+00:00",
+      "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+    },
+    {
+      "id": "5229dbe8cb25df1072f2cddf",
+      "source": "EconomyNext",
+      "title": "Sri Lanka stocks open marginally up on Monday; ASPI at 21,070",
+      "url": "https://economynext.com/sri-lanka-stocks-open-marginally-up-on-monday-aspi-at-21070-284056",
+      "published_at": "2026-09-21T04:34:43+00:00",
+      "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+    },
+    {
+      "id": "1ea3e4ccaa37aad03de1522c",
+      "source": "EconomyNext",
+      "title": "Fitch affirms and withdraws Capital Alliance Investment Grade Fund",
+      "url": "https://economynext.com/fitch-affirms-and-withdraws-capital-alliance-investment-grade-fund-284040",
+      "published_at": "2026-09-20T03:30:39+00:00",
+      "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+    },
+    {
+      "id": "f3448ef44a3b235cc94176ea",
+      "source": "EconomyNext",
+      "title": "Sri Lanka’s stories reimagined in What Lives Between exhibition",
+      "url": "https://economynext.com/sri-lankas-stories-reimagined-in-what-lives-between-exhibition-284048",
+      "published_at": "2026-09-20T03:09:12+00:00",
+      "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+    },
+    {
+      "id": "b0ee45d49d81550b443eb7b7",
+      "source": "EconomyNext",
+      "title": "Sri Lanka’s monthly tourism revenue rises for first time in 10 months; up 2.1-pct in August 2026",
+      "url": "https://economynext.com/sri-lankas-monthly-tourism-revenue-rises-for-first-time-in-10-months-up-2-1-pct-in-august-2026-284038",
+      "published_at": "2026-09-19T11:01:29+00:00",
+      "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+    },
+    {
+      "id": "3dcdaa62094408dcb413aa0f",
+      "source": "EconomyNext",
+      "title": "New MacSync malware steals macOS crypto and credentials: Kaspersky",
+      "url": "https://economynext.com/new-macsync-malware-steals-macos-crypto-and-credentials-kaspersky-284030",
+      "published_at": "2026-09-19T08:08:03+00:00",
+      "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+    },
+    {
+      "id": "37d3a727f86990e0ff06f094",
+      "source": "EconomyNext",
+      "title": "India extends gap finance to continue ferry service to Sri Lanka",
+      "url": "https://economynext.com/india-extends-gap-finance-to-continue-ferry-service-to-sri-lanka-284023",
+      "published_at": "2026-09-18T12:49:50+00:00",
+      "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+    },
+    {
+      "id": "f2a50a552ac36f60aee8ecbb",
+      "source": "EconomyNext",
+      "title": "Sri Lanka rupee closes at 330.75/331.25 to US dollar spot, bond yields drop",
+      "url": "https://economynext.com/sri-lanka-rupee-closes-at-330-75-331-25-to-us-dollar-spot-bond-yields-drop-284016",
+      "published_at": "2026-09-18T11:44:45+00:00",
+      "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+    },
+    {
+      "id": "7bd4b0cc67694eef556c8fe3",
+      "source": "EconomyNext",
+      "title": "Sri Lanka stocks edge up on Friday to close mixed week; ASPI at 21,056",
+      "url": "https://economynext.com/sri-lanka-stocks-edge-up-on-friday-to-close-mixed-week-aspi-at-21056-284001",
+      "published_at": "2026-09-18T10:36:18+00:00",
+      "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+    },
+    {
+      "id": "c9ff57dfbf079589ef640954",
+      "source": "EconomyNext",
+      "title": "David Myers assumes duties as US Deputy Chief of Mission in Sri Lanka",
+      "url": "https://economynext.com/david-myers-assumes-duties-as-us-deputy-chief-of-mission-in-sri-lanka-283995",
+      "published_at": "2026-09-18T09:32:20+00:00",
+      "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+    },
+    {
+      "id": "f25ffdc67c4f6bdb566b1452",
+      "source": "EconomyNext",
+      "title": "Sri Lanka’s People’s Leasing and Finance to list 13.75-pct debentures",
+      "url": "https://economynext.com/sri-lankas-peoples-leasing-and-finance-to-list-13-75-pct-debentures-283984",
+      "published_at": "2026-09-18T08:13:57+00:00",
+      "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+    },
+    {
+      "id": "6a5127610fe826cac06dc90d",
+      "source": "EconomyNext",
+      "title": "Sri Lanka condemns global cluster munition use at UN review conference",
+      "url": "https://economynext.com/sri-lanka-condemns-global-cluster-munition-use-at-un-review-conference-283975",
+      "published_at": "2026-09-18T07:02:15+00:00",
+      "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+    },
+    {
+      "id": "2a3ba12e3763801f0e0a788a",
+      "source": "EconomyNext",
+      "title": "Sri Lanka’s WindForce and Vidullanka commission first BESS facility",
+      "url": "https://economynext.com/sri-lankas-windforce-and-vidullanka-commission-first-bess-facility-283922",
+      "published_at": "2026-09-18T05:12:08+00:00",
+      "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+    },
+    {
+      "id": "b2d4893be30e209f8201324d",
+      "source": "EconomyNext",
+      "title": "Sri Lanka stocks open higher on Friday morning",
+      "url": "https://economynext.com/sri-lanka-stocks-open-higher-on-friday-morning-283926",
+      "published_at": "2026-09-18T05:11:21+00:00",
+      "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+    }
+  ],
+  "stories": [
+    {
+      "id": "fa14924564bf4dab7c3ea537",
+      "title": "Low-pressure system to intensify; rainy weather to continue",
+      "earliest_published_at": "2026-09-21T16:30:00+00:00",
+      "earliest_first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "latest_at": "2026-09-21T16:30:00+00:00",
+      "articles": [
+        {
+          "id": "fa14924564bf4dab7c3ea537",
+          "source": "Daily Mirror",
+          "title": "Low-pressure system to intensify; rainy weather to continue",
+          "url": "https://www.dailymirror.lk/breaking-news/Low-pressure-system-to-intensify;-rainy-weather-to-continue/108-350820",
+          "published_at": "2026-09-21T16:30:00+00:00",
+          "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+        }
+      ]
+    },
+    {
+      "id": "946326a61204c0d46f23df5a",
+      "title": "One dead, seven injured following wasp attack in Lindula",
+      "earliest_published_at": "2026-09-21T15:27:00+00:00",
+      "earliest_first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "latest_at": "2026-09-21T15:27:00+00:00",
+      "articles": [
+        {
+          "id": "946326a61204c0d46f23df5a",
+          "source": "Daily Mirror",
+          "title": "One dead, seven injured following wasp attack in Lindula",
+          "url": "https://www.dailymirror.lk/breaking-news/One-dead--seven-injured-following-wasp-attack-in-Lindula/108-350814",
+          "published_at": "2026-09-21T15:27:00+00:00",
+          "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+        }
+      ]
+    },
+    {
+      "id": "d424c0772604d12770be4b5f",
+      "title": "Repeated crises leave Sri Lankans facing layers of trauma, loss",
+      "earliest_published_at": "2026-09-21T14:23:00+00:00",
+      "earliest_first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "latest_at": "2026-09-21T14:23:00+00:00",
+      "articles": [
+        {
+          "id": "d424c0772604d12770be4b5f",
+          "source": "Daily Mirror",
+          "title": "Repeated crises leave Sri Lankans facing layers of trauma, loss",
+          "url": "https://www.dailymirror.lk/breaking-news/Repeated-crises-leave-Sri-Lankans-facing-layers-of-trauma--loss/108-350808",
+          "published_at": "2026-09-21T14:23:00+00:00",
+          "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+        }
+      ]
+    },
+    {
+      "id": "21bc29be94adbb78828f0a77",
+      "title": "Aeroflot to resume flights on October 3",
+      "earliest_published_at": "2026-09-21T14:09:00+00:00",
+      "earliest_first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "latest_at": "2026-09-21T14:09:00+00:00",
+      "articles": [
+        {
+          "id": "21bc29be94adbb78828f0a77",
+          "source": "Daily Mirror",
+          "title": "Aeroflot to resume flights on October 3",
+          "url": "https://www.dailymirror.lk/breaking-news/Aeroflot-to-resume-flights-on-October-3/108-350807",
+          "published_at": "2026-09-21T14:09:00+00:00",
+          "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+        }
+      ]
+    },
+    {
+      "id": "c77eb30916d952a78fa4f754",
+      "title": "Speaker receives Supreme Court determination on 22nd Amendment",
+      "earliest_published_at": "2026-09-21T14:04:00+00:00",
+      "earliest_first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "latest_at": "2026-09-21T14:04:00+00:00",
+      "articles": [
+        {
+          "id": "c77eb30916d952a78fa4f754",
+          "source": "Daily Mirror",
+          "title": "Speaker receives Supreme Court determination on 22nd Amendment",
+          "url": "https://www.dailymirror.lk/breaking-news/Speaker-receives-Supreme-Court-determination-on-22nd-Amendment/108-350806",
+          "published_at": "2026-09-21T14:04:00+00:00",
+          "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+        }
+      ]
+    },
+    {
+      "id": "db94302779091dce8b8f7cb4",
+      "title": "China’s Xi to visit the US from September 23-25",
+      "earliest_published_at": "2026-09-21T13:45:00+00:00",
+      "earliest_first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "latest_at": "2026-09-21T13:45:00+00:00",
+      "articles": [
+        {
+          "id": "db94302779091dce8b8f7cb4",
+          "source": "Daily Mirror",
+          "title": "China’s Xi to visit the US from September 23-25",
+          "url": "https://www.dailymirror.lk/international/China’s-Xi-to-visit-the-US-from-September-23-25/107-350805",
+          "published_at": "2026-09-21T13:45:00+00:00",
+          "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+        }
+      ]
+    },
+    {
+      "id": "648f7eb25dcc41a308422aee",
+      "title": "New music licensing rules introduced for weddings, parties and events",
+      "earliest_published_at": "2026-09-21T13:36:00+00:00",
+      "earliest_first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "latest_at": "2026-09-21T13:36:00+00:00",
+      "articles": [
+        {
+          "id": "648f7eb25dcc41a308422aee",
+          "source": "Daily Mirror",
+          "title": "New music licensing rules introduced for weddings, parties and events",
+          "url": "https://www.dailymirror.lk/breaking-news/New-music-licensing-rules-introduced-for-weddings--parties-and-events/108-350804",
+          "published_at": "2026-09-21T13:36:00+00:00",
+          "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+        }
+      ]
+    },
+    {
+      "id": "c511a2cf38466f8c3a3c8cd9",
+      "title": "Irrigation Department warns of rising river levels amid heavy rain",
+      "earliest_published_at": "2026-09-21T13:30:00+00:00",
+      "earliest_first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "latest_at": "2026-09-21T13:30:00+00:00",
+      "articles": [
+        {
+          "id": "c511a2cf38466f8c3a3c8cd9",
+          "source": "Daily Mirror",
+          "title": "Irrigation Department warns of rising river levels amid heavy rain",
+          "url": "https://www.dailymirror.lk/breaking-news/Irrigation-Department-warns-of-rising-river-levels-amid-heavy-rain/108-350803",
+          "published_at": "2026-09-21T13:30:00+00:00",
+          "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+        }
+      ]
+    },
+    {
+      "id": "99b3a3095f7fd4ff6cd1105f",
+      "title": "Police to introduce on-site drug testing for drivers within three months - IGP",
+      "earliest_published_at": "2026-09-21T13:10:00+00:00",
+      "earliest_first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "latest_at": "2026-09-21T13:10:00+00:00",
+      "articles": [
+        {
+          "id": "99b3a3095f7fd4ff6cd1105f",
+          "source": "Daily Mirror",
+          "title": "Police to introduce on-site drug testing for drivers within three months - IGP",
+          "url": "https://www.dailymirror.lk/breaking-news/Police-to-introduce-on-site-drug-testing-for-drivers-within-three-months---IGP/108-350802",
+          "published_at": "2026-09-21T13:10:00+00:00",
+          "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+        }
+      ]
+    },
+    {
+      "id": "f168a7308fe7563a8b6415b6",
+      "title": "“ViYASA” National Business Facilitation Centre to open tomorrow",
+      "earliest_published_at": "2026-09-21T12:53:00+00:00",
+      "earliest_first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "latest_at": "2026-09-21T12:53:00+00:00",
+      "articles": [
+        {
+          "id": "f168a7308fe7563a8b6415b6",
+          "source": "Daily Mirror",
+          "title": "“ViYASA” National Business Facilitation Centre to open tomorrow",
+          "url": "https://www.dailymirror.lk/breaking-news/“ViYASA”-National-Business-Facilitation-Centre-to-open-tomorrow/108-350801",
+          "published_at": "2026-09-21T12:53:00+00:00",
+          "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+        }
+      ]
+    },
+    {
+      "id": "3195d48b16bae00410951829",
+      "title": "SLMC appoints new National List MP",
+      "earliest_published_at": "2026-09-21T12:47:00+00:00",
+      "earliest_first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "latest_at": "2026-09-21T12:47:00+00:00",
+      "articles": [
+        {
+          "id": "3195d48b16bae00410951829",
+          "source": "Daily Mirror",
+          "title": "SLMC appoints new National List MP",
+          "url": "https://www.dailymirror.lk/breaking-news/SLMC-appoints-new-National-List-MP/108-350799",
+          "published_at": "2026-09-21T12:47:00+00:00",
+          "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+        }
+      ]
+    },
+    {
+      "id": "987bbaf82b350f4ef5a6e09b",
+      "title": "190,000 cancer injections allegedly imported without approval",
+      "earliest_published_at": "2026-09-21T12:32:00+00:00",
+      "earliest_first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "latest_at": "2026-09-21T12:32:00+00:00",
+      "articles": [
+        {
+          "id": "987bbaf82b350f4ef5a6e09b",
+          "source": "Daily Mirror",
+          "title": "190,000 cancer injections allegedly imported without approval",
+          "url": "https://www.dailymirror.lk/breaking-news/190-000-cancer-injections-allegedly-imported-without-approval/108-350798",
+          "published_at": "2026-09-21T12:32:00+00:00",
+          "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+        }
+      ]
+    },
+    {
+      "id": "b634e37753b4c226c6e7c908",
+      "title": "Sri Lanka parliamentarians visit China, South Africa for regional forums",
+      "earliest_published_at": "2026-09-21T10:35:07+00:00",
+      "earliest_first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "latest_at": "2026-09-21T10:35:07+00:00",
+      "articles": [
+        {
+          "id": "b634e37753b4c226c6e7c908",
+          "source": "EconomyNext",
+          "title": "Sri Lanka parliamentarians visit China, South Africa for regional forums",
+          "url": "https://economynext.com/sri-lanka-parliamentarians-visit-china-south-africa-for-regional-forums-284133",
+          "published_at": "2026-09-21T10:35:07+00:00",
+          "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+        }
+      ]
+    },
+    {
+      "id": "827f1213e2d3337cdfc56a73",
+      "title": "Sri Lanka stocks close lower; ASPI drops 0.37-pct",
+      "earliest_published_at": "2026-09-21T09:55:15+00:00",
+      "earliest_first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "latest_at": "2026-09-21T09:55:15+00:00",
+      "articles": [
+        {
+          "id": "827f1213e2d3337cdfc56a73",
+          "source": "EconomyNext",
+          "title": "Sri Lanka stocks close lower; ASPI drops 0.37-pct",
+          "url": "https://economynext.com/sri-lanka-stocks-close-lower-aspi-drops-0-37-pct-284121",
+          "published_at": "2026-09-21T09:55:15+00:00",
+          "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+        }
+      ]
+    },
+    {
+      "id": "2b6c58d24ded240065df398f",
+      "title": "Sri Lanka economic summit to focus on energy transition",
+      "earliest_published_at": "2026-09-21T09:01:28+00:00",
+      "earliest_first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "latest_at": "2026-09-21T09:01:28+00:00",
+      "articles": [
+        {
+          "id": "2b6c58d24ded240065df398f",
+          "source": "EconomyNext",
+          "title": "Sri Lanka economic summit to focus on energy transition",
+          "url": "https://economynext.com/sri-lanka-economic-summit-to-focus-on-energy-transition-284115",
+          "published_at": "2026-09-21T09:01:28+00:00",
+          "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+        }
+      ]
+    },
+    {
+      "id": "7d3f3c17922cf72789618e7e",
+      "title": "ADB launches $6bn push for healthier seas and coastal economies",
+      "earliest_published_at": "2026-09-21T07:18:19+00:00",
+      "earliest_first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "latest_at": "2026-09-21T07:18:19+00:00",
+      "articles": [
+        {
+          "id": "7d3f3c17922cf72789618e7e",
+          "source": "EconomyNext",
+          "title": "ADB launches $6bn push for healthier seas and coastal economies",
+          "url": "https://economynext.com/adb-launches-6bn-push-for-healthier-seas-and-coastal-economies-284111",
+          "published_at": "2026-09-21T07:18:19+00:00",
+          "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+        }
+      ]
+    },
+    {
+      "id": "31754142cf09ab34994b725a",
+      "title": "Sri Lanka’s Softlogic Finance plans Rs1bn rights issue",
+      "earliest_published_at": "2026-09-21T05:02:07+00:00",
+      "earliest_first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "latest_at": "2026-09-21T05:02:07+00:00",
+      "articles": [
+        {
+          "id": "31754142cf09ab34994b725a",
+          "source": "EconomyNext",
+          "title": "Sri Lanka’s Softlogic Finance plans Rs1bn rights issue",
+          "url": "https://economynext.com/sri-lankas-softlogic-finance-plans-rs1bn-rights-issue-284055",
+          "published_at": "2026-09-21T05:02:07+00:00",
+          "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+        }
+      ]
+    },
+    {
+      "id": "f2a50a552ac36f60aee8ecbb",
+      "title": "Sri Lanka rupee closes at 330.75/331.25 to US dollar spot, bond yields drop",
+      "earliest_published_at": "2026-09-18T11:44:45+00:00",
+      "earliest_first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "latest_at": "2026-09-21T04:36:47+00:00",
+      "articles": [
+        {
+          "id": "f2a50a552ac36f60aee8ecbb",
+          "source": "EconomyNext",
+          "title": "Sri Lanka rupee closes at 330.75/331.25 to US dollar spot, bond yields drop",
+          "url": "https://economynext.com/sri-lanka-rupee-closes-at-330-75-331-25-to-us-dollar-spot-bond-yields-drop-284016",
+          "published_at": "2026-09-18T11:44:45+00:00",
+          "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+        },
+        {
+          "id": "8483b2b0963e2ca8bf7ac39d",
+          "source": "EconomyNext",
+          "title": "Sri Lanka rupee at 331.00/25 to US dollar spot, bond yields lower",
+          "url": "https://economynext.com/sri-lanka-rupee-at-331-00-25-to-us-dollar-spot-bond-yields-lower-284062",
+          "published_at": "2026-09-21T04:36:47+00:00",
+          "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+        }
+      ]
+    },
+    {
+      "id": "d490d584ddc553b720bcfd08",
+      "title": "Sri Lanka’s Aitken Spence Hotel Holdings debenture sale oversubscribed",
+      "earliest_published_at": "2026-09-21T04:35:59+00:00",
+      "earliest_first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "latest_at": "2026-09-21T04:35:59+00:00",
+      "articles": [
+        {
+          "id": "d490d584ddc553b720bcfd08",
+          "source": "EconomyNext",
+          "title": "Sri Lanka’s Aitken Spence Hotel Holdings debenture sale oversubscribed",
+          "url": "https://economynext.com/sri-lankas-aitken-spence-hotel-holdings-debenture-sale-oversubscribed-284073",
+          "published_at": "2026-09-21T04:35:59+00:00",
+          "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+        }
+      ]
+    },
+    {
+      "id": "5229dbe8cb25df1072f2cddf",
+      "title": "Sri Lanka stocks open marginally up on Monday; ASPI at 21,070",
+      "earliest_published_at": "2026-09-21T04:34:43+00:00",
+      "earliest_first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "latest_at": "2026-09-21T04:34:43+00:00",
+      "articles": [
+        {
+          "id": "5229dbe8cb25df1072f2cddf",
+          "source": "EconomyNext",
+          "title": "Sri Lanka stocks open marginally up on Monday; ASPI at 21,070",
+          "url": "https://economynext.com/sri-lanka-stocks-open-marginally-up-on-monday-aspi-at-21070-284056",
+          "published_at": "2026-09-21T04:34:43+00:00",
+          "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+        }
+      ]
+    },
+    {
+      "id": "1ea3e4ccaa37aad03de1522c",
+      "title": "Fitch affirms and withdraws Capital Alliance Investment Grade Fund",
+      "earliest_published_at": "2026-09-20T03:30:39+00:00",
+      "earliest_first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "latest_at": "2026-09-20T03:30:39+00:00",
+      "articles": [
+        {
+          "id": "1ea3e4ccaa37aad03de1522c",
+          "source": "EconomyNext",
+          "title": "Fitch affirms and withdraws Capital Alliance Investment Grade Fund",
+          "url": "https://economynext.com/fitch-affirms-and-withdraws-capital-alliance-investment-grade-fund-284040",
+          "published_at": "2026-09-20T03:30:39+00:00",
+          "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+        }
+      ]
+    },
+    {
+      "id": "f3448ef44a3b235cc94176ea",
+      "title": "Sri Lanka’s stories reimagined in What Lives Between exhibition",
+      "earliest_published_at": "2026-09-20T03:09:12+00:00",
+      "earliest_first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "latest_at": "2026-09-20T03:09:12+00:00",
+      "articles": [
+        {
+          "id": "f3448ef44a3b235cc94176ea",
+          "source": "EconomyNext",
+          "title": "Sri Lanka’s stories reimagined in What Lives Between exhibition",
+          "url": "https://economynext.com/sri-lankas-stories-reimagined-in-what-lives-between-exhibition-284048",
+          "published_at": "2026-09-20T03:09:12+00:00",
+          "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+        }
+      ]
+    },
+    {
+      "id": "b0ee45d49d81550b443eb7b7",
+      "title": "Sri Lanka’s monthly tourism revenue rises for first time in 10 months; up 2.1-pct in August 2026",
+      "earliest_published_at": "2026-09-19T11:01:29+00:00",
+      "earliest_first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "latest_at": "2026-09-19T11:01:29+00:00",
+      "articles": [
+        {
+          "id": "b0ee45d49d81550b443eb7b7",
+          "source": "EconomyNext",
+          "title": "Sri Lanka’s monthly tourism revenue rises for first time in 10 months; up 2.1-pct in August 2026",
+          "url": "https://economynext.com/sri-lankas-monthly-tourism-revenue-rises-for-first-time-in-10-months-up-2-1-pct-in-august-2026-284038",
+          "published_at": "2026-09-19T11:01:29+00:00",
+          "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+        }
+      ]
+    },
+    {
+      "id": "3dcdaa62094408dcb413aa0f",
+      "title": "New MacSync malware steals macOS crypto and credentials: Kaspersky",
+      "earliest_published_at": "2026-09-19T08:08:03+00:00",
+      "earliest_first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "latest_at": "2026-09-19T08:08:03+00:00",
+      "articles": [
+        {
+          "id": "3dcdaa62094408dcb413aa0f",
+          "source": "EconomyNext",
+          "title": "New MacSync malware steals macOS crypto and credentials: Kaspersky",
+          "url": "https://economynext.com/new-macsync-malware-steals-macos-crypto-and-credentials-kaspersky-284030",
+          "published_at": "2026-09-19T08:08:03+00:00",
+          "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+        }
+      ]
+    },
+    {
+      "id": "37d3a727f86990e0ff06f094",
+      "title": "India extends gap finance to continue ferry service to Sri Lanka",
+      "earliest_published_at": "2026-09-18T12:49:50+00:00",
+      "earliest_first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "latest_at": "2026-09-18T12:49:50+00:00",
+      "articles": [
+        {
+          "id": "37d3a727f86990e0ff06f094",
+          "source": "EconomyNext",
+          "title": "India extends gap finance to continue ferry service to Sri Lanka",
+          "url": "https://economynext.com/india-extends-gap-finance-to-continue-ferry-service-to-sri-lanka-284023",
+          "published_at": "2026-09-18T12:49:50+00:00",
+          "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+        }
+      ]
+    },
+    {
+      "id": "7bd4b0cc67694eef556c8fe3",
+      "title": "Sri Lanka stocks edge up on Friday to close mixed week; ASPI at 21,056",
+      "earliest_published_at": "2026-09-18T10:36:18+00:00",
+      "earliest_first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "latest_at": "2026-09-18T10:36:18+00:00",
+      "articles": [
+        {
+          "id": "7bd4b0cc67694eef556c8fe3",
+          "source": "EconomyNext",
+          "title": "Sri Lanka stocks edge up on Friday to close mixed week; ASPI at 21,056",
+          "url": "https://economynext.com/sri-lanka-stocks-edge-up-on-friday-to-close-mixed-week-aspi-at-21056-284001",
+          "published_at": "2026-09-18T10:36:18+00:00",
+          "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+        }
+      ]
+    },
+    {
+      "id": "c9ff57dfbf079589ef640954",
+      "title": "David Myers assumes duties as US Deputy Chief of Mission in Sri Lanka",
+      "earliest_published_at": "2026-09-18T09:32:20+00:00",
+      "earliest_first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "latest_at": "2026-09-18T09:32:20+00:00",
+      "articles": [
+        {
+          "id": "c9ff57dfbf079589ef640954",
+          "source": "EconomyNext",
+          "title": "David Myers assumes duties as US Deputy Chief of Mission in Sri Lanka",
+          "url": "https://economynext.com/david-myers-assumes-duties-as-us-deputy-chief-of-mission-in-sri-lanka-283995",
+          "published_at": "2026-09-18T09:32:20+00:00",
+          "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+        }
+      ]
+    },
+    {
+      "id": "f25ffdc67c4f6bdb566b1452",
+      "title": "Sri Lanka’s People’s Leasing and Finance to list 13.75-pct debentures",
+      "earliest_published_at": "2026-09-18T08:13:57+00:00",
+      "earliest_first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "latest_at": "2026-09-18T08:13:57+00:00",
+      "articles": [
+        {
+          "id": "f25ffdc67c4f6bdb566b1452",
+          "source": "EconomyNext",
+          "title": "Sri Lanka’s People’s Leasing and Finance to list 13.75-pct debentures",
+          "url": "https://economynext.com/sri-lankas-peoples-leasing-and-finance-to-list-13-75-pct-debentures-283984",
+          "published_at": "2026-09-18T08:13:57+00:00",
+          "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+        }
+      ]
+    },
+    {
+      "id": "6a5127610fe826cac06dc90d",
+      "title": "Sri Lanka condemns global cluster munition use at UN review conference",
+      "earliest_published_at": "2026-09-18T07:02:15+00:00",
+      "earliest_first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "latest_at": "2026-09-18T07:02:15+00:00",
+      "articles": [
+        {
+          "id": "6a5127610fe826cac06dc90d",
+          "source": "EconomyNext",
+          "title": "Sri Lanka condemns global cluster munition use at UN review conference",
+          "url": "https://economynext.com/sri-lanka-condemns-global-cluster-munition-use-at-un-review-conference-283975",
+          "published_at": "2026-09-18T07:02:15+00:00",
+          "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+        }
+      ]
+    },
+    {
+      "id": "2a3ba12e3763801f0e0a788a",
+      "title": "Sri Lanka’s WindForce and Vidullanka commission first BESS facility",
+      "earliest_published_at": "2026-09-18T05:12:08+00:00",
+      "earliest_first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "latest_at": "2026-09-18T05:12:08+00:00",
+      "articles": [
+        {
+          "id": "2a3ba12e3763801f0e0a788a",
+          "source": "EconomyNext",
+          "title": "Sri Lanka’s WindForce and Vidullanka commission first BESS facility",
+          "url": "https://economynext.com/sri-lankas-windforce-and-vidullanka-commission-first-bess-facility-283922",
+          "published_at": "2026-09-18T05:12:08+00:00",
+          "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+        }
+      ]
+    },
+    {
+      "id": "b2d4893be30e209f8201324d",
+      "title": "Sri Lanka stocks open higher on Friday morning",
+      "earliest_published_at": "2026-09-18T05:11:21+00:00",
+      "earliest_first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+      "latest_at": "2026-09-18T05:11:21+00:00",
+      "articles": [
+        {
+          "id": "b2d4893be30e209f8201324d",
+          "source": "EconomyNext",
+          "title": "Sri Lanka stocks open higher on Friday morning",
+          "url": "https://economynext.com/sri-lanka-stocks-open-higher-on-friday-morning-283926",
+          "published_at": "2026-09-18T05:11:21+00:00",
+          "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+        }
+      ]
+    }
+  ]
+}
