@@ -1,51 +1,53 @@
 {
-  "updated_at": "2026-09-22T00:03:06.157071+00:00",
+  "updated_at": "2026-09-22T04:47:43.703248+00:00",
   "sources": [
     {
       "source": "Ada Derana",
       "status": "error",
       "message": "403 Client Error: Forbidden for url: https://sinhala.adaderana.lk/",
-      "checked_at": "2026-09-22T00:03:06.157071+00:00"
+      "checked_at": "2026-09-22T04:47:43.703248+00:00"
     },
     {
       "source": "Hiru News",
       "status": "error",
       "message": "403 Client Error: Forbidden for url: https://www.hirunews.lk/",
-      "checked_at": "2026-09-22T00:03:06.157071+00:00"
+      "checked_at": "2026-09-22T04:47:43.703248+00:00"
     },
     {
       "source": "News First",
       "status": "ok",
       "method": "homepage",
-      "new_articles": 0,
+      "new_articles": 3,
       "items_seen": 31,
-      "checked_at": "2026-09-22T00:03:06.157071+00:00"
+      "checked_at": "2026-09-22T04:47:43.703248+00:00"
     },
     {
       "source": "ITN News",
       "status": "error",
       "message": "403 Client Error: Forbidden for url: https://www.itnnews.lk/",
-      "checked_at": "2026-09-22T00:03:06.157071+00:00"
+      "checked_at": "2026-09-22T04:47:43.703248+00:00"
     },
     {
       "source": "Lankadeepa",
       "status": "error",
       "message": "HTTPSConnectionPool(host='www.lankadeepa.lk', port=443): Read timed out. (read timeout=22)",
-      "checked_at": "2026-09-22T00:03:06.157071+00:00"
+      "checked_at": "2026-09-22T04:47:43.703248+00:00"
     },
     {
       "source": "Daily Mirror",
       "status": "ok",
       "method": "rss",
-      "new_articles": 0,
+      "new_articles": 6,
       "items_seen": 12,
-      "checked_at": "2026-09-22T00:03:06.157071+00:00"
+      "checked_at": "2026-09-22T04:47:43.703248+00:00"
     },
     {
       "source": "EconomyNext",
-      "status": "error",
-      "message": "Feed contains no entries",
-      "checked_at": "2026-09-22T00:03:06.157071+00:00"
+      "status": "ok",
+      "method": "rss",
+      "new_articles": 3,
+      "items_seen": 20,
+      "checked_at": "2026-09-22T04:47:43.703248+00:00"
     },
     {
       "source": "The Island",
@@ -53,11 +55,263 @@
       "method": "rss",
       "new_articles": 10,
       "items_seen": 10,
-      "checked_at": "2026-09-22T00:03:06.157071+00:00"
+      "checked_at": "2026-09-22T04:47:43.703248+00:00"
     }
   ],
-  "article_count": 176,
+  "article_count": 198,
   "articles": [
+    {
+      "id": "d6db131eb51c9937c24f6de8",
+      "source": "Daily Mirror",
+      "source_color": "#A5222D",
+      "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
+      "url": "https://www.dailymirror.lk/international/Iran-must-stop-arming-Houthis-in-Yemen--G7-says-ahead-of-UN-General-Assembly/107-350840",
+      "published_at": "2026-09-22T10:13:00+00:00",
+      "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "category": "world",
+      "discovery": "rss"
+    },
+    {
+      "id": "e779a36e7f5c91e2efe2d9fc",
+      "source": "Daily Mirror",
+      "source_color": "#A5222D",
+      "title": "Sri Lanka, Qatar seek more jobs for skilled workers",
+      "url": "https://www.dailymirror.lk/breaking-news/Sri-Lanka--Qatar-seek-more-jobs-for-skilled-workers/108-350839",
+      "published_at": "2026-09-22T10:09:00+00:00",
+      "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "category": "main",
+      "discovery": "rss"
+    },
+    {
+      "id": "30f653e0650db9b1a28da3f2",
+      "source": "Daily Mirror",
+      "source_color": "#A5222D",
+      "title": "22nd Amendment does not require referendum, Supreme Court determines: Speaker",
+      "url": "https://www.dailymirror.lk/breaking-news/22nd-Amendment-does-not-require-referendum--Supreme-Court-determines:-Speaker/108-350838",
+      "published_at": "2026-09-22T09:42:00+00:00",
+      "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "category": "main",
+      "discovery": "rss"
+    },
+    {
+      "id": "939dcd41b77183c2c5f0e968",
+      "source": "Daily Mirror",
+      "source_color": "#A5222D",
+      "title": "Security beefed up for Easter verdict",
+      "url": "https://www.dailymirror.lk/breaking-news/Security-beefed-up-for-Easter-verdict/108-350837",
+      "published_at": "2026-09-22T09:40:00+00:00",
+      "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "category": "main",
+      "discovery": "rss"
+    },
+    {
+      "id": "715a95bcbc8c8ad879bb1028",
+      "source": "Daily Mirror",
+      "source_color": "#A5222D",
+      "title": "US to open two new military bases in Greenland, sources say",
+      "url": "https://www.dailymirror.lk/international/US-to-open-two-new-military-bases-in-Greenland--sources-say/107-350836",
+      "published_at": "2026-09-22T09:34:00+00:00",
+      "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "category": "world",
+      "discovery": "rss"
+    },
+    {
+      "id": "85affd037686f4b55060d47c",
+      "source": "Daily Mirror",
+      "source_color": "#A5222D",
+      "title": "Rs. 8.1M bribe: Former Minister’s Secretary arrested",
+      "url": "https://www.dailymirror.lk/breaking-news/Rs--8-1M-bribe:-Former-Minister’s-Secretary-arrested/108-350835",
+      "published_at": "2026-09-22T09:31:00+00:00",
+      "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "category": "politics",
+      "discovery": "rss"
+    },
+    {
+      "id": "e4142e9533243e91ea6e16c7",
+      "source": "News First",
+      "source_color": "#254A8A",
+      "title": "22 ගැන ශ්‍රේෂ්ඨාධිකරණ තීන්දුව අද පාර්ලිමේන්තුවට COLOMBO (News1st) - 22 වැනි ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය පිළිබඳ ශ්‍රේෂ්ඨාධිකරණයේ තීන්දුව කථානායකවරයා විසින් අද පාර්ලිමේන්තුවට ඉදිරිපත් කීරීමට නියමිත ය.ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය පිළිබඳ ශ්‍රේෂ්ඨාධිකරණයේ තීන්දුව කථානායකවරයාට දැනුම් දී තිබුණේ ඊයේ දිනයේ ය.22 වැනි ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය සහ අධිකරණ... 22-09-2026 | 8:58 AM වැඩි විස්තර",
+      "url": "https://sinhala.newsfirst.lk/2026/09/22/22-%e0%b7%80%e0%b7%90%e0%b6%b1%e0%b7%92-%e0%b7%80%e0%b7%8a%e2%80%8d%e0%b6%ba%e0%b7%80%e0%b7%83%e0%b7%8a%e0%b6%ae%e0%b7%8f-%e0%b7%83%e0%b6%82",
+      "published_at": null,
+      "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "category": "politics",
+      "discovery": "homepage"
+    },
+    {
+      "id": "f01daeae3da071f36e72115a",
+      "source": "News First",
+      "source_color": "#254A8A",
+      "title": "දිවයිනේ නිරිත දිග ප්‍රදේශයේ වැසි තත්ත්වය තවදුරටත් COLOMBO(News1st) - දිවයිනේ නිරිත දිග ප්‍රදේශයේ පවතින වැසි තත්ත්වය තවදුරටත් අපේක්ෂා කරන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.බස්නාහිර , සබරගමුව, මධ්‍යම සහ වයඹ පළාත්වල මෙන්ම ගාල්ල සහ මාතර දිස්ත්‍රික්ක වලට ඇතැම් ස්ථාන වලට මිලිමීටර් 100ට වැඩි තද වැසි ඇති විය හැකියි.දිවයිනට ඊසාන දෙසින් බෙංගාල බොක්කේ අන... 22-09-2026 | 7:33 AM වැඩි විස්තර",
+      "url": "https://sinhala.newsfirst.lk/2026/09/22/%e0%b6%af%e0%b7%92%e0%b7%80%e0%b6%ba%e0%b7%92%e0%b6%b1%e0%b7%9a-%e0%b6%b1%e0%b7%92%e0%b6%bb%e0%b7%92%e0%b6%ad-%e0%b6%af%e0%b7%92%e0%b6%9c-%e0%b6%b4%e0%b7%8a",
+      "published_at": null,
+      "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "category": "business",
+      "discovery": "homepage"
+    },
+    {
+      "id": "7896910ce68b18dfe13c06be",
+      "source": "News First",
+      "source_color": "#254A8A",
+      "title": "පාස්කු දින ප්‍රහාරයේ මහ නඩුවේ තීන්දුව අද.. COLOMBO (News 1st) - 2019 වසරේ පාස්කු ඉරු දිනයේ එල්ල කළ ත්‍රස්ත ප්‍රහාර සඳහා කුමන්ත්‍රණය කිරීම, ආධාර අනුබල දීම ඇතුළු චෝදනා 23,270ක් යටතේ නවුෆර් මවුලවී ඇතුළු විත්තිකරුවන් 24 දෙනෙකුට එරෙහි නඩුවේ තීන්දුව අද ප්‍රකාශයට පත් කිරීමට නියමිතව තිබේ.පසුගිය අගෝස්තු 24 වැනිදා වසර පහකට ආසන්න කාලයක් පැවති එම නඩුවේ විභාගය අවසන් කළ කොළඹ ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ල තීන්දුව අද දිනයේ ප්‍රකාශයට පත් කිරීමට තීරණය කළේ ය. නවරත්න මාරසිංහ, රාමනාදන් කන්නන් සහ ... 22-09-2026 | 6:25 AM වැඩි විස්තර",
+      "url": "https://sinhala.newsfirst.lk/2026/09/22/%e0%b6%bd%e0%b7%9d%e0%b6%9a%e0%b6%ba%e0%b6%9a%e0%b7%8a-%e0%b6%9a%e0%b6%b8%e0%b7%8a%e0%b6%b4%e0%b7%8f-%e0%b6%9a%e0%b7%85-%e0%b6%b4%e0%b7%8f%e0%b7%83%e0%b7%8a",
+      "published_at": null,
+      "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "category": "main",
+      "discovery": "homepage"
+    },
+    {
+      "id": "8a0a952b36d4efd3b4d20dbd",
+      "source": "EconomyNext",
+      "source_color": "#B77A1D",
+      "title": "Sri Lanka’s 22nd Amendment needs parliament majority, no referendum: Supreme Court",
+      "url": "https://economynext.com/sri-lankas-22nd-amendment-needs-parliament-majority-no-referendum-supreme-court-284175",
+      "published_at": "2026-09-22T04:04:49+00:00",
+      "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "category": "politics",
+      "discovery": "rss"
+    },
+    {
+      "id": "fe98f8b59cdc20f5029ae67d",
+      "source": "EconomyNext",
+      "source_color": "#B77A1D",
+      "title": "Sri Lanka Supreme Court rules Anti-Corruption Bill clause requires referendum",
+      "url": "https://economynext.com/sri-lanka-supreme-court-rules-anti-corruption-bill-clause-requires-referendum-284205",
+      "published_at": "2026-09-22T04:03:53+00:00",
+      "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "category": "main",
+      "discovery": "rss"
+    },
+    {
+      "id": "4c892eb1ea17d45e3098a9fb",
+      "source": "The Island",
+      "source_color": "#3B5F7A",
+      "title": "Showers about 100mm will occur in the Western, Sabaragamuwa, Central and North-western provinces and in Galle and Matara Districts",
+      "url": "http://island.lk/showers-about-100mm-will-occur-in-the-western-sabaragamuwa-central-and-north-western-provinces-and-in-galle-and-matara-districts",
+      "published_at": "2026-09-22T00:29:33+00:00",
+      "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "category": "main",
+      "discovery": "rss"
+    },
+    {
+      "id": "0820ea05c71d91cd37d03cc7",
+      "source": "The Island",
+      "source_color": "#3B5F7A",
+      "title": "Govt. confident of 2/3 majority despite NPP split speculation",
+      "url": "http://island.lk/govt-confident-of-2-3-majority-despite-npp-split-speculation",
+      "published_at": "2026-09-22T00:05:00+00:00",
+      "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "category": "main",
+      "discovery": "rss"
+    },
+    {
+      "id": "b9273c193d88331641fade2d",
+      "source": "The Island",
+      "source_color": "#3B5F7A",
+      "title": "Justice Corea appointed Acting President of the Court of Appeal",
+      "url": "http://island.lk/justice-corea-appointed-acting-president-of-the-court-of-appeal",
+      "published_at": "2026-09-22T00:03:46+00:00",
+      "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "category": "politics",
+      "discovery": "rss"
+    },
+    {
+      "id": "383b8f858ec3989e0babb43d",
+      "source": "The Island",
+      "source_color": "#3B5F7A",
+      "title": "Protest against setting up of cement factory in highly populated area near BIA",
+      "url": "http://island.lk/protest-against-setting-up-of-cement-factory-in-highly-populated-area-near-bia",
+      "published_at": "2026-09-22T00:02:23+00:00",
+      "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "category": "sports",
+      "discovery": "rss"
+    },
+    {
+      "id": "5c91ff9fa44641ef12f593a7",
+      "source": "The Island",
+      "source_color": "#3B5F7A",
+      "title": "India funding 13 new bridges, Moragahakanda structure receiving priority",
+      "url": "http://island.lk/india-funding-13-new-bridges-moragahakanda-structure-receiving-priority",
+      "published_at": "2026-09-22T00:01:25+00:00",
+      "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "category": "world",
+      "discovery": "rss"
+    },
+    {
+      "id": "c0d6e3898a25070b8676a500",
+      "source": "The Island",
+      "source_color": "#3B5F7A",
+      "title": "Cross-border supply chains seen as key to new business opportunities",
+      "url": "http://island.lk/cross-border-supply-chains-seen-as-key-to-new-business-opportunities",
+      "published_at": "2026-09-22T00:00:52+00:00",
+      "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "category": "business",
+      "discovery": "rss"
+    },
+    {
+      "id": "a2cb6cde09cb09abb038e7ea",
+      "source": "The Island",
+      "source_color": "#3B5F7A",
+      "title": "Defend civic space upon which peace is built",
+      "url": "http://island.lk/defend-civic-space-upon-which-peace-is-built",
+      "published_at": "2026-09-22T00:00:15+00:00",
+      "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "category": "main",
+      "discovery": "rss"
+    },
+    {
+      "id": "5b9e9cf982542168e3879069",
+      "source": "The Island",
+      "source_color": "#3B5F7A",
+      "title": "Illusion of recovery: Three fault lines threatening Sri Lanka’s future",
+      "url": "http://island.lk/illusion-of-recovery-three-fault-lines-threatening-sri-lankas-future",
+      "published_at": "2026-09-22T00:00:13+00:00",
+      "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "category": "main",
+      "discovery": "rss"
+    },
+    {
+      "id": "b3b0870dca0aecd659832db4",
+      "source": "The Island",
+      "source_color": "#3B5F7A",
+      "title": "Trouble beginning in earnest",
+      "url": "http://island.lk/trouble-beginning-in-earnest",
+      "published_at": "2026-09-22T00:00:08+00:00",
+      "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "category": "main",
+      "discovery": "rss"
+    },
+    {
+      "id": "d5ff2de13533e23174625052",
+      "source": "The Island",
+      "source_color": "#3B5F7A",
+      "title": "Expect some stormy weather from disturbance in Bay of Bengal",
+      "url": "http://island.lk/expect-some-stormy-weather-from-disturbance-in-bay-of-bengal",
+      "published_at": "2026-09-22T00:00:02+00:00",
+      "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "category": "main",
+      "discovery": "rss"
+    },
     {
       "id": "aeb6a3b1521f4d4f748160c0",
       "source": "The Island",
@@ -185,7 +439,7 @@
       "url": "https://www.dailymirror.lk/international/CNN--MS-NOW-and-Politico-sue-Trump-over-White-House-ban/107-350834",
       "published_at": "2026-09-21T21:39:00+00:00",
       "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-      "last_seen_at": "2026-09-22T00:03:06.157071+00:00"
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
     },
     {
       "id": "ca3225896f69a8dd09046465",
@@ -194,7 +448,7 @@
       "url": "https://www.dailymirror.lk/breaking-news/CSE-slips-below-21-000-as-turnover-falls-to-second-lowest-level-YTD/108-350833",
       "published_at": "2026-09-21T20:49:00+00:00",
       "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-      "last_seen_at": "2026-09-22T00:03:06.157071+00:00"
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
     },
     {
       "id": "33907ce9bac5d42e1d81b605",
@@ -203,7 +457,7 @@
       "url": "https://www.dailymirror.lk/breaking-news/Nimal-Perera-must-face-legal-action-over-bond-scam:-Lawyer/108-350832",
       "published_at": "2026-09-21T20:45:00+00:00",
       "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-      "last_seen_at": "2026-09-22T00:03:06.157071+00:00"
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
     },
     {
       "id": "3aa799601ef11084e23c46d6",
@@ -212,7 +466,7 @@
       "url": "https://www.dailymirror.lk/breaking-news/Ampara-human-elephant-conflict:-14-new-control-units-to-be-established/108-350830",
       "published_at": "2026-09-21T20:02:00+00:00",
       "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-      "last_seen_at": "2026-09-22T00:03:06.157071+00:00"
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
     },
     {
       "id": "01e01de7fd3d3bfeb2c8817d",
@@ -221,7 +475,7 @@
       "url": "https://www.dailymirror.lk/breaking-news/Vijitha-Herath-to-make-special-statement-in-Parliament-on-Sivarasa-Anojan/108-350829",
       "published_at": "2026-09-21T18:59:00+00:00",
       "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-      "last_seen_at": "2026-09-22T00:03:06.157071+00:00"
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
     },
     {
       "id": "029a11ce3172df4d3225cb8c",
@@ -230,7 +484,7 @@
       "url": "https://www.dailymirror.lk/breaking-news/Justice-Mayadunna-Corea-appointed-Acting-President-of-Court-of-Appeal/108-350828",
       "published_at": "2026-09-21T18:33:00+00:00",
       "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-      "last_seen_at": "2026-09-22T00:03:06.157071+00:00"
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
     },
     {
       "id": "ec70ba9c4ecb2ffdb9afc761",
@@ -251,6 +505,18 @@
       "last_seen_at": "2026-09-22T00:03:06.157071+00:00"
     },
     {
+      "id": "41ab8de8f7897f513e4d8e69",
+      "source": "EconomyNext",
+      "source_color": "#B77A1D",
+      "title": "Sri Lanka’s national inflation rises 8.1-pct in August",
+      "url": "https://economynext.com/sri-lankas-national-inflation-rises-8-1-pct-in-august-284169",
+      "published_at": "2026-09-21T18:12:55+00:00",
+      "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+      "category": "main",
+      "discovery": "rss"
+    },
+    {
       "id": "4921d37767206ad9968bc5a0",
       "source": "News First",
       "source_color": "#254A8A",
@@ -258,7 +524,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%85%e0%b6%ad%e0%b7%94%e0%b6%bb%e0%b7%94%e0%b6%9c%e0%b7%92%e0%b6%bb%e0%b7%92%e0%b6%ba-%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%af%e0%b7%9a%e0%b7%81%e0%b6%ba%e0%b7%9a",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
       "category": "main",
       "discovery": "homepage"
     },
@@ -270,7 +536,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b7%80%e0%b6%bb%e0%b7%99%e0%b6%b1%e0%b7%8a%e0%b6%ad%e0%b7%94-%e0%b6%bd%e0%b7%90%e0%b6%b6%e0%b7%92%e0%b6%bd%e0%b7%8f-%e0%b6%a7%e0%b7%92%e0%b6%9a-%e0%b7%80",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
       "category": "politics",
       "discovery": "homepage"
     },
@@ -282,7 +548,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b7%80%e0%b7%8f%e0%b7%84%e0%b6%b1-11-%e0%b6%9a%e0%b7%8a-%e0%b6%91%e0%b6%9a%e0%b7%92%e0%b6%b1%e0%b7%99%e0%b6%9a-%e0%b6%9c%e0%b7%90",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
       "category": "main",
       "discovery": "homepage"
     },
@@ -294,7 +560,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%9a%e0%b7%90%e0%b6%bd%e0%b6%ab%e0%b7%92-%e0%b6%9a%e0%b7%85%e0%b7%94-%e0%b6%9c%e0%b7%92%e0%b6%82-%e0%b6%9c%e0%b6%82%e0%b6%9c%e0%b7%8f-%e0%b7%83",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
       "category": "business",
       "discovery": "homepage"
     },
@@ -306,7 +572,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/21/22-%e0%b7%80%e0%b7%90%e0%b6%b1%e0%b7%92-%e0%b7%83%e0%b6%82%e0%b7%81%e0%b7%9d%e0%b6%b0%e0%b6%b1%e0%b6%ba-%e0%b6%b4%e0%b7%92%e0%b7%85%e0%b7%92",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
       "category": "politics",
       "discovery": "homepage"
     },
@@ -318,7 +584,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/21/calin-popular-awards",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
       "category": "main",
       "discovery": "homepage"
     },
@@ -330,7 +596,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%9c%e0%b7%92%e0%b6%82-%e0%b7%83%e0%b7%84-%e0%b6%9a%e0%b7%94%e0%b6%a9%e0%b7%8f-%e0%b6%9c%e0%b6%82%e0%b6%9f%e0%b7%8f%e0%b7%80%e0%b6%bd%e0%b6%a7",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
       "category": "main",
       "discovery": "homepage"
     },
@@ -342,7 +608,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%af%e0%b7%92%e0%b7%83%e0%b7%8a%e0%b6%ad%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%92%e0%b6%9a%e0%b7%8a%e0%b6%9a-6%e0%b6%9a%e0%b6%a7-%e0%b6%b1%e0%b7%8f%e0%b6%ba",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
       "category": "main",
       "discovery": "homepage"
     },
@@ -354,7 +620,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/08/27/%e0%b6%bd%e0%b7%9c%e0%b7%80-%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%ae%e0%b6%b8-%e0%b7%80%e0%b6%ad%e0%b7%8f%e0%b7%80%e0%b6%a7-liv",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
       "category": "main",
       "discovery": "homepage"
     },
@@ -366,7 +632,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/08/08/%e0%b6%91%e0%b6%bd%e0%b7%8a-%e0%b6%b1%e0%b7%92%e0%b6%b1%e0%b7%9d-%e0%b7%84%e0%b7%9a%e0%b6%ad%e0%b7%94%e0%b7%80%e0%b7%99%e0%b6%b1%e0%b7%8a-%e0%b6%b8%e0%b7%99",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
       "category": "main",
       "discovery": "homepage"
     },
@@ -378,7 +644,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/07/27/%e0%b7%83%e0%b7%92%e0%b6%bb%e0%b7%83-%e0%b6%bd%e0%b6%9a%e0%b7%8a%e0%b7%82%e0%b6%b4%e0%b6%ad%e0%b7%92-%e0%b6%b1%e0%b7%90%e0%b7%80%e0%b7%94%e0%b6%b8%e0%b7%8a",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
       "category": "main",
       "discovery": "homepage"
     },
@@ -390,7 +656,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%b8%e0%b7%84%e0%b6%b1%e0%b7%94%e0%b7%80%e0%b6%bb-%e0%b6%af%e0%b7%92%e0%b7%83%e0%b7%8a%e0%b6%ad%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%92%e0%b6%9a%e0%b7%8a%e0%b6%9a%e0%b6%ba",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
       "category": "main",
       "discovery": "homepage"
     },
@@ -402,7 +668,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/20/%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%af%e0%b7%9a%e0%b7%81-%e0%b6%9a%e0%b7%92%e0%b7%84%e0%b7%92%e0%b6%b4%e0%b6%ba%e0%b6%9a%e0%b6%a7-%e0%b6%85%e0%b6%af%e0%b7%92",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
       "category": "main",
       "discovery": "homepage"
     },
@@ -426,7 +692,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/20/%e0%b6%86%e0%b7%83%e0%b7%92%e0%b6%ba%e0%b7%8f%e0%b6%b1%e0%b7%94-%e0%b6%9a%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%93%e0%b6%a9%e0%b7%8f-%e0%b6%8b%e0%b7%85%e0%b7%99%e0%b6%bd",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
       "category": "sports",
       "discovery": "homepage"
     },
@@ -450,7 +716,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/20/%e0%b6%ad%e0%b6%bb%e0%b6%9c-3-0%e0%b6%9a%e0%b7%8a-%e0%b6%bd%e0%b7%99%e0%b7%83-%e0%b7%81%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%93",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
       "category": "sports",
       "discovery": "homepage"
     },
@@ -462,7 +728,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/16/%e0%b6%91%e0%b6%82%e0%b6%9c%e0%b6%bd%e0%b6%b1%e0%b7%8a%e0%b6%ad%e0%b6%ba-%e0%b7%84%e0%b6%b8%e0%b7%94%e0%b7%80%e0%b7%9a-%e0%b7%81%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%93",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
       "category": "sports",
       "discovery": "homepage"
     },
@@ -474,7 +740,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/15/%e0%b6%bb%e0%b7%94%e0%b6%b8%e0%b7%9a%e0%b7%82%e0%b7%8a%e0%b6%9c%e0%b7%9a-%e0%b7%84%e0%b7%99%e0%b6%bd%e0%b7%8a%e0%b6%bd-%e0%b6%9a%e0%b6%a7%e0%b7%8a%e0%b6%a7%e0%b6%bd",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
       "category": "sports",
       "discovery": "homepage"
     },
@@ -486,7 +752,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/14/%e0%b6%86%e0%b7%83%e0%b7%92%e0%b6%ba%e0%b7%8f%e0%b6%b1%e0%b7%94-%e0%b6%9a%e0%b7%94%e0%b7%83%e0%b6%bd%e0%b7%8f%e0%b6%b1-t20-%e0%b6%9a",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
       "category": "sports",
       "discovery": "homepage"
     },
@@ -510,7 +776,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/19/%e0%b6%bb%e0%b7%94%e0%b7%83%e0%b7%92%e0%b6%ba%e0%b7%8f%e0%b7%80%e0%b7%99%e0%b6%b1%e0%b7%8a-%e0%b6%ad%e0%b7%99%e0%b6%bd%e0%b7%8a-%e0%b7%83%e0%b7%84-%e0%b6%9c",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
       "category": "politics",
       "discovery": "homepage"
     },
@@ -522,7 +788,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/09/%e0%b6%bd%e0%b7%9d%e0%b6%9a-%e0%b7%83%e0%b7%9e%e0%b6%9b%e0%b7%8a%e2%80%8d%e0%b6%ba-%e0%b7%83%e0%b6%82%e0%b7%80%e0%b7%92%e0%b6%b0%e0%b7%8f%e0%b6%b1%e0%b6%ba%e0%b7%99",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
       "category": "world",
       "discovery": "homepage"
     },
@@ -534,7 +800,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/09/%e0%b6%b6%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%92%e0%b6%ad%e0%b7%8f%e0%b6%b1%e0%b7%8a%e2%80%8d%e0%b6%ba%e0%b6%ba%e0%b7%9a-%e0%b6%9c%e0%b7%94%e0%b7%80%e0%b6%b1%e0%b7%8a",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
       "category": "main",
       "discovery": "homepage"
     },
@@ -546,7 +812,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/08/%e0%b6%b1%e0%b7%90%e0%b7%80%e0%b6%ad-%e0%b6%bb%e0%b6%a7-%e0%b6%9c%e0%b7%9c%e0%b6%a9-%e0%b6%b1%e0%b7%90%e0%b6%9c%e0%b7%93%e0%b6%b8%e0%b7%9a-%e0%b6%9c",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
       "category": "main",
       "discovery": "homepage"
     },
@@ -558,7 +824,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/08/%e0%b7%83%e0%b7%9a%e0%b7%80%e0%b6%9a%e0%b6%ba%e0%b7%92%e0%b6%b1%e0%b7%8a-4-000%e0%b6%9a%e0%b7%8a-%e0%b6%89%e0%b7%80%e0%b6%ad",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
       "category": "main",
       "discovery": "homepage"
     },
@@ -570,7 +836,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/10/apple-%e0%b7%83%e0%b6%b8%e0%b7%8f%e0%b6%9c%e0%b6%b8-%e0%b6%8a%e0%b6%ba%e0%b7%9a-%e0%b6%b4%e0%b7%90%e0%b7%80%e0%b6%ad",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
       "category": "main",
       "discovery": "homepage"
     },
@@ -582,7 +848,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/10/%e0%b6%86%e0%b6%bb%e0%b7%8a%e0%b6%ae%e0%b7%92%e0%b6%9a-%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%ad%e0%b7%92%e0%b7%83%e0%b6%82%e0%b7%83%e0%b7%8a%e0%b6%9a%e0%b6%bb%e0%b6%ab",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
       "category": "business",
       "discovery": "homepage"
     },
@@ -594,7 +860,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/08/25/%e0%b6%bd%e0%b7%9d%e0%b6%9a-%e0%b7%80%e0%b7%99%e0%b7%85%e0%b6%b3%e0%b6%b4%e0%b7%9c%e0%b6%bd%e0%b7%9a-%e0%b6%bb%e0%b6%ad%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%b1%e0%b7%8a",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
       "category": "business",
       "discovery": "homepage"
     },
@@ -606,7 +872,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/08/24/%e0%b7%80%e0%b7%83%e0%b6%bb%e0%b7%9a-%e0%b6%b8%e0%b7%9a-%e0%b6%af%e0%b6%9a%e0%b7%8a%e0%b7%80%e0%b7%8f-%e0%b7%83%e0%b6%82%e0%b6%a0%e0%b7%8f%e0%b6%bb%e0%b6%9a",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
       "category": "world",
       "discovery": "homepage"
     },
@@ -618,7 +884,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/08/19/meta-%e0%b7%83%e0%b6%b8%e0%b7%8f%e0%b6%9c%e0%b6%b8%e0%b6%a7-%e0%b6%91%e0%b6%bb%e0%b7%99%e0%b7%84%e0%b7%92%e0%b7%80-%e0%b6%a9",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
       "category": "business",
       "discovery": "homepage"
     },
@@ -1673,7 +1939,7 @@
       "url": "https://economynext.com/foreign-investors-sell-sri-lanka-rupee-bonds-amid-depreciation-284165",
       "published_at": "2026-09-21T15:19:12+00:00",
       "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
     },
     {
       "id": "d424c0772604d12770be4b5f",
@@ -1772,7 +2038,7 @@
       "url": "https://economynext.com/sri-lanka-rupee-closes-at-330-75-90-to-us-dollar-spot-bond-yields-flat-284154",
       "published_at": "2026-09-21T12:05:47+00:00",
       "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
     },
     {
       "id": "b67de7f217744adb875c933a",
@@ -1781,7 +2047,7 @@
       "url": "https://economynext.com/sri-lankas-resus-energy-commissions-2mw-solar-power-plant-284135",
       "published_at": "2026-09-21T11:56:23+00:00",
       "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
     },
     {
       "id": "b634e37753b4c226c6e7c908",
@@ -1790,7 +2056,7 @@
       "url": "https://economynext.com/sri-lanka-parliamentarians-visit-china-south-africa-for-regional-forums-284133",
       "published_at": "2026-09-21T10:35:07+00:00",
       "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
     },
     {
       "id": "827f1213e2d3337cdfc56a73",
@@ -1799,7 +2065,7 @@
       "url": "https://economynext.com/sri-lanka-stocks-close-lower-aspi-drops-0-37-pct-284121",
       "published_at": "2026-09-21T09:55:15+00:00",
       "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
     },
     {
       "id": "2b6c58d24ded240065df398f",
@@ -1808,7 +2074,7 @@
       "url": "https://economynext.com/sri-lanka-economic-summit-to-focus-on-energy-transition-284115",
       "published_at": "2026-09-21T09:01:28+00:00",
       "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
     },
     {
       "id": "7d3f3c17922cf72789618e7e",
@@ -1817,7 +2083,7 @@
       "url": "https://economynext.com/adb-launches-6bn-push-for-healthier-seas-and-coastal-economies-284111",
       "published_at": "2026-09-21T07:18:19+00:00",
       "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
     },
     {
       "id": "31754142cf09ab34994b725a",
@@ -1826,7 +2092,7 @@
       "url": "https://economynext.com/sri-lankas-softlogic-finance-plans-rs1bn-rights-issue-284055",
       "published_at": "2026-09-21T05:02:07+00:00",
       "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
     },
     {
       "id": "8483b2b0963e2ca8bf7ac39d",
@@ -1835,7 +2101,7 @@
       "url": "https://economynext.com/sri-lanka-rupee-at-331-00-25-to-us-dollar-spot-bond-yields-lower-284062",
       "published_at": "2026-09-21T04:36:47+00:00",
       "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
     },
     {
       "id": "d490d584ddc553b720bcfd08",
@@ -1844,7 +2110,7 @@
       "url": "https://economynext.com/sri-lankas-aitken-spence-hotel-holdings-debenture-sale-oversubscribed-284073",
       "published_at": "2026-09-21T04:35:59+00:00",
       "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
     },
     {
       "id": "5229dbe8cb25df1072f2cddf",
@@ -1853,7 +2119,7 @@
       "url": "https://economynext.com/sri-lanka-stocks-open-marginally-up-on-monday-aspi-at-21070-284056",
       "published_at": "2026-09-21T04:34:43+00:00",
       "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
     },
     {
       "id": "4c1429adac911c3376272096",
@@ -1934,7 +2200,7 @@
       "url": "https://economynext.com/fitch-affirms-and-withdraws-capital-alliance-investment-grade-fund-284040",
       "published_at": "2026-09-20T03:30:39+00:00",
       "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
     },
     {
       "id": "f3448ef44a3b235cc94176ea",
@@ -1943,7 +2209,7 @@
       "url": "https://economynext.com/sri-lankas-stories-reimagined-in-what-lives-between-exhibition-284048",
       "published_at": "2026-09-20T03:09:12+00:00",
       "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
     },
     {
       "id": "b0ee45d49d81550b443eb7b7",
@@ -1952,7 +2218,7 @@
       "url": "https://economynext.com/sri-lankas-monthly-tourism-revenue-rises-for-first-time-in-10-months-up-2-1-pct-in-august-2026-284038",
       "published_at": "2026-09-19T11:01:29+00:00",
       "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
     },
     {
       "id": "3dcdaa62094408dcb413aa0f",
@@ -1961,7 +2227,7 @@
       "url": "https://economynext.com/new-macsync-malware-steals-macos-crypto-and-credentials-kaspersky-284030",
       "published_at": "2026-09-19T08:08:03+00:00",
       "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
     },
     {
       "id": "37d3a727f86990e0ff06f094",
@@ -1970,7 +2236,7 @@
       "url": "https://economynext.com/india-extends-gap-finance-to-continue-ferry-service-to-sri-lanka-284023",
       "published_at": "2026-09-18T12:49:50+00:00",
       "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
     },
     {
       "id": "f2a50a552ac36f60aee8ecbb",
@@ -1979,7 +2245,7 @@
       "url": "https://economynext.com/sri-lanka-rupee-closes-at-330-75-331-25-to-us-dollar-spot-bond-yields-drop-284016",
       "published_at": "2026-09-18T11:44:45+00:00",
       "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-      "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+      "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
     },
     {
       "id": "7bd4b0cc67694eef556c8fe3",
@@ -2037,6 +2303,996 @@
     }
   ],
   "stories": [
+    {
+      "id": "d6db131eb51c9937c24f6de8",
+      "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
+      "article_count": 1,
+      "first_report": {
+        "id": "d6db131eb51c9937c24f6de8",
+        "source": "Daily Mirror",
+        "source_color": "#A5222D",
+        "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
+        "url": "https://www.dailymirror.lk/international/Iran-must-stop-arming-Houthis-in-Yemen--G7-says-ahead-of-UN-General-Assembly/107-350840",
+        "published_at": "2026-09-22T10:13:00+00:00",
+        "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "category": "world",
+        "discovery": "rss"
+      },
+      "first_detected": {
+        "id": "d6db131eb51c9937c24f6de8",
+        "source": "Daily Mirror",
+        "source_color": "#A5222D",
+        "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
+        "url": "https://www.dailymirror.lk/international/Iran-must-stop-arming-Houthis-in-Yemen--G7-says-ahead-of-UN-General-Assembly/107-350840",
+        "published_at": "2026-09-22T10:13:00+00:00",
+        "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "category": "world",
+        "discovery": "rss"
+      },
+      "earliest_at": "2026-09-22T10:13:00+00:00",
+      "latest_at": "2026-09-22T10:13:00+00:00",
+      "articles": [
+        {
+          "id": "d6db131eb51c9937c24f6de8",
+          "source": "Daily Mirror",
+          "source_color": "#A5222D",
+          "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
+          "url": "https://www.dailymirror.lk/international/Iran-must-stop-arming-Houthis-in-Yemen--G7-says-ahead-of-UN-General-Assembly/107-350840",
+          "published_at": "2026-09-22T10:13:00+00:00",
+          "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "category": "world",
+          "discovery": "rss"
+        }
+      ]
+    },
+    {
+      "id": "e779a36e7f5c91e2efe2d9fc",
+      "title": "Sri Lanka, Qatar seek more jobs for skilled workers",
+      "article_count": 1,
+      "first_report": {
+        "id": "e779a36e7f5c91e2efe2d9fc",
+        "source": "Daily Mirror",
+        "source_color": "#A5222D",
+        "title": "Sri Lanka, Qatar seek more jobs for skilled workers",
+        "url": "https://www.dailymirror.lk/breaking-news/Sri-Lanka--Qatar-seek-more-jobs-for-skilled-workers/108-350839",
+        "published_at": "2026-09-22T10:09:00+00:00",
+        "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "category": "main",
+        "discovery": "rss"
+      },
+      "first_detected": {
+        "id": "e779a36e7f5c91e2efe2d9fc",
+        "source": "Daily Mirror",
+        "source_color": "#A5222D",
+        "title": "Sri Lanka, Qatar seek more jobs for skilled workers",
+        "url": "https://www.dailymirror.lk/breaking-news/Sri-Lanka--Qatar-seek-more-jobs-for-skilled-workers/108-350839",
+        "published_at": "2026-09-22T10:09:00+00:00",
+        "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "category": "main",
+        "discovery": "rss"
+      },
+      "earliest_at": "2026-09-22T10:09:00+00:00",
+      "latest_at": "2026-09-22T10:09:00+00:00",
+      "articles": [
+        {
+          "id": "e779a36e7f5c91e2efe2d9fc",
+          "source": "Daily Mirror",
+          "source_color": "#A5222D",
+          "title": "Sri Lanka, Qatar seek more jobs for skilled workers",
+          "url": "https://www.dailymirror.lk/breaking-news/Sri-Lanka--Qatar-seek-more-jobs-for-skilled-workers/108-350839",
+          "published_at": "2026-09-22T10:09:00+00:00",
+          "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "category": "main",
+          "discovery": "rss"
+        }
+      ]
+    },
+    {
+      "id": "c77eb30916d952a78fa4f754",
+      "title": "Speaker receives Supreme Court determination on 22nd Amendment",
+      "article_count": 2,
+      "first_report": {
+        "id": "c77eb30916d952a78fa4f754",
+        "source": "Daily Mirror",
+        "title": "Speaker receives Supreme Court determination on 22nd Amendment",
+        "url": "https://www.dailymirror.lk/breaking-news/Speaker-receives-Supreme-Court-determination-on-22nd-Amendment/108-350806",
+        "published_at": "2026-09-21T14:04:00+00:00",
+        "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+        "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+      },
+      "first_detected": {
+        "id": "c77eb30916d952a78fa4f754",
+        "source": "Daily Mirror",
+        "title": "Speaker receives Supreme Court determination on 22nd Amendment",
+        "url": "https://www.dailymirror.lk/breaking-news/Speaker-receives-Supreme-Court-determination-on-22nd-Amendment/108-350806",
+        "published_at": "2026-09-21T14:04:00+00:00",
+        "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+        "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+      },
+      "earliest_at": "2026-09-21T14:04:00+00:00",
+      "latest_at": "2026-09-22T09:42:00+00:00",
+      "articles": [
+        {
+          "id": "c77eb30916d952a78fa4f754",
+          "source": "Daily Mirror",
+          "title": "Speaker receives Supreme Court determination on 22nd Amendment",
+          "url": "https://www.dailymirror.lk/breaking-news/Speaker-receives-Supreme-Court-determination-on-22nd-Amendment/108-350806",
+          "published_at": "2026-09-21T14:04:00+00:00",
+          "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
+          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
+        },
+        {
+          "id": "30f653e0650db9b1a28da3f2",
+          "source": "Daily Mirror",
+          "source_color": "#A5222D",
+          "title": "22nd Amendment does not require referendum, Supreme Court determines: Speaker",
+          "url": "https://www.dailymirror.lk/breaking-news/22nd-Amendment-does-not-require-referendum--Supreme-Court-determines:-Speaker/108-350838",
+          "published_at": "2026-09-22T09:42:00+00:00",
+          "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "category": "main",
+          "discovery": "rss"
+        }
+      ]
+    },
+    {
+      "id": "939dcd41b77183c2c5f0e968",
+      "title": "Security beefed up for Easter verdict",
+      "article_count": 1,
+      "first_report": {
+        "id": "939dcd41b77183c2c5f0e968",
+        "source": "Daily Mirror",
+        "source_color": "#A5222D",
+        "title": "Security beefed up for Easter verdict",
+        "url": "https://www.dailymirror.lk/breaking-news/Security-beefed-up-for-Easter-verdict/108-350837",
+        "published_at": "2026-09-22T09:40:00+00:00",
+        "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "category": "main",
+        "discovery": "rss"
+      },
+      "first_detected": {
+        "id": "939dcd41b77183c2c5f0e968",
+        "source": "Daily Mirror",
+        "source_color": "#A5222D",
+        "title": "Security beefed up for Easter verdict",
+        "url": "https://www.dailymirror.lk/breaking-news/Security-beefed-up-for-Easter-verdict/108-350837",
+        "published_at": "2026-09-22T09:40:00+00:00",
+        "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "category": "main",
+        "discovery": "rss"
+      },
+      "earliest_at": "2026-09-22T09:40:00+00:00",
+      "latest_at": "2026-09-22T09:40:00+00:00",
+      "articles": [
+        {
+          "id": "939dcd41b77183c2c5f0e968",
+          "source": "Daily Mirror",
+          "source_color": "#A5222D",
+          "title": "Security beefed up for Easter verdict",
+          "url": "https://www.dailymirror.lk/breaking-news/Security-beefed-up-for-Easter-verdict/108-350837",
+          "published_at": "2026-09-22T09:40:00+00:00",
+          "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "category": "main",
+          "discovery": "rss"
+        }
+      ]
+    },
+    {
+      "id": "715a95bcbc8c8ad879bb1028",
+      "title": "US to open two new military bases in Greenland, sources say",
+      "article_count": 1,
+      "first_report": {
+        "id": "715a95bcbc8c8ad879bb1028",
+        "source": "Daily Mirror",
+        "source_color": "#A5222D",
+        "title": "US to open two new military bases in Greenland, sources say",
+        "url": "https://www.dailymirror.lk/international/US-to-open-two-new-military-bases-in-Greenland--sources-say/107-350836",
+        "published_at": "2026-09-22T09:34:00+00:00",
+        "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "category": "world",
+        "discovery": "rss"
+      },
+      "first_detected": {
+        "id": "715a95bcbc8c8ad879bb1028",
+        "source": "Daily Mirror",
+        "source_color": "#A5222D",
+        "title": "US to open two new military bases in Greenland, sources say",
+        "url": "https://www.dailymirror.lk/international/US-to-open-two-new-military-bases-in-Greenland--sources-say/107-350836",
+        "published_at": "2026-09-22T09:34:00+00:00",
+        "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "category": "world",
+        "discovery": "rss"
+      },
+      "earliest_at": "2026-09-22T09:34:00+00:00",
+      "latest_at": "2026-09-22T09:34:00+00:00",
+      "articles": [
+        {
+          "id": "715a95bcbc8c8ad879bb1028",
+          "source": "Daily Mirror",
+          "source_color": "#A5222D",
+          "title": "US to open two new military bases in Greenland, sources say",
+          "url": "https://www.dailymirror.lk/international/US-to-open-two-new-military-bases-in-Greenland--sources-say/107-350836",
+          "published_at": "2026-09-22T09:34:00+00:00",
+          "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "category": "world",
+          "discovery": "rss"
+        }
+      ]
+    },
+    {
+      "id": "85affd037686f4b55060d47c",
+      "title": "Rs. 8.1M bribe: Former Minister’s Secretary arrested",
+      "article_count": 1,
+      "first_report": {
+        "id": "85affd037686f4b55060d47c",
+        "source": "Daily Mirror",
+        "source_color": "#A5222D",
+        "title": "Rs. 8.1M bribe: Former Minister’s Secretary arrested",
+        "url": "https://www.dailymirror.lk/breaking-news/Rs--8-1M-bribe:-Former-Minister’s-Secretary-arrested/108-350835",
+        "published_at": "2026-09-22T09:31:00+00:00",
+        "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "category": "politics",
+        "discovery": "rss"
+      },
+      "first_detected": {
+        "id": "85affd037686f4b55060d47c",
+        "source": "Daily Mirror",
+        "source_color": "#A5222D",
+        "title": "Rs. 8.1M bribe: Former Minister’s Secretary arrested",
+        "url": "https://www.dailymirror.lk/breaking-news/Rs--8-1M-bribe:-Former-Minister’s-Secretary-arrested/108-350835",
+        "published_at": "2026-09-22T09:31:00+00:00",
+        "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "category": "politics",
+        "discovery": "rss"
+      },
+      "earliest_at": "2026-09-22T09:31:00+00:00",
+      "latest_at": "2026-09-22T09:31:00+00:00",
+      "articles": [
+        {
+          "id": "85affd037686f4b55060d47c",
+          "source": "Daily Mirror",
+          "source_color": "#A5222D",
+          "title": "Rs. 8.1M bribe: Former Minister’s Secretary arrested",
+          "url": "https://www.dailymirror.lk/breaking-news/Rs--8-1M-bribe:-Former-Minister’s-Secretary-arrested/108-350835",
+          "published_at": "2026-09-22T09:31:00+00:00",
+          "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "category": "politics",
+          "discovery": "rss"
+        }
+      ]
+    },
+    {
+      "id": "6f7de98198a83754559bbb8f",
+      "title": "22 ගැන ශ්‍රේෂ්ඨාධිකරණයේ තීන්දුව COLOMBO (News 1st) - 22 වැනි ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය පිළිබඳ ශ්‍රේෂ්ඨාධිකරණයේ තීන්දුව අද (21) දිනයේ කථානායකවරයා වෙත ලැබීමට නියමිතව තිබේ.ඒ අනුව හෙට (22) දිනයේ එම තීරණය කථානායකවරයා විසින් පාර්ලිමේන්තුවට කරනු ඇත.ලබන 24 වැනිදා පෙරවරු 11.30 සිට පස්වරු 7.00 දක්වා විසි දෙවන ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධන ... 21-09-2026 | 7:13 AM වැඩි විස්තර",
+      "article_count": 2,
+      "first_report": {
+        "id": "6f7de98198a83754559bbb8f",
+        "source": "News First",
+        "source_color": "#254A8A",
+        "title": "22 ගැන ශ්‍රේෂ්ඨාධිකරණයේ තීන්දුව COLOMBO (News 1st) - 22 වැනි ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය පිළිබඳ ශ්‍රේෂ්ඨාධිකරණයේ තීන්දුව අද (21) දිනයේ කථානායකවරයා වෙත ලැබීමට නියමිතව තිබේ.ඒ අනුව හෙට (22) දිනයේ එම තීරණය කථානායකවරයා විසින් පාර්ලිමේන්තුවට කරනු ඇත.ලබන 24 වැනිදා පෙරවරු 11.30 සිට පස්වරු 7.00 දක්වා විසි දෙවන ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධන ... 21-09-2026 | 7:13 AM වැඩි විස්තර",
+        "url": "https://sinhala.newsfirst.lk/2026/09/21/22-%e0%b7%80%e0%b7%90%e0%b6%b1%e0%b7%92-%e0%b7%83%e0%b6%82%e0%b7%81%e0%b7%9d%e0%b6%b0%e0%b6%b1%e0%b6%ba-%e0%b6%b4%e0%b7%92%e0%b7%85%e0%b7%92",
+        "published_at": null,
+        "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "category": "politics",
+        "discovery": "homepage"
+      },
+      "first_detected": {
+        "id": "6f7de98198a83754559bbb8f",
+        "source": "News First",
+        "source_color": "#254A8A",
+        "title": "22 ගැන ශ්‍රේෂ්ඨාධිකරණයේ තීන්දුව COLOMBO (News 1st) - 22 වැනි ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය පිළිබඳ ශ්‍රේෂ්ඨාධිකරණයේ තීන්දුව අද (21) දිනයේ කථානායකවරයා වෙත ලැබීමට නියමිතව තිබේ.ඒ අනුව හෙට (22) දිනයේ එම තීරණය කථානායකවරයා විසින් පාර්ලිමේන්තුවට කරනු ඇත.ලබන 24 වැනිදා පෙරවරු 11.30 සිට පස්වරු 7.00 දක්වා විසි දෙවන ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධන ... 21-09-2026 | 7:13 AM වැඩි විස්තර",
+        "url": "https://sinhala.newsfirst.lk/2026/09/21/22-%e0%b7%80%e0%b7%90%e0%b6%b1%e0%b7%92-%e0%b7%83%e0%b6%82%e0%b7%81%e0%b7%9d%e0%b6%b0%e0%b6%b1%e0%b6%ba-%e0%b6%b4%e0%b7%92%e0%b7%85%e0%b7%92",
+        "published_at": null,
+        "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "category": "politics",
+        "discovery": "homepage"
+      },
+      "earliest_at": "2026-09-21T17:31:21.249666+00:00",
+      "latest_at": "2026-09-22T04:47:43.703248+00:00",
+      "articles": [
+        {
+          "id": "6f7de98198a83754559bbb8f",
+          "source": "News First",
+          "source_color": "#254A8A",
+          "title": "22 ගැන ශ්‍රේෂ්ඨාධිකරණයේ තීන්දුව COLOMBO (News 1st) - 22 වැනි ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය පිළිබඳ ශ්‍රේෂ්ඨාධිකරණයේ තීන්දුව අද (21) දිනයේ කථානායකවරයා වෙත ලැබීමට නියමිතව තිබේ.ඒ අනුව හෙට (22) දිනයේ එම තීරණය කථානායකවරයා විසින් පාර්ලිමේන්තුවට කරනු ඇත.ලබන 24 වැනිදා පෙරවරු 11.30 සිට පස්වරු 7.00 දක්වා විසි දෙවන ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධන ... 21-09-2026 | 7:13 AM වැඩි විස්තර",
+          "url": "https://sinhala.newsfirst.lk/2026/09/21/22-%e0%b7%80%e0%b7%90%e0%b6%b1%e0%b7%92-%e0%b7%83%e0%b6%82%e0%b7%81%e0%b7%9d%e0%b6%b0%e0%b6%b1%e0%b6%ba-%e0%b6%b4%e0%b7%92%e0%b7%85%e0%b7%92",
+          "published_at": null,
+          "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "category": "politics",
+          "discovery": "homepage"
+        },
+        {
+          "id": "e4142e9533243e91ea6e16c7",
+          "source": "News First",
+          "source_color": "#254A8A",
+          "title": "22 ගැන ශ්‍රේෂ්ඨාධිකරණ තීන්දුව අද පාර්ලිමේන්තුවට COLOMBO (News1st) - 22 වැනි ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය පිළිබඳ ශ්‍රේෂ්ඨාධිකරණයේ තීන්දුව කථානායකවරයා විසින් අද පාර්ලිමේන්තුවට ඉදිරිපත් කීරීමට නියමිත ය.ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය පිළිබඳ ශ්‍රේෂ්ඨාධිකරණයේ තීන්දුව කථානායකවරයාට දැනුම් දී තිබුණේ ඊයේ දිනයේ ය.22 වැනි ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය සහ අධිකරණ... 22-09-2026 | 8:58 AM වැඩි විස්තර",
+          "url": "https://sinhala.newsfirst.lk/2026/09/22/22-%e0%b7%80%e0%b7%90%e0%b6%b1%e0%b7%92-%e0%b7%80%e0%b7%8a%e2%80%8d%e0%b6%ba%e0%b7%80%e0%b7%83%e0%b7%8a%e0%b6%ae%e0%b7%8f-%e0%b7%83%e0%b6%82",
+          "published_at": null,
+          "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "category": "politics",
+          "discovery": "homepage"
+        }
+      ]
+    },
+    {
+      "id": "f01daeae3da071f36e72115a",
+      "title": "දිවයිනේ නිරිත දිග ප්‍රදේශයේ වැසි තත්ත්වය තවදුරටත් COLOMBO(News1st) - දිවයිනේ නිරිත දිග ප්‍රදේශයේ පවතින වැසි තත්ත්වය තවදුරටත් අපේක්ෂා කරන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.බස්නාහිර , සබරගමුව, මධ්‍යම සහ වයඹ පළාත්වල මෙන්ම ගාල්ල සහ මාතර දිස්ත්‍රික්ක වලට ඇතැම් ස්ථාන වලට මිලිමීටර් 100ට වැඩි තද වැසි ඇති විය හැකියි.දිවයිනට ඊසාන දෙසින් බෙංගාල බොක්කේ අන... 22-09-2026 | 7:33 AM වැඩි විස්තර",
+      "article_count": 1,
+      "first_report": {
+        "id": "f01daeae3da071f36e72115a",
+        "source": "News First",
+        "source_color": "#254A8A",
+        "title": "දිවයිනේ නිරිත දිග ප්‍රදේශයේ වැසි තත්ත්වය තවදුරටත් COLOMBO(News1st) - දිවයිනේ නිරිත දිග ප්‍රදේශයේ පවතින වැසි තත්ත්වය තවදුරටත් අපේක්ෂා කරන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.බස්නාහිර , සබරගමුව, මධ්‍යම සහ වයඹ පළාත්වල මෙන්ම ගාල්ල සහ මාතර දිස්ත්‍රික්ක වලට ඇතැම් ස්ථාන වලට මිලිමීටර් 100ට වැඩි තද වැසි ඇති විය හැකියි.දිවයිනට ඊසාන දෙසින් බෙංගාල බොක්කේ අන... 22-09-2026 | 7:33 AM වැඩි විස්තර",
+        "url": "https://sinhala.newsfirst.lk/2026/09/22/%e0%b6%af%e0%b7%92%e0%b7%80%e0%b6%ba%e0%b7%92%e0%b6%b1%e0%b7%9a-%e0%b6%b1%e0%b7%92%e0%b6%bb%e0%b7%92%e0%b6%ad-%e0%b6%af%e0%b7%92%e0%b6%9c-%e0%b6%b4%e0%b7%8a",
+        "published_at": null,
+        "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "category": "business",
+        "discovery": "homepage"
+      },
+      "first_detected": {
+        "id": "f01daeae3da071f36e72115a",
+        "source": "News First",
+        "source_color": "#254A8A",
+        "title": "දිවයිනේ නිරිත දිග ප්‍රදේශයේ වැසි තත්ත්වය තවදුරටත් COLOMBO(News1st) - දිවයිනේ නිරිත දිග ප්‍රදේශයේ පවතින වැසි තත්ත්වය තවදුරටත් අපේක්ෂා කරන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.බස්නාහිර , සබරගමුව, මධ්‍යම සහ වයඹ පළාත්වල මෙන්ම ගාල්ල සහ මාතර දිස්ත්‍රික්ක වලට ඇතැම් ස්ථාන වලට මිලිමීටර් 100ට වැඩි තද වැසි ඇති විය හැකියි.දිවයිනට ඊසාන දෙසින් බෙංගාල බොක්කේ අන... 22-09-2026 | 7:33 AM වැඩි විස්තර",
+        "url": "https://sinhala.newsfirst.lk/2026/09/22/%e0%b6%af%e0%b7%92%e0%b7%80%e0%b6%ba%e0%b7%92%e0%b6%b1%e0%b7%9a-%e0%b6%b1%e0%b7%92%e0%b6%bb%e0%b7%92%e0%b6%ad-%e0%b6%af%e0%b7%92%e0%b6%9c-%e0%b6%b4%e0%b7%8a",
+        "published_at": null,
+        "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "category": "business",
+        "discovery": "homepage"
+      },
+      "earliest_at": "2026-09-22T04:47:43.703248+00:00",
+      "latest_at": "2026-09-22T04:47:43.703248+00:00",
+      "articles": [
+        {
+          "id": "f01daeae3da071f36e72115a",
+          "source": "News First",
+          "source_color": "#254A8A",
+          "title": "දිවයිනේ නිරිත දිග ප්‍රදේශයේ වැසි තත්ත්වය තවදුරටත් COLOMBO(News1st) - දිවයිනේ නිරිත දිග ප්‍රදේශයේ පවතින වැසි තත්ත්වය තවදුරටත් අපේක්ෂා කරන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.බස්නාහිර , සබරගමුව, මධ්‍යම සහ වයඹ පළාත්වල මෙන්ම ගාල්ල සහ මාතර දිස්ත්‍රික්ක වලට ඇතැම් ස්ථාන වලට මිලිමීටර් 100ට වැඩි තද වැසි ඇති විය හැකියි.දිවයිනට ඊසාන දෙසින් බෙංගාල බොක්කේ අන... 22-09-2026 | 7:33 AM වැඩි විස්තර",
+          "url": "https://sinhala.newsfirst.lk/2026/09/22/%e0%b6%af%e0%b7%92%e0%b7%80%e0%b6%ba%e0%b7%92%e0%b6%b1%e0%b7%9a-%e0%b6%b1%e0%b7%92%e0%b6%bb%e0%b7%92%e0%b6%ad-%e0%b6%af%e0%b7%92%e0%b6%9c-%e0%b6%b4%e0%b7%8a",
+          "published_at": null,
+          "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "category": "business",
+          "discovery": "homepage"
+        }
+      ]
+    },
+    {
+      "id": "7896910ce68b18dfe13c06be",
+      "title": "පාස්කු දින ප්‍රහාරයේ මහ නඩුවේ තීන්දුව අද.. COLOMBO (News 1st) - 2019 වසරේ පාස්කු ඉරු දිනයේ එල්ල කළ ත්‍රස්ත ප්‍රහාර සඳහා කුමන්ත්‍රණය කිරීම, ආධාර අනුබල දීම ඇතුළු චෝදනා 23,270ක් යටතේ නවුෆර් මවුලවී ඇතුළු විත්තිකරුවන් 24 දෙනෙකුට එරෙහි නඩුවේ තීන්දුව අද ප්‍රකාශයට පත් කිරීමට නියමිතව තිබේ.පසුගිය අගෝස්තු 24 වැනිදා වසර පහකට ආසන්න කාලයක් පැවති එම නඩුවේ විභාගය අවසන් කළ කොළඹ ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ල තීන්දුව අද දිනයේ ප්‍රකාශයට පත් කිරීමට තීරණය කළේ ය. නවරත්න මාරසිංහ, රාමනාදන් කන්නන් සහ ... 22-09-2026 | 6:25 AM වැඩි විස්තර",
+      "article_count": 1,
+      "first_report": {
+        "id": "7896910ce68b18dfe13c06be",
+        "source": "News First",
+        "source_color": "#254A8A",
+        "title": "පාස්කු දින ප්‍රහාරයේ මහ නඩුවේ තීන්දුව අද.. COLOMBO (News 1st) - 2019 වසරේ පාස්කු ඉරු දිනයේ එල්ල කළ ත්‍රස්ත ප්‍රහාර සඳහා කුමන්ත්‍රණය කිරීම, ආධාර අනුබල දීම ඇතුළු චෝදනා 23,270ක් යටතේ නවුෆර් මවුලවී ඇතුළු විත්තිකරුවන් 24 දෙනෙකුට එරෙහි නඩුවේ තීන්දුව අද ප්‍රකාශයට පත් කිරීමට නියමිතව තිබේ.පසුගිය අගෝස්තු 24 වැනිදා වසර පහකට ආසන්න කාලයක් පැවති එම නඩුවේ විභාගය අවසන් කළ කොළඹ ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ල තීන්දුව අද දිනයේ ප්‍රකාශයට පත් කිරීමට තීරණය කළේ ය. නවරත්න මාරසිංහ, රාමනාදන් කන්නන් සහ ... 22-09-2026 | 6:25 AM වැඩි විස්තර",
+        "url": "https://sinhala.newsfirst.lk/2026/09/22/%e0%b6%bd%e0%b7%9d%e0%b6%9a%e0%b6%ba%e0%b6%9a%e0%b7%8a-%e0%b6%9a%e0%b6%b8%e0%b7%8a%e0%b6%b4%e0%b7%8f-%e0%b6%9a%e0%b7%85-%e0%b6%b4%e0%b7%8f%e0%b7%83%e0%b7%8a",
+        "published_at": null,
+        "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "category": "main",
+        "discovery": "homepage"
+      },
+      "first_detected": {
+        "id": "7896910ce68b18dfe13c06be",
+        "source": "News First",
+        "source_color": "#254A8A",
+        "title": "පාස්කු දින ප්‍රහාරයේ මහ නඩුවේ තීන්දුව අද.. COLOMBO (News 1st) - 2019 වසරේ පාස්කු ඉරු දිනයේ එල්ල කළ ත්‍රස්ත ප්‍රහාර සඳහා කුමන්ත්‍රණය කිරීම, ආධාර අනුබල දීම ඇතුළු චෝදනා 23,270ක් යටතේ නවුෆර් මවුලවී ඇතුළු විත්තිකරුවන් 24 දෙනෙකුට එරෙහි නඩුවේ තීන්දුව අද ප්‍රකාශයට පත් කිරීමට නියමිතව තිබේ.පසුගිය අගෝස්තු 24 වැනිදා වසර පහකට ආසන්න කාලයක් පැවති එම නඩුවේ විභාගය අවසන් කළ කොළඹ ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ල තීන්දුව අද දිනයේ ප්‍රකාශයට පත් කිරීමට තීරණය කළේ ය. නවරත්න මාරසිංහ, රාමනාදන් කන්නන් සහ ... 22-09-2026 | 6:25 AM වැඩි විස්තර",
+        "url": "https://sinhala.newsfirst.lk/2026/09/22/%e0%b6%bd%e0%b7%9d%e0%b6%9a%e0%b6%ba%e0%b6%9a%e0%b7%8a-%e0%b6%9a%e0%b6%b8%e0%b7%8a%e0%b6%b4%e0%b7%8f-%e0%b6%9a%e0%b7%85-%e0%b6%b4%e0%b7%8f%e0%b7%83%e0%b7%8a",
+        "published_at": null,
+        "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "category": "main",
+        "discovery": "homepage"
+      },
+      "earliest_at": "2026-09-22T04:47:43.703248+00:00",
+      "latest_at": "2026-09-22T04:47:43.703248+00:00",
+      "articles": [
+        {
+          "id": "7896910ce68b18dfe13c06be",
+          "source": "News First",
+          "source_color": "#254A8A",
+          "title": "පාස්කු දින ප්‍රහාරයේ මහ නඩුවේ තීන්දුව අද.. COLOMBO (News 1st) - 2019 වසරේ පාස්කු ඉරු දිනයේ එල්ල කළ ත්‍රස්ත ප්‍රහාර සඳහා කුමන්ත්‍රණය කිරීම, ආධාර අනුබල දීම ඇතුළු චෝදනා 23,270ක් යටතේ නවුෆර් මවුලවී ඇතුළු විත්තිකරුවන් 24 දෙනෙකුට එරෙහි නඩුවේ තීන්දුව අද ප්‍රකාශයට පත් කිරීමට නියමිතව තිබේ.පසුගිය අගෝස්තු 24 වැනිදා වසර පහකට ආසන්න කාලයක් පැවති එම නඩුවේ විභාගය අවසන් කළ කොළඹ ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ල තීන්දුව අද දිනයේ ප්‍රකාශයට පත් කිරීමට තීරණය කළේ ය. නවරත්න මාරසිංහ, රාමනාදන් කන්නන් සහ ... 22-09-2026 | 6:25 AM වැඩි විස්තර",
+          "url": "https://sinhala.newsfirst.lk/2026/09/22/%e0%b6%bd%e0%b7%9d%e0%b6%9a%e0%b6%ba%e0%b6%9a%e0%b7%8a-%e0%b6%9a%e0%b6%b8%e0%b7%8a%e0%b6%b4%e0%b7%8f-%e0%b6%9a%e0%b7%85-%e0%b6%b4%e0%b7%8f%e0%b7%83%e0%b7%8a",
+          "published_at": null,
+          "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "category": "main",
+          "discovery": "homepage"
+        }
+      ]
+    },
+    {
+      "id": "8a0a952b36d4efd3b4d20dbd",
+      "title": "Sri Lanka’s 22nd Amendment needs parliament majority, no referendum: Supreme Court",
+      "article_count": 1,
+      "first_report": {
+        "id": "8a0a952b36d4efd3b4d20dbd",
+        "source": "EconomyNext",
+        "source_color": "#B77A1D",
+        "title": "Sri Lanka’s 22nd Amendment needs parliament majority, no referendum: Supreme Court",
+        "url": "https://economynext.com/sri-lankas-22nd-amendment-needs-parliament-majority-no-referendum-supreme-court-284175",
+        "published_at": "2026-09-22T04:04:49+00:00",
+        "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "category": "politics",
+        "discovery": "rss"
+      },
+      "first_detected": {
+        "id": "8a0a952b36d4efd3b4d20dbd",
+        "source": "EconomyNext",
+        "source_color": "#B77A1D",
+        "title": "Sri Lanka’s 22nd Amendment needs parliament majority, no referendum: Supreme Court",
+        "url": "https://economynext.com/sri-lankas-22nd-amendment-needs-parliament-majority-no-referendum-supreme-court-284175",
+        "published_at": "2026-09-22T04:04:49+00:00",
+        "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "category": "politics",
+        "discovery": "rss"
+      },
+      "earliest_at": "2026-09-22T04:04:49+00:00",
+      "latest_at": "2026-09-22T04:04:49+00:00",
+      "articles": [
+        {
+          "id": "8a0a952b36d4efd3b4d20dbd",
+          "source": "EconomyNext",
+          "source_color": "#B77A1D",
+          "title": "Sri Lanka’s 22nd Amendment needs parliament majority, no referendum: Supreme Court",
+          "url": "https://economynext.com/sri-lankas-22nd-amendment-needs-parliament-majority-no-referendum-supreme-court-284175",
+          "published_at": "2026-09-22T04:04:49+00:00",
+          "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "category": "politics",
+          "discovery": "rss"
+        }
+      ]
+    },
+    {
+      "id": "fe98f8b59cdc20f5029ae67d",
+      "title": "Sri Lanka Supreme Court rules Anti-Corruption Bill clause requires referendum",
+      "article_count": 1,
+      "first_report": {
+        "id": "fe98f8b59cdc20f5029ae67d",
+        "source": "EconomyNext",
+        "source_color": "#B77A1D",
+        "title": "Sri Lanka Supreme Court rules Anti-Corruption Bill clause requires referendum",
+        "url": "https://economynext.com/sri-lanka-supreme-court-rules-anti-corruption-bill-clause-requires-referendum-284205",
+        "published_at": "2026-09-22T04:03:53+00:00",
+        "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "category": "main",
+        "discovery": "rss"
+      },
+      "first_detected": {
+        "id": "fe98f8b59cdc20f5029ae67d",
+        "source": "EconomyNext",
+        "source_color": "#B77A1D",
+        "title": "Sri Lanka Supreme Court rules Anti-Corruption Bill clause requires referendum",
+        "url": "https://economynext.com/sri-lanka-supreme-court-rules-anti-corruption-bill-clause-requires-referendum-284205",
+        "published_at": "2026-09-22T04:03:53+00:00",
+        "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "category": "main",
+        "discovery": "rss"
+      },
+      "earliest_at": "2026-09-22T04:03:53+00:00",
+      "latest_at": "2026-09-22T04:03:53+00:00",
+      "articles": [
+        {
+          "id": "fe98f8b59cdc20f5029ae67d",
+          "source": "EconomyNext",
+          "source_color": "#B77A1D",
+          "title": "Sri Lanka Supreme Court rules Anti-Corruption Bill clause requires referendum",
+          "url": "https://economynext.com/sri-lanka-supreme-court-rules-anti-corruption-bill-clause-requires-referendum-284205",
+          "published_at": "2026-09-22T04:03:53+00:00",
+          "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "category": "main",
+          "discovery": "rss"
+        }
+      ]
+    },
+    {
+      "id": "1031967413f036fc45551297",
+      "title": "Showers about 100 mm are likely at times in the Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya Districts",
+      "article_count": 2,
+      "first_report": {
+        "id": "1031967413f036fc45551297",
+        "source": "The Island",
+        "source_color": "#3B5F7A",
+        "title": "Showers about 100 mm are likely at times in the Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya Districts",
+        "url": "http://island.lk/showers-about-100-mm-are-likely-at-times-in-the-western-sabaragamuwa-and-north-western-provinces-and-in-galle-matara-kandy-and-nuwara-eliya-districts",
+        "published_at": "2026-09-21T00:30:50+00:00",
+        "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
+        "category": "main",
+        "discovery": "rss"
+      },
+      "first_detected": {
+        "id": "1031967413f036fc45551297",
+        "source": "The Island",
+        "source_color": "#3B5F7A",
+        "title": "Showers about 100 mm are likely at times in the Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya Districts",
+        "url": "http://island.lk/showers-about-100-mm-are-likely-at-times-in-the-western-sabaragamuwa-and-north-western-provinces-and-in-galle-matara-kandy-and-nuwara-eliya-districts",
+        "published_at": "2026-09-21T00:30:50+00:00",
+        "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
+        "category": "main",
+        "discovery": "rss"
+      },
+      "earliest_at": "2026-09-21T00:30:50+00:00",
+      "latest_at": "2026-09-22T00:29:33+00:00",
+      "articles": [
+        {
+          "id": "1031967413f036fc45551297",
+          "source": "The Island",
+          "source_color": "#3B5F7A",
+          "title": "Showers about 100 mm are likely at times in the Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya Districts",
+          "url": "http://island.lk/showers-about-100-mm-are-likely-at-times-in-the-western-sabaragamuwa-and-north-western-provinces-and-in-galle-matara-kandy-and-nuwara-eliya-districts",
+          "published_at": "2026-09-21T00:30:50+00:00",
+          "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
+          "category": "main",
+          "discovery": "rss"
+        },
+        {
+          "id": "4c892eb1ea17d45e3098a9fb",
+          "source": "The Island",
+          "source_color": "#3B5F7A",
+          "title": "Showers about 100mm will occur in the Western, Sabaragamuwa, Central and North-western provinces and in Galle and Matara Districts",
+          "url": "http://island.lk/showers-about-100mm-will-occur-in-the-western-sabaragamuwa-central-and-north-western-provinces-and-in-galle-and-matara-districts",
+          "published_at": "2026-09-22T00:29:33+00:00",
+          "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "category": "main",
+          "discovery": "rss"
+        }
+      ]
+    },
+    {
+      "id": "0820ea05c71d91cd37d03cc7",
+      "title": "Govt. confident of 2/3 majority despite NPP split speculation",
+      "article_count": 1,
+      "first_report": {
+        "id": "0820ea05c71d91cd37d03cc7",
+        "source": "The Island",
+        "source_color": "#3B5F7A",
+        "title": "Govt. confident of 2/3 majority despite NPP split speculation",
+        "url": "http://island.lk/govt-confident-of-2-3-majority-despite-npp-split-speculation",
+        "published_at": "2026-09-22T00:05:00+00:00",
+        "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "category": "main",
+        "discovery": "rss"
+      },
+      "first_detected": {
+        "id": "0820ea05c71d91cd37d03cc7",
+        "source": "The Island",
+        "source_color": "#3B5F7A",
+        "title": "Govt. confident of 2/3 majority despite NPP split speculation",
+        "url": "http://island.lk/govt-confident-of-2-3-majority-despite-npp-split-speculation",
+        "published_at": "2026-09-22T00:05:00+00:00",
+        "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "category": "main",
+        "discovery": "rss"
+      },
+      "earliest_at": "2026-09-22T00:05:00+00:00",
+      "latest_at": "2026-09-22T00:05:00+00:00",
+      "articles": [
+        {
+          "id": "0820ea05c71d91cd37d03cc7",
+          "source": "The Island",
+          "source_color": "#3B5F7A",
+          "title": "Govt. confident of 2/3 majority despite NPP split speculation",
+          "url": "http://island.lk/govt-confident-of-2-3-majority-despite-npp-split-speculation",
+          "published_at": "2026-09-22T00:05:00+00:00",
+          "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "category": "main",
+          "discovery": "rss"
+        }
+      ]
+    },
+    {
+      "id": "6bfe149ab07c30c0dd233701",
+      "title": "Court of Appeal Judge M. Sri Mevan Anthony Edirimannasuriya Corea appointed as Acting President of the Court of Appeal",
+      "article_count": 3,
+      "first_report": {
+        "id": "6bfe149ab07c30c0dd233701",
+        "source": "The Island",
+        "source_color": "#3B5F7A",
+        "title": "Court of Appeal Judge M. Sri Mevan Anthony Edirimannasuriya Corea appointed as Acting President of the Court of Appeal",
+        "url": "http://island.lk/court-of-appeal-judge-m-sri-mevan-anthony-edirimannasuriya-corea-appointed-as-acting-president-of-the-court-of-appeal",
+        "published_at": "2026-09-21T16:26:03+00:00",
+        "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
+        "category": "politics",
+        "discovery": "rss"
+      },
+      "first_detected": {
+        "id": "029a11ce3172df4d3225cb8c",
+        "source": "Daily Mirror",
+        "title": "Justice Mayadunna Corea appointed Acting President of Court of Appeal",
+        "url": "https://www.dailymirror.lk/breaking-news/Justice-Mayadunna-Corea-appointed-Acting-President-of-Court-of-Appeal/108-350828",
+        "published_at": "2026-09-21T18:33:00+00:00",
+        "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
+      },
+      "earliest_at": "2026-09-21T16:26:03+00:00",
+      "latest_at": "2026-09-22T00:03:46+00:00",
+      "articles": [
+        {
+          "id": "6bfe149ab07c30c0dd233701",
+          "source": "The Island",
+          "source_color": "#3B5F7A",
+          "title": "Court of Appeal Judge M. Sri Mevan Anthony Edirimannasuriya Corea appointed as Acting President of the Court of Appeal",
+          "url": "http://island.lk/court-of-appeal-judge-m-sri-mevan-anthony-edirimannasuriya-corea-appointed-as-acting-president-of-the-court-of-appeal",
+          "published_at": "2026-09-21T16:26:03+00:00",
+          "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
+          "category": "politics",
+          "discovery": "rss"
+        },
+        {
+          "id": "029a11ce3172df4d3225cb8c",
+          "source": "Daily Mirror",
+          "title": "Justice Mayadunna Corea appointed Acting President of Court of Appeal",
+          "url": "https://www.dailymirror.lk/breaking-news/Justice-Mayadunna-Corea-appointed-Acting-President-of-Court-of-Appeal/108-350828",
+          "published_at": "2026-09-21T18:33:00+00:00",
+          "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
+        },
+        {
+          "id": "b9273c193d88331641fade2d",
+          "source": "The Island",
+          "source_color": "#3B5F7A",
+          "title": "Justice Corea appointed Acting President of the Court of Appeal",
+          "url": "http://island.lk/justice-corea-appointed-acting-president-of-the-court-of-appeal",
+          "published_at": "2026-09-22T00:03:46+00:00",
+          "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "category": "politics",
+          "discovery": "rss"
+        }
+      ]
+    },
+    {
+      "id": "383b8f858ec3989e0babb43d",
+      "title": "Protest against setting up of cement factory in highly populated area near BIA",
+      "article_count": 1,
+      "first_report": {
+        "id": "383b8f858ec3989e0babb43d",
+        "source": "The Island",
+        "source_color": "#3B5F7A",
+        "title": "Protest against setting up of cement factory in highly populated area near BIA",
+        "url": "http://island.lk/protest-against-setting-up-of-cement-factory-in-highly-populated-area-near-bia",
+        "published_at": "2026-09-22T00:02:23+00:00",
+        "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "category": "sports",
+        "discovery": "rss"
+      },
+      "first_detected": {
+        "id": "383b8f858ec3989e0babb43d",
+        "source": "The Island",
+        "source_color": "#3B5F7A",
+        "title": "Protest against setting up of cement factory in highly populated area near BIA",
+        "url": "http://island.lk/protest-against-setting-up-of-cement-factory-in-highly-populated-area-near-bia",
+        "published_at": "2026-09-22T00:02:23+00:00",
+        "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "category": "sports",
+        "discovery": "rss"
+      },
+      "earliest_at": "2026-09-22T00:02:23+00:00",
+      "latest_at": "2026-09-22T00:02:23+00:00",
+      "articles": [
+        {
+          "id": "383b8f858ec3989e0babb43d",
+          "source": "The Island",
+          "source_color": "#3B5F7A",
+          "title": "Protest against setting up of cement factory in highly populated area near BIA",
+          "url": "http://island.lk/protest-against-setting-up-of-cement-factory-in-highly-populated-area-near-bia",
+          "published_at": "2026-09-22T00:02:23+00:00",
+          "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "category": "sports",
+          "discovery": "rss"
+        }
+      ]
+    },
+    {
+      "id": "5c91ff9fa44641ef12f593a7",
+      "title": "India funding 13 new bridges, Moragahakanda structure receiving priority",
+      "article_count": 1,
+      "first_report": {
+        "id": "5c91ff9fa44641ef12f593a7",
+        "source": "The Island",
+        "source_color": "#3B5F7A",
+        "title": "India funding 13 new bridges, Moragahakanda structure receiving priority",
+        "url": "http://island.lk/india-funding-13-new-bridges-moragahakanda-structure-receiving-priority",
+        "published_at": "2026-09-22T00:01:25+00:00",
+        "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "category": "world",
+        "discovery": "rss"
+      },
+      "first_detected": {
+        "id": "5c91ff9fa44641ef12f593a7",
+        "source": "The Island",
+        "source_color": "#3B5F7A",
+        "title": "India funding 13 new bridges, Moragahakanda structure receiving priority",
+        "url": "http://island.lk/india-funding-13-new-bridges-moragahakanda-structure-receiving-priority",
+        "published_at": "2026-09-22T00:01:25+00:00",
+        "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "category": "world",
+        "discovery": "rss"
+      },
+      "earliest_at": "2026-09-22T00:01:25+00:00",
+      "latest_at": "2026-09-22T00:01:25+00:00",
+      "articles": [
+        {
+          "id": "5c91ff9fa44641ef12f593a7",
+          "source": "The Island",
+          "source_color": "#3B5F7A",
+          "title": "India funding 13 new bridges, Moragahakanda structure receiving priority",
+          "url": "http://island.lk/india-funding-13-new-bridges-moragahakanda-structure-receiving-priority",
+          "published_at": "2026-09-22T00:01:25+00:00",
+          "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "category": "world",
+          "discovery": "rss"
+        }
+      ]
+    },
+    {
+      "id": "c0d6e3898a25070b8676a500",
+      "title": "Cross-border supply chains seen as key to new business opportunities",
+      "article_count": 1,
+      "first_report": {
+        "id": "c0d6e3898a25070b8676a500",
+        "source": "The Island",
+        "source_color": "#3B5F7A",
+        "title": "Cross-border supply chains seen as key to new business opportunities",
+        "url": "http://island.lk/cross-border-supply-chains-seen-as-key-to-new-business-opportunities",
+        "published_at": "2026-09-22T00:00:52+00:00",
+        "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "category": "business",
+        "discovery": "rss"
+      },
+      "first_detected": {
+        "id": "c0d6e3898a25070b8676a500",
+        "source": "The Island",
+        "source_color": "#3B5F7A",
+        "title": "Cross-border supply chains seen as key to new business opportunities",
+        "url": "http://island.lk/cross-border-supply-chains-seen-as-key-to-new-business-opportunities",
+        "published_at": "2026-09-22T00:00:52+00:00",
+        "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "category": "business",
+        "discovery": "rss"
+      },
+      "earliest_at": "2026-09-22T00:00:52+00:00",
+      "latest_at": "2026-09-22T00:00:52+00:00",
+      "articles": [
+        {
+          "id": "c0d6e3898a25070b8676a500",
+          "source": "The Island",
+          "source_color": "#3B5F7A",
+          "title": "Cross-border supply chains seen as key to new business opportunities",
+          "url": "http://island.lk/cross-border-supply-chains-seen-as-key-to-new-business-opportunities",
+          "published_at": "2026-09-22T00:00:52+00:00",
+          "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "category": "business",
+          "discovery": "rss"
+        }
+      ]
+    },
+    {
+      "id": "a2cb6cde09cb09abb038e7ea",
+      "title": "Defend civic space upon which peace is built",
+      "article_count": 1,
+      "first_report": {
+        "id": "a2cb6cde09cb09abb038e7ea",
+        "source": "The Island",
+        "source_color": "#3B5F7A",
+        "title": "Defend civic space upon which peace is built",
+        "url": "http://island.lk/defend-civic-space-upon-which-peace-is-built",
+        "published_at": "2026-09-22T00:00:15+00:00",
+        "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "category": "main",
+        "discovery": "rss"
+      },
+      "first_detected": {
+        "id": "a2cb6cde09cb09abb038e7ea",
+        "source": "The Island",
+        "source_color": "#3B5F7A",
+        "title": "Defend civic space upon which peace is built",
+        "url": "http://island.lk/defend-civic-space-upon-which-peace-is-built",
+        "published_at": "2026-09-22T00:00:15+00:00",
+        "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "category": "main",
+        "discovery": "rss"
+      },
+      "earliest_at": "2026-09-22T00:00:15+00:00",
+      "latest_at": "2026-09-22T00:00:15+00:00",
+      "articles": [
+        {
+          "id": "a2cb6cde09cb09abb038e7ea",
+          "source": "The Island",
+          "source_color": "#3B5F7A",
+          "title": "Defend civic space upon which peace is built",
+          "url": "http://island.lk/defend-civic-space-upon-which-peace-is-built",
+          "published_at": "2026-09-22T00:00:15+00:00",
+          "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "category": "main",
+          "discovery": "rss"
+        }
+      ]
+    },
+    {
+      "id": "5b9e9cf982542168e3879069",
+      "title": "Illusion of recovery: Three fault lines threatening Sri Lanka’s future",
+      "article_count": 1,
+      "first_report": {
+        "id": "5b9e9cf982542168e3879069",
+        "source": "The Island",
+        "source_color": "#3B5F7A",
+        "title": "Illusion of recovery: Three fault lines threatening Sri Lanka’s future",
+        "url": "http://island.lk/illusion-of-recovery-three-fault-lines-threatening-sri-lankas-future",
+        "published_at": "2026-09-22T00:00:13+00:00",
+        "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "category": "main",
+        "discovery": "rss"
+      },
+      "first_detected": {
+        "id": "5b9e9cf982542168e3879069",
+        "source": "The Island",
+        "source_color": "#3B5F7A",
+        "title": "Illusion of recovery: Three fault lines threatening Sri Lanka’s future",
+        "url": "http://island.lk/illusion-of-recovery-three-fault-lines-threatening-sri-lankas-future",
+        "published_at": "2026-09-22T00:00:13+00:00",
+        "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "category": "main",
+        "discovery": "rss"
+      },
+      "earliest_at": "2026-09-22T00:00:13+00:00",
+      "latest_at": "2026-09-22T00:00:13+00:00",
+      "articles": [
+        {
+          "id": "5b9e9cf982542168e3879069",
+          "source": "The Island",
+          "source_color": "#3B5F7A",
+          "title": "Illusion of recovery: Three fault lines threatening Sri Lanka’s future",
+          "url": "http://island.lk/illusion-of-recovery-three-fault-lines-threatening-sri-lankas-future",
+          "published_at": "2026-09-22T00:00:13+00:00",
+          "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "category": "main",
+          "discovery": "rss"
+        }
+      ]
+    },
+    {
+      "id": "b3b0870dca0aecd659832db4",
+      "title": "Trouble beginning in earnest",
+      "article_count": 1,
+      "first_report": {
+        "id": "b3b0870dca0aecd659832db4",
+        "source": "The Island",
+        "source_color": "#3B5F7A",
+        "title": "Trouble beginning in earnest",
+        "url": "http://island.lk/trouble-beginning-in-earnest",
+        "published_at": "2026-09-22T00:00:08+00:00",
+        "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "category": "main",
+        "discovery": "rss"
+      },
+      "first_detected": {
+        "id": "b3b0870dca0aecd659832db4",
+        "source": "The Island",
+        "source_color": "#3B5F7A",
+        "title": "Trouble beginning in earnest",
+        "url": "http://island.lk/trouble-beginning-in-earnest",
+        "published_at": "2026-09-22T00:00:08+00:00",
+        "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "category": "main",
+        "discovery": "rss"
+      },
+      "earliest_at": "2026-09-22T00:00:08+00:00",
+      "latest_at": "2026-09-22T00:00:08+00:00",
+      "articles": [
+        {
+          "id": "b3b0870dca0aecd659832db4",
+          "source": "The Island",
+          "source_color": "#3B5F7A",
+          "title": "Trouble beginning in earnest",
+          "url": "http://island.lk/trouble-beginning-in-earnest",
+          "published_at": "2026-09-22T00:00:08+00:00",
+          "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "category": "main",
+          "discovery": "rss"
+        }
+      ]
+    },
+    {
+      "id": "d5ff2de13533e23174625052",
+      "title": "Expect some stormy weather from disturbance in Bay of Bengal",
+      "article_count": 1,
+      "first_report": {
+        "id": "d5ff2de13533e23174625052",
+        "source": "The Island",
+        "source_color": "#3B5F7A",
+        "title": "Expect some stormy weather from disturbance in Bay of Bengal",
+        "url": "http://island.lk/expect-some-stormy-weather-from-disturbance-in-bay-of-bengal",
+        "published_at": "2026-09-22T00:00:02+00:00",
+        "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "category": "main",
+        "discovery": "rss"
+      },
+      "first_detected": {
+        "id": "d5ff2de13533e23174625052",
+        "source": "The Island",
+        "source_color": "#3B5F7A",
+        "title": "Expect some stormy weather from disturbance in Bay of Bengal",
+        "url": "http://island.lk/expect-some-stormy-weather-from-disturbance-in-bay-of-bengal",
+        "published_at": "2026-09-22T00:00:02+00:00",
+        "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "category": "main",
+        "discovery": "rss"
+      },
+      "earliest_at": "2026-09-22T00:00:02+00:00",
+      "latest_at": "2026-09-22T00:00:02+00:00",
+      "articles": [
+        {
+          "id": "d5ff2de13533e23174625052",
+          "source": "The Island",
+          "source_color": "#3B5F7A",
+          "title": "Expect some stormy weather from disturbance in Bay of Bengal",
+          "url": "http://island.lk/expect-some-stormy-weather-from-disturbance-in-bay-of-bengal",
+          "published_at": "2026-09-22T00:00:02+00:00",
+          "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "category": "main",
+          "discovery": "rss"
+        }
+      ]
+    },
     {
       "id": "aeb6a3b1521f4d4f748160c0",
       "title": "First Class cricket trimmed to ten teams",
@@ -2498,7 +3754,7 @@
         "url": "https://www.dailymirror.lk/international/CNN--MS-NOW-and-Politico-sue-Trump-over-White-House-ban/107-350834",
         "published_at": "2026-09-21T21:39:00+00:00",
         "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00"
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
       },
       "first_detected": {
         "id": "ae2fa4993ffb81dcf8d78f64",
@@ -2507,7 +3763,7 @@
         "url": "https://www.dailymirror.lk/international/CNN--MS-NOW-and-Politico-sue-Trump-over-White-House-ban/107-350834",
         "published_at": "2026-09-21T21:39:00+00:00",
         "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00"
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
       },
       "earliest_at": "2026-09-21T21:39:00+00:00",
       "latest_at": "2026-09-21T21:39:00+00:00",
@@ -2519,7 +3775,7 @@
           "url": "https://www.dailymirror.lk/international/CNN--MS-NOW-and-Politico-sue-Trump-over-White-House-ban/107-350834",
           "published_at": "2026-09-21T21:39:00+00:00",
           "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-          "last_seen_at": "2026-09-22T00:03:06.157071+00:00"
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
         }
       ]
     },
@@ -2534,7 +3790,7 @@
         "url": "https://www.dailymirror.lk/breaking-news/CSE-slips-below-21-000-as-turnover-falls-to-second-lowest-level-YTD/108-350833",
         "published_at": "2026-09-21T20:49:00+00:00",
         "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00"
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
       },
       "first_detected": {
         "id": "ca3225896f69a8dd09046465",
@@ -2543,7 +3799,7 @@
         "url": "https://www.dailymirror.lk/breaking-news/CSE-slips-below-21-000-as-turnover-falls-to-second-lowest-level-YTD/108-350833",
         "published_at": "2026-09-21T20:49:00+00:00",
         "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00"
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
       },
       "earliest_at": "2026-09-21T20:49:00+00:00",
       "latest_at": "2026-09-21T20:49:00+00:00",
@@ -2555,7 +3811,7 @@
           "url": "https://www.dailymirror.lk/breaking-news/CSE-slips-below-21-000-as-turnover-falls-to-second-lowest-level-YTD/108-350833",
           "published_at": "2026-09-21T20:49:00+00:00",
           "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-          "last_seen_at": "2026-09-22T00:03:06.157071+00:00"
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
         }
       ]
     },
@@ -2570,7 +3826,7 @@
         "url": "https://www.dailymirror.lk/breaking-news/Nimal-Perera-must-face-legal-action-over-bond-scam:-Lawyer/108-350832",
         "published_at": "2026-09-21T20:45:00+00:00",
         "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00"
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
       },
       "first_detected": {
         "id": "33907ce9bac5d42e1d81b605",
@@ -2579,7 +3835,7 @@
         "url": "https://www.dailymirror.lk/breaking-news/Nimal-Perera-must-face-legal-action-over-bond-scam:-Lawyer/108-350832",
         "published_at": "2026-09-21T20:45:00+00:00",
         "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00"
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
       },
       "earliest_at": "2026-09-21T20:45:00+00:00",
       "latest_at": "2026-09-21T20:45:00+00:00",
@@ -2591,7 +3847,7 @@
           "url": "https://www.dailymirror.lk/breaking-news/Nimal-Perera-must-face-legal-action-over-bond-scam:-Lawyer/108-350832",
           "published_at": "2026-09-21T20:45:00+00:00",
           "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-          "last_seen_at": "2026-09-22T00:03:06.157071+00:00"
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
         }
       ]
     },
@@ -2606,7 +3862,7 @@
         "url": "https://www.dailymirror.lk/breaking-news/Ampara-human-elephant-conflict:-14-new-control-units-to-be-established/108-350830",
         "published_at": "2026-09-21T20:02:00+00:00",
         "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00"
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
       },
       "first_detected": {
         "id": "3aa799601ef11084e23c46d6",
@@ -2615,7 +3871,7 @@
         "url": "https://www.dailymirror.lk/breaking-news/Ampara-human-elephant-conflict:-14-new-control-units-to-be-established/108-350830",
         "published_at": "2026-09-21T20:02:00+00:00",
         "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00"
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
       },
       "earliest_at": "2026-09-21T20:02:00+00:00",
       "latest_at": "2026-09-21T20:02:00+00:00",
@@ -2627,7 +3883,7 @@
           "url": "https://www.dailymirror.lk/breaking-news/Ampara-human-elephant-conflict:-14-new-control-units-to-be-established/108-350830",
           "published_at": "2026-09-21T20:02:00+00:00",
           "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-          "last_seen_at": "2026-09-22T00:03:06.157071+00:00"
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
         }
       ]
     },
@@ -2642,7 +3898,7 @@
         "url": "https://www.dailymirror.lk/breaking-news/Vijitha-Herath-to-make-special-statement-in-Parliament-on-Sivarasa-Anojan/108-350829",
         "published_at": "2026-09-21T18:59:00+00:00",
         "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00"
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
       },
       "first_detected": {
         "id": "01e01de7fd3d3bfeb2c8817d",
@@ -2651,7 +3907,7 @@
         "url": "https://www.dailymirror.lk/breaking-news/Vijitha-Herath-to-make-special-statement-in-Parliament-on-Sivarasa-Anojan/108-350829",
         "published_at": "2026-09-21T18:59:00+00:00",
         "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00"
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
       },
       "earliest_at": "2026-09-21T18:59:00+00:00",
       "latest_at": "2026-09-21T18:59:00+00:00",
@@ -2663,58 +3919,7 @@
           "url": "https://www.dailymirror.lk/breaking-news/Vijitha-Herath-to-make-special-statement-in-Parliament-on-Sivarasa-Anojan/108-350829",
           "published_at": "2026-09-21T18:59:00+00:00",
           "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-          "last_seen_at": "2026-09-22T00:03:06.157071+00:00"
-        }
-      ]
-    },
-    {
-      "id": "6bfe149ab07c30c0dd233701",
-      "title": "Court of Appeal Judge M. Sri Mevan Anthony Edirimannasuriya Corea appointed as Acting President of the Court of Appeal",
-      "article_count": 2,
-      "first_report": {
-        "id": "6bfe149ab07c30c0dd233701",
-        "source": "The Island",
-        "source_color": "#3B5F7A",
-        "title": "Court of Appeal Judge M. Sri Mevan Anthony Edirimannasuriya Corea appointed as Acting President of the Court of Appeal",
-        "url": "http://island.lk/court-of-appeal-judge-m-sri-mevan-anthony-edirimannasuriya-corea-appointed-as-acting-president-of-the-court-of-appeal",
-        "published_at": "2026-09-21T16:26:03+00:00",
-        "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
-        "category": "politics",
-        "discovery": "rss"
-      },
-      "first_detected": {
-        "id": "029a11ce3172df4d3225cb8c",
-        "source": "Daily Mirror",
-        "title": "Justice Mayadunna Corea appointed Acting President of Court of Appeal",
-        "url": "https://www.dailymirror.lk/breaking-news/Justice-Mayadunna-Corea-appointed-Acting-President-of-Court-of-Appeal/108-350828",
-        "published_at": "2026-09-21T18:33:00+00:00",
-        "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00"
-      },
-      "earliest_at": "2026-09-21T16:26:03+00:00",
-      "latest_at": "2026-09-21T18:33:00+00:00",
-      "articles": [
-        {
-          "id": "6bfe149ab07c30c0dd233701",
-          "source": "The Island",
-          "source_color": "#3B5F7A",
-          "title": "Court of Appeal Judge M. Sri Mevan Anthony Edirimannasuriya Corea appointed as Acting President of the Court of Appeal",
-          "url": "http://island.lk/court-of-appeal-judge-m-sri-mevan-anthony-edirimannasuriya-corea-appointed-as-acting-president-of-the-court-of-appeal",
-          "published_at": "2026-09-21T16:26:03+00:00",
-          "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
-          "category": "politics",
-          "discovery": "rss"
-        },
-        {
-          "id": "029a11ce3172df4d3225cb8c",
-          "source": "Daily Mirror",
-          "title": "Justice Mayadunna Corea appointed Acting President of Court of Appeal",
-          "url": "https://www.dailymirror.lk/breaking-news/Justice-Mayadunna-Corea-appointed-Acting-President-of-Court-of-Appeal/108-350828",
-          "published_at": "2026-09-21T18:33:00+00:00",
-          "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-          "last_seen_at": "2026-09-22T00:03:06.157071+00:00"
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
         }
       ]
     },
@@ -2791,6 +3996,51 @@
       ]
     },
     {
+      "id": "41ab8de8f7897f513e4d8e69",
+      "title": "Sri Lanka’s national inflation rises 8.1-pct in August",
+      "article_count": 1,
+      "first_report": {
+        "id": "41ab8de8f7897f513e4d8e69",
+        "source": "EconomyNext",
+        "source_color": "#B77A1D",
+        "title": "Sri Lanka’s national inflation rises 8.1-pct in August",
+        "url": "https://economynext.com/sri-lankas-national-inflation-rises-8-1-pct-in-august-284169",
+        "published_at": "2026-09-21T18:12:55+00:00",
+        "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "category": "main",
+        "discovery": "rss"
+      },
+      "first_detected": {
+        "id": "41ab8de8f7897f513e4d8e69",
+        "source": "EconomyNext",
+        "source_color": "#B77A1D",
+        "title": "Sri Lanka’s national inflation rises 8.1-pct in August",
+        "url": "https://economynext.com/sri-lankas-national-inflation-rises-8-1-pct-in-august-284169",
+        "published_at": "2026-09-21T18:12:55+00:00",
+        "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "category": "main",
+        "discovery": "rss"
+      },
+      "earliest_at": "2026-09-21T18:12:55+00:00",
+      "latest_at": "2026-09-21T18:12:55+00:00",
+      "articles": [
+        {
+          "id": "41ab8de8f7897f513e4d8e69",
+          "source": "EconomyNext",
+          "source_color": "#B77A1D",
+          "title": "Sri Lanka’s national inflation rises 8.1-pct in August",
+          "url": "https://economynext.com/sri-lankas-national-inflation-rises-8-1-pct-in-august-284169",
+          "published_at": "2026-09-21T18:12:55+00:00",
+          "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "category": "main",
+          "discovery": "rss"
+        }
+      ]
+    },
+    {
       "id": "4921d37767206ad9968bc5a0",
       "title": "අතුරුගිරියේ සිදුවූ මනුෂ්‍ය ඝාතන 2කට 4ක් අත්අඩංගුවට COLOMBO (News 1st) - අතුරුගිරිය ප්‍රදේශයේදී වෙඩි තබා මනුෂ්‍ය ඝාතන දෙකක් සිදු කිරීමට තැත් කිරීම සම්බන්ධයෙන් සැකකරුවන් හතර දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.පොලීසිය පැවසුවේ, අත්අඩංගුවට ගත් සැකකරුවන් අතර වෙඩික්කරු සහ අපරාධයට ආධාර අනුබල දුන් තවත් සැකකරුවන් තුන්දෙනෙකු ඇතුළත් බවයි.සැකකරුවන් 21, 24, 41 හා 45 හැවි... 21-09-2026 | 4:22 PM වැඩි විස්තර",
       "article_count": 1,
@@ -2802,7 +4052,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%85%e0%b6%ad%e0%b7%94%e0%b6%bb%e0%b7%94%e0%b6%9c%e0%b7%92%e0%b6%bb%e0%b7%92%e0%b6%ba-%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%af%e0%b7%9a%e0%b7%81%e0%b6%ba%e0%b7%9a",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -2814,7 +4064,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%85%e0%b6%ad%e0%b7%94%e0%b6%bb%e0%b7%94%e0%b6%9c%e0%b7%92%e0%b6%bb%e0%b7%92%e0%b6%ba-%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%af%e0%b7%9a%e0%b7%81%e0%b6%ba%e0%b7%9a",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -2829,7 +4079,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%85%e0%b6%ad%e0%b7%94%e0%b6%bb%e0%b7%94%e0%b6%9c%e0%b7%92%e0%b6%bb%e0%b7%92%e0%b6%ba-%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%af%e0%b7%9a%e0%b7%81%e0%b6%ba%e0%b7%9a",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
           "category": "main",
           "discovery": "homepage"
         }
@@ -2847,7 +4097,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b7%80%e0%b6%bb%e0%b7%99%e0%b6%b1%e0%b7%8a%e0%b6%ad%e0%b7%94-%e0%b6%bd%e0%b7%90%e0%b6%b6%e0%b7%92%e0%b6%bd%e0%b7%8f-%e0%b6%a7%e0%b7%92%e0%b6%9a-%e0%b7%80",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "politics",
         "discovery": "homepage"
       },
@@ -2859,7 +4109,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b7%80%e0%b6%bb%e0%b7%99%e0%b6%b1%e0%b7%8a%e0%b6%ad%e0%b7%94-%e0%b6%bd%e0%b7%90%e0%b6%b6%e0%b7%92%e0%b6%bd%e0%b7%8f-%e0%b6%a7%e0%b7%92%e0%b6%9a-%e0%b7%80",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "politics",
         "discovery": "homepage"
       },
@@ -2874,7 +4124,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b7%80%e0%b6%bb%e0%b7%99%e0%b6%b1%e0%b7%8a%e0%b6%ad%e0%b7%94-%e0%b6%bd%e0%b7%90%e0%b6%b6%e0%b7%92%e0%b6%bd%e0%b7%8f-%e0%b6%a7%e0%b7%92%e0%b6%9a-%e0%b7%80",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
           "category": "politics",
           "discovery": "homepage"
         }
@@ -2892,7 +4142,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b7%80%e0%b7%8f%e0%b7%84%e0%b6%b1-11-%e0%b6%9a%e0%b7%8a-%e0%b6%91%e0%b6%9a%e0%b7%92%e0%b6%b1%e0%b7%99%e0%b6%9a-%e0%b6%9c%e0%b7%90",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -2904,7 +4154,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b7%80%e0%b7%8f%e0%b7%84%e0%b6%b1-11-%e0%b6%9a%e0%b7%8a-%e0%b6%91%e0%b6%9a%e0%b7%92%e0%b6%b1%e0%b7%99%e0%b6%9a-%e0%b6%9c%e0%b7%90",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -2919,7 +4169,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b7%80%e0%b7%8f%e0%b7%84%e0%b6%b1-11-%e0%b6%9a%e0%b7%8a-%e0%b6%91%e0%b6%9a%e0%b7%92%e0%b6%b1%e0%b7%99%e0%b6%9a-%e0%b6%9c%e0%b7%90",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
           "category": "main",
           "discovery": "homepage"
         }
@@ -2937,7 +4187,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%9a%e0%b7%90%e0%b6%bd%e0%b6%ab%e0%b7%92-%e0%b6%9a%e0%b7%85%e0%b7%94-%e0%b6%9c%e0%b7%92%e0%b6%82-%e0%b6%9c%e0%b6%82%e0%b6%9c%e0%b7%8f-%e0%b7%83",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "business",
         "discovery": "homepage"
       },
@@ -2949,7 +4199,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%9a%e0%b7%90%e0%b6%bd%e0%b6%ab%e0%b7%92-%e0%b6%9a%e0%b7%85%e0%b7%94-%e0%b6%9c%e0%b7%92%e0%b6%82-%e0%b6%9c%e0%b6%82%e0%b6%9c%e0%b7%8f-%e0%b7%83",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "business",
         "discovery": "homepage"
       },
@@ -2964,53 +4214,8 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%9a%e0%b7%90%e0%b6%bd%e0%b6%ab%e0%b7%92-%e0%b6%9a%e0%b7%85%e0%b7%94-%e0%b6%9c%e0%b7%92%e0%b6%82-%e0%b6%9c%e0%b6%82%e0%b6%9c%e0%b7%8f-%e0%b7%83",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
           "category": "business",
-          "discovery": "homepage"
-        }
-      ]
-    },
-    {
-      "id": "6f7de98198a83754559bbb8f",
-      "title": "22 ගැන ශ්‍රේෂ්ඨාධිකරණයේ තීන්දුව COLOMBO (News 1st) - 22 වැනි ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය පිළිබඳ ශ්‍රේෂ්ඨාධිකරණයේ තීන්දුව අද (21) දිනයේ කථානායකවරයා වෙත ලැබීමට නියමිතව තිබේ.ඒ අනුව හෙට (22) දිනයේ එම තීරණය කථානායකවරයා විසින් පාර්ලිමේන්තුවට කරනු ඇත.ලබන 24 වැනිදා පෙරවරු 11.30 සිට පස්වරු 7.00 දක්වා විසි දෙවන ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධන ... 21-09-2026 | 7:13 AM වැඩි විස්තර",
-      "article_count": 1,
-      "first_report": {
-        "id": "6f7de98198a83754559bbb8f",
-        "source": "News First",
-        "source_color": "#254A8A",
-        "title": "22 ගැන ශ්‍රේෂ්ඨාධිකරණයේ තීන්දුව COLOMBO (News 1st) - 22 වැනි ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය පිළිබඳ ශ්‍රේෂ්ඨාධිකරණයේ තීන්දුව අද (21) දිනයේ කථානායකවරයා වෙත ලැබීමට නියමිතව තිබේ.ඒ අනුව හෙට (22) දිනයේ එම තීරණය කථානායකවරයා විසින් පාර්ලිමේන්තුවට කරනු ඇත.ලබන 24 වැනිදා පෙරවරු 11.30 සිට පස්වරු 7.00 දක්වා විසි දෙවන ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධන ... 21-09-2026 | 7:13 AM වැඩි විස්තර",
-        "url": "https://sinhala.newsfirst.lk/2026/09/21/22-%e0%b7%80%e0%b7%90%e0%b6%b1%e0%b7%92-%e0%b7%83%e0%b6%82%e0%b7%81%e0%b7%9d%e0%b6%b0%e0%b6%b1%e0%b6%ba-%e0%b6%b4%e0%b7%92%e0%b7%85%e0%b7%92",
-        "published_at": null,
-        "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
-        "category": "politics",
-        "discovery": "homepage"
-      },
-      "first_detected": {
-        "id": "6f7de98198a83754559bbb8f",
-        "source": "News First",
-        "source_color": "#254A8A",
-        "title": "22 ගැන ශ්‍රේෂ්ඨාධිකරණයේ තීන්දුව COLOMBO (News 1st) - 22 වැනි ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය පිළිබඳ ශ්‍රේෂ්ඨාධිකරණයේ තීන්දුව අද (21) දිනයේ කථානායකවරයා වෙත ලැබීමට නියමිතව තිබේ.ඒ අනුව හෙට (22) දිනයේ එම තීරණය කථානායකවරයා විසින් පාර්ලිමේන්තුවට කරනු ඇත.ලබන 24 වැනිදා පෙරවරු 11.30 සිට පස්වරු 7.00 දක්වා විසි දෙවන ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධන ... 21-09-2026 | 7:13 AM වැඩි විස්තර",
-        "url": "https://sinhala.newsfirst.lk/2026/09/21/22-%e0%b7%80%e0%b7%90%e0%b6%b1%e0%b7%92-%e0%b7%83%e0%b6%82%e0%b7%81%e0%b7%9d%e0%b6%b0%e0%b6%b1%e0%b6%ba-%e0%b6%b4%e0%b7%92%e0%b7%85%e0%b7%92",
-        "published_at": null,
-        "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
-        "category": "politics",
-        "discovery": "homepage"
-      },
-      "earliest_at": "2026-09-21T17:31:21.249666+00:00",
-      "latest_at": "2026-09-21T17:31:21.249666+00:00",
-      "articles": [
-        {
-          "id": "6f7de98198a83754559bbb8f",
-          "source": "News First",
-          "source_color": "#254A8A",
-          "title": "22 ගැන ශ්‍රේෂ්ඨාධිකරණයේ තීන්දුව COLOMBO (News 1st) - 22 වැනි ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය පිළිබඳ ශ්‍රේෂ්ඨාධිකරණයේ තීන්දුව අද (21) දිනයේ කථානායකවරයා වෙත ලැබීමට නියමිතව තිබේ.ඒ අනුව හෙට (22) දිනයේ එම තීරණය කථානායකවරයා විසින් පාර්ලිමේන්තුවට කරනු ඇත.ලබන 24 වැනිදා පෙරවරු 11.30 සිට පස්වරු 7.00 දක්වා විසි දෙවන ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධන ... 21-09-2026 | 7:13 AM වැඩි විස්තර",
-          "url": "https://sinhala.newsfirst.lk/2026/09/21/22-%e0%b7%80%e0%b7%90%e0%b6%b1%e0%b7%92-%e0%b7%83%e0%b6%82%e0%b7%81%e0%b7%9d%e0%b6%b0%e0%b6%b1%e0%b6%ba-%e0%b6%b4%e0%b7%92%e0%b7%85%e0%b7%92",
-          "published_at": null,
-          "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
-          "category": "politics",
           "discovery": "homepage"
         }
       ]
@@ -3027,7 +4232,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/21/calin-popular-awards",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -3039,7 +4244,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/21/calin-popular-awards",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -3054,7 +4259,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/21/calin-popular-awards",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
           "category": "main",
           "discovery": "homepage"
         }
@@ -3072,7 +4277,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%9c%e0%b7%92%e0%b6%82-%e0%b7%83%e0%b7%84-%e0%b6%9a%e0%b7%94%e0%b6%a9%e0%b7%8f-%e0%b6%9c%e0%b6%82%e0%b6%9f%e0%b7%8f%e0%b7%80%e0%b6%bd%e0%b6%a7",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -3084,7 +4289,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%9c%e0%b7%92%e0%b6%82-%e0%b7%83%e0%b7%84-%e0%b6%9a%e0%b7%94%e0%b6%a9%e0%b7%8f-%e0%b6%9c%e0%b6%82%e0%b6%9f%e0%b7%8f%e0%b7%80%e0%b6%bd%e0%b6%a7",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -3099,7 +4304,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%9c%e0%b7%92%e0%b6%82-%e0%b7%83%e0%b7%84-%e0%b6%9a%e0%b7%94%e0%b6%a9%e0%b7%8f-%e0%b6%9c%e0%b6%82%e0%b6%9f%e0%b7%8f%e0%b7%80%e0%b6%bd%e0%b6%a7",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
           "category": "main",
           "discovery": "homepage"
         },
@@ -3111,7 +4316,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/20/%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%af%e0%b7%9a%e0%b7%81-%e0%b6%9a%e0%b7%92%e0%b7%84%e0%b7%92%e0%b6%b4%e0%b6%ba%e0%b6%9a%e0%b6%a7-%e0%b6%85%e0%b6%af%e0%b7%92",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
           "category": "main",
           "discovery": "homepage"
         }
@@ -3129,7 +4334,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%af%e0%b7%92%e0%b7%83%e0%b7%8a%e0%b6%ad%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%92%e0%b6%9a%e0%b7%8a%e0%b6%9a-6%e0%b6%9a%e0%b6%a7-%e0%b6%b1%e0%b7%8f%e0%b6%ba",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -3141,7 +4346,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%af%e0%b7%92%e0%b7%83%e0%b7%8a%e0%b6%ad%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%92%e0%b6%9a%e0%b7%8a%e0%b6%9a-6%e0%b6%9a%e0%b6%a7-%e0%b6%b1%e0%b7%8f%e0%b6%ba",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -3156,7 +4361,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%af%e0%b7%92%e0%b7%83%e0%b7%8a%e0%b6%ad%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%92%e0%b6%9a%e0%b7%8a%e0%b6%9a-6%e0%b6%9a%e0%b6%a7-%e0%b6%b1%e0%b7%8f%e0%b6%ba",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
           "category": "main",
           "discovery": "homepage"
         },
@@ -3186,7 +4391,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/08/27/%e0%b6%bd%e0%b7%9c%e0%b7%80-%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%ae%e0%b6%b8-%e0%b7%80%e0%b6%ad%e0%b7%8f%e0%b7%80%e0%b6%a7-liv",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -3198,7 +4403,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/08/27/%e0%b6%bd%e0%b7%9c%e0%b7%80-%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%ae%e0%b6%b8-%e0%b7%80%e0%b6%ad%e0%b7%8f%e0%b7%80%e0%b6%a7-liv",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -3213,7 +4418,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/08/27/%e0%b6%bd%e0%b7%9c%e0%b7%80-%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%ae%e0%b6%b8-%e0%b7%80%e0%b6%ad%e0%b7%8f%e0%b7%80%e0%b6%a7-liv",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
           "category": "main",
           "discovery": "homepage"
         },
@@ -3243,7 +4448,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/08/08/%e0%b6%91%e0%b6%bd%e0%b7%8a-%e0%b6%b1%e0%b7%92%e0%b6%b1%e0%b7%9d-%e0%b7%84%e0%b7%9a%e0%b6%ad%e0%b7%94%e0%b7%80%e0%b7%99%e0%b6%b1%e0%b7%8a-%e0%b6%b8%e0%b7%99",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -3255,7 +4460,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/08/08/%e0%b6%91%e0%b6%bd%e0%b7%8a-%e0%b6%b1%e0%b7%92%e0%b6%b1%e0%b7%9d-%e0%b7%84%e0%b7%9a%e0%b6%ad%e0%b7%94%e0%b7%80%e0%b7%99%e0%b6%b1%e0%b7%8a-%e0%b6%b8%e0%b7%99",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -3270,7 +4475,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/08/08/%e0%b6%91%e0%b6%bd%e0%b7%8a-%e0%b6%b1%e0%b7%92%e0%b6%b1%e0%b7%9d-%e0%b7%84%e0%b7%9a%e0%b6%ad%e0%b7%94%e0%b7%80%e0%b7%99%e0%b6%b1%e0%b7%8a-%e0%b6%b8%e0%b7%99",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
           "category": "main",
           "discovery": "homepage"
         }
@@ -3288,7 +4493,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/07/27/%e0%b7%83%e0%b7%92%e0%b6%bb%e0%b7%83-%e0%b6%bd%e0%b6%9a%e0%b7%8a%e0%b7%82%e0%b6%b4%e0%b6%ad%e0%b7%92-%e0%b6%b1%e0%b7%90%e0%b7%80%e0%b7%94%e0%b6%b8%e0%b7%8a",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -3300,7 +4505,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/07/27/%e0%b7%83%e0%b7%92%e0%b6%bb%e0%b7%83-%e0%b6%bd%e0%b6%9a%e0%b7%8a%e0%b7%82%e0%b6%b4%e0%b6%ad%e0%b7%92-%e0%b6%b1%e0%b7%90%e0%b7%80%e0%b7%94%e0%b6%b8%e0%b7%8a",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -3315,7 +4520,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/07/27/%e0%b7%83%e0%b7%92%e0%b6%bb%e0%b7%83-%e0%b6%bd%e0%b6%9a%e0%b7%8a%e0%b7%82%e0%b6%b4%e0%b6%ad%e0%b7%92-%e0%b6%b1%e0%b7%90%e0%b7%80%e0%b7%94%e0%b6%b8%e0%b7%8a",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
           "category": "main",
           "discovery": "homepage"
         }
@@ -3333,7 +4538,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%b8%e0%b7%84%e0%b6%b1%e0%b7%94%e0%b7%80%e0%b6%bb-%e0%b6%af%e0%b7%92%e0%b7%83%e0%b7%8a%e0%b6%ad%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%92%e0%b6%9a%e0%b7%8a%e0%b6%9a%e0%b6%ba",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -3345,7 +4550,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%b8%e0%b7%84%e0%b6%b1%e0%b7%94%e0%b7%80%e0%b6%bb-%e0%b6%af%e0%b7%92%e0%b7%83%e0%b7%8a%e0%b6%ad%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%92%e0%b6%9a%e0%b7%8a%e0%b6%9a%e0%b6%ba",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -3360,7 +4565,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%b8%e0%b7%84%e0%b6%b1%e0%b7%94%e0%b7%80%e0%b6%bb-%e0%b6%af%e0%b7%92%e0%b7%83%e0%b7%8a%e0%b6%ad%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%92%e0%b6%9a%e0%b7%8a%e0%b6%9a%e0%b6%ba",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
           "category": "main",
           "discovery": "homepage"
         }
@@ -3423,7 +4628,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/20/%e0%b6%86%e0%b7%83%e0%b7%92%e0%b6%ba%e0%b7%8f%e0%b6%b1%e0%b7%94-%e0%b6%9a%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%93%e0%b6%a9%e0%b7%8f-%e0%b6%8b%e0%b7%85%e0%b7%99%e0%b6%bd",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "sports",
         "discovery": "homepage"
       },
@@ -3435,7 +4640,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/20/%e0%b6%86%e0%b7%83%e0%b7%92%e0%b6%ba%e0%b7%8f%e0%b6%b1%e0%b7%94-%e0%b6%9a%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%93%e0%b6%a9%e0%b7%8f-%e0%b6%8b%e0%b7%85%e0%b7%99%e0%b6%bd",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "sports",
         "discovery": "homepage"
       },
@@ -3450,7 +4655,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/20/%e0%b6%86%e0%b7%83%e0%b7%92%e0%b6%ba%e0%b7%8f%e0%b6%b1%e0%b7%94-%e0%b6%9a%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%93%e0%b6%a9%e0%b7%8f-%e0%b6%8b%e0%b7%85%e0%b7%99%e0%b6%bd",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
           "category": "sports",
           "discovery": "homepage"
         }
@@ -3513,7 +4718,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/20/%e0%b6%ad%e0%b6%bb%e0%b6%9c-3-0%e0%b6%9a%e0%b7%8a-%e0%b6%bd%e0%b7%99%e0%b7%83-%e0%b7%81%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%93",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "sports",
         "discovery": "homepage"
       },
@@ -3525,7 +4730,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/20/%e0%b6%ad%e0%b6%bb%e0%b6%9c-3-0%e0%b6%9a%e0%b7%8a-%e0%b6%bd%e0%b7%99%e0%b7%83-%e0%b7%81%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%93",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "sports",
         "discovery": "homepage"
       },
@@ -3540,7 +4745,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/20/%e0%b6%ad%e0%b6%bb%e0%b6%9c-3-0%e0%b6%9a%e0%b7%8a-%e0%b6%bd%e0%b7%99%e0%b7%83-%e0%b7%81%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%93",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
           "category": "sports",
           "discovery": "homepage"
         },
@@ -3552,7 +4757,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/16/%e0%b6%91%e0%b6%82%e0%b6%9c%e0%b6%bd%e0%b6%b1%e0%b7%8a%e0%b6%ad%e0%b6%ba-%e0%b7%84%e0%b6%b8%e0%b7%94%e0%b7%80%e0%b7%9a-%e0%b7%81%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%93",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
           "category": "sports",
           "discovery": "homepage"
         },
@@ -3564,7 +4769,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/14/%e0%b6%86%e0%b7%83%e0%b7%92%e0%b6%ba%e0%b7%8f%e0%b6%b1%e0%b7%94-%e0%b6%9a%e0%b7%94%e0%b7%83%e0%b6%bd%e0%b7%8f%e0%b6%b1-t20-%e0%b6%9a",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
           "category": "sports",
           "discovery": "homepage"
         },
@@ -3594,7 +4799,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/15/%e0%b6%bb%e0%b7%94%e0%b6%b8%e0%b7%9a%e0%b7%82%e0%b7%8a%e0%b6%9c%e0%b7%9a-%e0%b7%84%e0%b7%99%e0%b6%bd%e0%b7%8a%e0%b6%bd-%e0%b6%9a%e0%b6%a7%e0%b7%8a%e0%b6%a7%e0%b6%bd",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "sports",
         "discovery": "homepage"
       },
@@ -3606,7 +4811,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/15/%e0%b6%bb%e0%b7%94%e0%b6%b8%e0%b7%9a%e0%b7%82%e0%b7%8a%e0%b6%9c%e0%b7%9a-%e0%b7%84%e0%b7%99%e0%b6%bd%e0%b7%8a%e0%b6%bd-%e0%b6%9a%e0%b6%a7%e0%b7%8a%e0%b6%a7%e0%b6%bd",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "sports",
         "discovery": "homepage"
       },
@@ -3621,7 +4826,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/15/%e0%b6%bb%e0%b7%94%e0%b6%b8%e0%b7%9a%e0%b7%82%e0%b7%8a%e0%b6%9c%e0%b7%9a-%e0%b7%84%e0%b7%99%e0%b6%bd%e0%b7%8a%e0%b6%bd-%e0%b6%9a%e0%b6%a7%e0%b7%8a%e0%b6%a7%e0%b6%bd",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
           "category": "sports",
           "discovery": "homepage"
         }
@@ -3639,7 +4844,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/19/%e0%b6%bb%e0%b7%94%e0%b7%83%e0%b7%92%e0%b6%ba%e0%b7%8f%e0%b7%80%e0%b7%99%e0%b6%b1%e0%b7%8a-%e0%b6%ad%e0%b7%99%e0%b6%bd%e0%b7%8a-%e0%b7%83%e0%b7%84-%e0%b6%9c",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "politics",
         "discovery": "homepage"
       },
@@ -3651,7 +4856,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/19/%e0%b6%bb%e0%b7%94%e0%b7%83%e0%b7%92%e0%b6%ba%e0%b7%8f%e0%b7%80%e0%b7%99%e0%b6%b1%e0%b7%8a-%e0%b6%ad%e0%b7%99%e0%b6%bd%e0%b7%8a-%e0%b7%83%e0%b7%84-%e0%b6%9c",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "politics",
         "discovery": "homepage"
       },
@@ -3666,7 +4871,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/19/%e0%b6%bb%e0%b7%94%e0%b7%83%e0%b7%92%e0%b6%ba%e0%b7%8f%e0%b7%80%e0%b7%99%e0%b6%b1%e0%b7%8a-%e0%b6%ad%e0%b7%99%e0%b6%bd%e0%b7%8a-%e0%b7%83%e0%b7%84-%e0%b6%9c",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
           "category": "politics",
           "discovery": "homepage"
         }
@@ -3684,7 +4889,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/09/%e0%b6%bd%e0%b7%9d%e0%b6%9a-%e0%b7%83%e0%b7%9e%e0%b6%9b%e0%b7%8a%e2%80%8d%e0%b6%ba-%e0%b7%83%e0%b6%82%e0%b7%80%e0%b7%92%e0%b6%b0%e0%b7%8f%e0%b6%b1%e0%b6%ba%e0%b7%99",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "world",
         "discovery": "homepage"
       },
@@ -3696,7 +4901,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/09/%e0%b6%bd%e0%b7%9d%e0%b6%9a-%e0%b7%83%e0%b7%9e%e0%b6%9b%e0%b7%8a%e2%80%8d%e0%b6%ba-%e0%b7%83%e0%b6%82%e0%b7%80%e0%b7%92%e0%b6%b0%e0%b7%8f%e0%b6%b1%e0%b6%ba%e0%b7%99",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "world",
         "discovery": "homepage"
       },
@@ -3711,7 +4916,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/09/%e0%b6%bd%e0%b7%9d%e0%b6%9a-%e0%b7%83%e0%b7%9e%e0%b6%9b%e0%b7%8a%e2%80%8d%e0%b6%ba-%e0%b7%83%e0%b6%82%e0%b7%80%e0%b7%92%e0%b6%b0%e0%b7%8f%e0%b6%b1%e0%b6%ba%e0%b7%99",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
           "category": "world",
           "discovery": "homepage"
         }
@@ -3729,7 +4934,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/09/%e0%b6%b6%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%92%e0%b6%ad%e0%b7%8f%e0%b6%b1%e0%b7%8a%e2%80%8d%e0%b6%ba%e0%b6%ba%e0%b7%9a-%e0%b6%9c%e0%b7%94%e0%b7%80%e0%b6%b1%e0%b7%8a",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -3741,7 +4946,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/09/%e0%b6%b6%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%92%e0%b6%ad%e0%b7%8f%e0%b6%b1%e0%b7%8a%e2%80%8d%e0%b6%ba%e0%b6%ba%e0%b7%9a-%e0%b6%9c%e0%b7%94%e0%b7%80%e0%b6%b1%e0%b7%8a",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -3756,7 +4961,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/09/%e0%b6%b6%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%92%e0%b6%ad%e0%b7%8f%e0%b6%b1%e0%b7%8a%e2%80%8d%e0%b6%ba%e0%b6%ba%e0%b7%9a-%e0%b6%9c%e0%b7%94%e0%b7%80%e0%b6%b1%e0%b7%8a",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
           "category": "main",
           "discovery": "homepage"
         }
@@ -3774,7 +4979,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/08/%e0%b6%b1%e0%b7%90%e0%b7%80%e0%b6%ad-%e0%b6%bb%e0%b6%a7-%e0%b6%9c%e0%b7%9c%e0%b6%a9-%e0%b6%b1%e0%b7%90%e0%b6%9c%e0%b7%93%e0%b6%b8%e0%b7%9a-%e0%b6%9c",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -3786,7 +4991,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/08/%e0%b6%b1%e0%b7%90%e0%b7%80%e0%b6%ad-%e0%b6%bb%e0%b6%a7-%e0%b6%9c%e0%b7%9c%e0%b6%a9-%e0%b6%b1%e0%b7%90%e0%b6%9c%e0%b7%93%e0%b6%b8%e0%b7%9a-%e0%b6%9c",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -3801,7 +5006,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/08/%e0%b6%b1%e0%b7%90%e0%b7%80%e0%b6%ad-%e0%b6%bb%e0%b6%a7-%e0%b6%9c%e0%b7%9c%e0%b6%a9-%e0%b6%b1%e0%b7%90%e0%b6%9c%e0%b7%93%e0%b6%b8%e0%b7%9a-%e0%b6%9c",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
           "category": "main",
           "discovery": "homepage"
         }
@@ -3819,7 +5024,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/08/%e0%b7%83%e0%b7%9a%e0%b7%80%e0%b6%9a%e0%b6%ba%e0%b7%92%e0%b6%b1%e0%b7%8a-4-000%e0%b6%9a%e0%b7%8a-%e0%b6%89%e0%b7%80%e0%b6%ad",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -3831,7 +5036,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/08/%e0%b7%83%e0%b7%9a%e0%b7%80%e0%b6%9a%e0%b6%ba%e0%b7%92%e0%b6%b1%e0%b7%8a-4-000%e0%b6%9a%e0%b7%8a-%e0%b6%89%e0%b7%80%e0%b6%ad",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -3846,7 +5051,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/08/%e0%b7%83%e0%b7%9a%e0%b7%80%e0%b6%9a%e0%b6%ba%e0%b7%92%e0%b6%b1%e0%b7%8a-4-000%e0%b6%9a%e0%b7%8a-%e0%b6%89%e0%b7%80%e0%b6%ad",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
           "category": "main",
           "discovery": "homepage"
         }
@@ -3864,7 +5069,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/10/apple-%e0%b7%83%e0%b6%b8%e0%b7%8f%e0%b6%9c%e0%b6%b8-%e0%b6%8a%e0%b6%ba%e0%b7%9a-%e0%b6%b4%e0%b7%90%e0%b7%80%e0%b6%ad",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -3876,7 +5081,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/10/apple-%e0%b7%83%e0%b6%b8%e0%b7%8f%e0%b6%9c%e0%b6%b8-%e0%b6%8a%e0%b6%ba%e0%b7%9a-%e0%b6%b4%e0%b7%90%e0%b7%80%e0%b6%ad",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -3891,7 +5096,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/10/apple-%e0%b7%83%e0%b6%b8%e0%b7%8f%e0%b6%9c%e0%b6%b8-%e0%b6%8a%e0%b6%ba%e0%b7%9a-%e0%b6%b4%e0%b7%90%e0%b7%80%e0%b6%ad",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
           "category": "main",
           "discovery": "homepage"
         }
@@ -3909,7 +5114,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/10/%e0%b6%86%e0%b6%bb%e0%b7%8a%e0%b6%ae%e0%b7%92%e0%b6%9a-%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%ad%e0%b7%92%e0%b7%83%e0%b6%82%e0%b7%83%e0%b7%8a%e0%b6%9a%e0%b6%bb%e0%b6%ab",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "business",
         "discovery": "homepage"
       },
@@ -3921,7 +5126,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/10/%e0%b6%86%e0%b6%bb%e0%b7%8a%e0%b6%ae%e0%b7%92%e0%b6%9a-%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%ad%e0%b7%92%e0%b7%83%e0%b6%82%e0%b7%83%e0%b7%8a%e0%b6%9a%e0%b6%bb%e0%b6%ab",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "business",
         "discovery": "homepage"
       },
@@ -3936,7 +5141,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/10/%e0%b6%86%e0%b6%bb%e0%b7%8a%e0%b6%ae%e0%b7%92%e0%b6%9a-%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%ad%e0%b7%92%e0%b7%83%e0%b6%82%e0%b7%83%e0%b7%8a%e0%b6%9a%e0%b6%bb%e0%b6%ab",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
           "category": "business",
           "discovery": "homepage"
         }
@@ -3954,7 +5159,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/08/25/%e0%b6%bd%e0%b7%9d%e0%b6%9a-%e0%b7%80%e0%b7%99%e0%b7%85%e0%b6%b3%e0%b6%b4%e0%b7%9c%e0%b6%bd%e0%b7%9a-%e0%b6%bb%e0%b6%ad%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%b1%e0%b7%8a",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "business",
         "discovery": "homepage"
       },
@@ -3966,7 +5171,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/08/25/%e0%b6%bd%e0%b7%9d%e0%b6%9a-%e0%b7%80%e0%b7%99%e0%b7%85%e0%b6%b3%e0%b6%b4%e0%b7%9c%e0%b6%bd%e0%b7%9a-%e0%b6%bb%e0%b6%ad%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%b1%e0%b7%8a",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "business",
         "discovery": "homepage"
       },
@@ -3981,7 +5186,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/08/25/%e0%b6%bd%e0%b7%9d%e0%b6%9a-%e0%b7%80%e0%b7%99%e0%b7%85%e0%b6%b3%e0%b6%b4%e0%b7%9c%e0%b6%bd%e0%b7%9a-%e0%b6%bb%e0%b6%ad%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%b1%e0%b7%8a",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
           "category": "business",
           "discovery": "homepage"
         }
@@ -3999,7 +5204,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/08/24/%e0%b7%80%e0%b7%83%e0%b6%bb%e0%b7%9a-%e0%b6%b8%e0%b7%9a-%e0%b6%af%e0%b6%9a%e0%b7%8a%e0%b7%80%e0%b7%8f-%e0%b7%83%e0%b6%82%e0%b6%a0%e0%b7%8f%e0%b6%bb%e0%b6%9a",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "world",
         "discovery": "homepage"
       },
@@ -4011,7 +5216,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/08/24/%e0%b7%80%e0%b7%83%e0%b6%bb%e0%b7%9a-%e0%b6%b8%e0%b7%9a-%e0%b6%af%e0%b6%9a%e0%b7%8a%e0%b7%80%e0%b7%8f-%e0%b7%83%e0%b6%82%e0%b6%a0%e0%b7%8f%e0%b6%bb%e0%b6%9a",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "world",
         "discovery": "homepage"
       },
@@ -4026,7 +5231,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/08/24/%e0%b7%80%e0%b7%83%e0%b6%bb%e0%b7%9a-%e0%b6%b8%e0%b7%9a-%e0%b6%af%e0%b6%9a%e0%b7%8a%e0%b7%80%e0%b7%8f-%e0%b7%83%e0%b6%82%e0%b6%a0%e0%b7%8f%e0%b6%bb%e0%b6%9a",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
           "category": "world",
           "discovery": "homepage"
         }
@@ -4044,7 +5249,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/08/19/meta-%e0%b7%83%e0%b6%b8%e0%b7%8f%e0%b6%9c%e0%b6%b8%e0%b6%a7-%e0%b6%91%e0%b6%bb%e0%b7%99%e0%b7%84%e0%b7%92%e0%b7%80-%e0%b6%a9",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "business",
         "discovery": "homepage"
       },
@@ -4056,7 +5261,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/08/19/meta-%e0%b7%83%e0%b6%b8%e0%b7%8f%e0%b6%9c%e0%b6%b8%e0%b6%a7-%e0%b6%91%e0%b6%bb%e0%b7%99%e0%b7%84%e0%b7%92%e0%b7%80-%e0%b6%a9",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
         "category": "business",
         "discovery": "homepage"
       },
@@ -4071,7 +5276,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/08/19/meta-%e0%b7%83%e0%b6%b8%e0%b7%8f%e0%b6%9c%e0%b6%b8%e0%b6%a7-%e0%b6%91%e0%b6%bb%e0%b7%99%e0%b7%84%e0%b7%92%e0%b7%80-%e0%b6%a9",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-22T00:03:06.157071+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
           "category": "business",
           "discovery": "homepage"
         }
@@ -7781,7 +8986,7 @@
         "url": "https://economynext.com/foreign-investors-sell-sri-lanka-rupee-bonds-amid-depreciation-284165",
         "published_at": "2026-09-21T15:19:12+00:00",
         "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
       },
       "first_detected": {
         "id": "49e7705959db968f14cdd691",
@@ -7790,7 +8995,7 @@
         "url": "https://economynext.com/foreign-investors-sell-sri-lanka-rupee-bonds-amid-depreciation-284165",
         "published_at": "2026-09-21T15:19:12+00:00",
         "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
       },
       "earliest_at": "2026-09-21T15:19:12+00:00",
       "latest_at": "2026-09-21T15:19:12+00:00",
@@ -7802,7 +9007,7 @@
           "url": "https://economynext.com/foreign-investors-sell-sri-lanka-rupee-bonds-amid-depreciation-284165",
           "published_at": "2026-09-21T15:19:12+00:00",
           "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
         }
       ]
     },
@@ -7879,42 +9084,6 @@
       ]
     },
     {
-      "id": "c77eb30916d952a78fa4f754",
-      "title": "Speaker receives Supreme Court determination on 22nd Amendment",
-      "article_count": 1,
-      "first_report": {
-        "id": "c77eb30916d952a78fa4f754",
-        "source": "Daily Mirror",
-        "title": "Speaker receives Supreme Court determination on 22nd Amendment",
-        "url": "https://www.dailymirror.lk/breaking-news/Speaker-receives-Supreme-Court-determination-on-22nd-Amendment/108-350806",
-        "published_at": "2026-09-21T14:04:00+00:00",
-        "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-        "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
-      },
-      "first_detected": {
-        "id": "c77eb30916d952a78fa4f754",
-        "source": "Daily Mirror",
-        "title": "Speaker receives Supreme Court determination on 22nd Amendment",
-        "url": "https://www.dailymirror.lk/breaking-news/Speaker-receives-Supreme-Court-determination-on-22nd-Amendment/108-350806",
-        "published_at": "2026-09-21T14:04:00+00:00",
-        "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-        "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
-      },
-      "earliest_at": "2026-09-21T14:04:00+00:00",
-      "latest_at": "2026-09-21T14:04:00+00:00",
-      "articles": [
-        {
-          "id": "c77eb30916d952a78fa4f754",
-          "source": "Daily Mirror",
-          "title": "Speaker receives Supreme Court determination on 22nd Amendment",
-          "url": "https://www.dailymirror.lk/breaking-news/Speaker-receives-Supreme-Court-determination-on-22nd-Amendment/108-350806",
-          "published_at": "2026-09-21T14:04:00+00:00",
-          "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-          "last_seen_at": "2026-09-21T11:12:33.776830+00:00"
-        }
-      ]
-    },
-    {
       "id": "b634e37753b4c226c6e7c908",
       "title": "Sri Lanka parliamentarians visit China, South Africa for regional forums",
       "article_count": 2,
@@ -7925,7 +9094,7 @@
         "url": "https://economynext.com/sri-lanka-parliamentarians-visit-china-south-africa-for-regional-forums-284133",
         "published_at": "2026-09-21T10:35:07+00:00",
         "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
       },
       "first_detected": {
         "id": "b634e37753b4c226c6e7c908",
@@ -7934,7 +9103,7 @@
         "url": "https://economynext.com/sri-lanka-parliamentarians-visit-china-south-africa-for-regional-forums-284133",
         "published_at": "2026-09-21T10:35:07+00:00",
         "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
       },
       "earliest_at": "2026-09-21T10:35:07+00:00",
       "latest_at": "2026-09-21T13:45:00+00:00",
@@ -7946,7 +9115,7 @@
           "url": "https://economynext.com/sri-lanka-parliamentarians-visit-china-south-africa-for-regional-forums-284133",
           "published_at": "2026-09-21T10:35:07+00:00",
           "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
         },
         {
           "id": "db94302779091dce8b8f7cb4",
@@ -8150,7 +9319,7 @@
         "url": "https://economynext.com/sri-lanka-rupee-closes-at-330-75-90-to-us-dollar-spot-bond-yields-flat-284154",
         "published_at": "2026-09-21T12:05:47+00:00",
         "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
       },
       "first_detected": {
         "id": "08839d84626aeaee17f0a15e",
@@ -8159,7 +9328,7 @@
         "url": "https://economynext.com/sri-lanka-rupee-closes-at-330-75-90-to-us-dollar-spot-bond-yields-flat-284154",
         "published_at": "2026-09-21T12:05:47+00:00",
         "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
       },
       "earliest_at": "2026-09-21T12:05:47+00:00",
       "latest_at": "2026-09-21T12:05:47+00:00",
@@ -8171,7 +9340,7 @@
           "url": "https://economynext.com/sri-lanka-rupee-closes-at-330-75-90-to-us-dollar-spot-bond-yields-flat-284154",
           "published_at": "2026-09-21T12:05:47+00:00",
           "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
         }
       ]
     },
@@ -8186,7 +9355,7 @@
         "url": "https://economynext.com/sri-lankas-resus-energy-commissions-2mw-solar-power-plant-284135",
         "published_at": "2026-09-21T11:56:23+00:00",
         "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
       },
       "first_detected": {
         "id": "b67de7f217744adb875c933a",
@@ -8195,7 +9364,7 @@
         "url": "https://economynext.com/sri-lankas-resus-energy-commissions-2mw-solar-power-plant-284135",
         "published_at": "2026-09-21T11:56:23+00:00",
         "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
       },
       "earliest_at": "2026-09-21T11:56:23+00:00",
       "latest_at": "2026-09-21T11:56:23+00:00",
@@ -8207,7 +9376,7 @@
           "url": "https://economynext.com/sri-lankas-resus-energy-commissions-2mw-solar-power-plant-284135",
           "published_at": "2026-09-21T11:56:23+00:00",
           "first_seen_at": "2026-09-21T17:06:34.225748+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
         }
       ]
     },
@@ -8222,7 +9391,7 @@
         "url": "https://economynext.com/sri-lanka-stocks-close-lower-aspi-drops-0-37-pct-284121",
         "published_at": "2026-09-21T09:55:15+00:00",
         "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
       },
       "first_detected": {
         "id": "827f1213e2d3337cdfc56a73",
@@ -8231,7 +9400,7 @@
         "url": "https://economynext.com/sri-lanka-stocks-close-lower-aspi-drops-0-37-pct-284121",
         "published_at": "2026-09-21T09:55:15+00:00",
         "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
       },
       "earliest_at": "2026-09-21T09:55:15+00:00",
       "latest_at": "2026-09-21T09:55:15+00:00",
@@ -8243,7 +9412,7 @@
           "url": "https://economynext.com/sri-lanka-stocks-close-lower-aspi-drops-0-37-pct-284121",
           "published_at": "2026-09-21T09:55:15+00:00",
           "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
         }
       ]
     },
@@ -8258,7 +9427,7 @@
         "url": "https://economynext.com/sri-lanka-economic-summit-to-focus-on-energy-transition-284115",
         "published_at": "2026-09-21T09:01:28+00:00",
         "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
       },
       "first_detected": {
         "id": "2b6c58d24ded240065df398f",
@@ -8267,7 +9436,7 @@
         "url": "https://economynext.com/sri-lanka-economic-summit-to-focus-on-energy-transition-284115",
         "published_at": "2026-09-21T09:01:28+00:00",
         "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
       },
       "earliest_at": "2026-09-21T09:01:28+00:00",
       "latest_at": "2026-09-21T09:01:28+00:00",
@@ -8279,7 +9448,7 @@
           "url": "https://economynext.com/sri-lanka-economic-summit-to-focus-on-energy-transition-284115",
           "published_at": "2026-09-21T09:01:28+00:00",
           "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
         }
       ]
     },
@@ -8294,7 +9463,7 @@
         "url": "https://economynext.com/adb-launches-6bn-push-for-healthier-seas-and-coastal-economies-284111",
         "published_at": "2026-09-21T07:18:19+00:00",
         "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
       },
       "first_detected": {
         "id": "7d3f3c17922cf72789618e7e",
@@ -8303,7 +9472,7 @@
         "url": "https://economynext.com/adb-launches-6bn-push-for-healthier-seas-and-coastal-economies-284111",
         "published_at": "2026-09-21T07:18:19+00:00",
         "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
       },
       "earliest_at": "2026-09-21T07:18:19+00:00",
       "latest_at": "2026-09-21T07:18:19+00:00",
@@ -8315,7 +9484,7 @@
           "url": "https://economynext.com/adb-launches-6bn-push-for-healthier-seas-and-coastal-economies-284111",
           "published_at": "2026-09-21T07:18:19+00:00",
           "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
         }
       ]
     },
@@ -8330,7 +9499,7 @@
         "url": "https://economynext.com/sri-lankas-softlogic-finance-plans-rs1bn-rights-issue-284055",
         "published_at": "2026-09-21T05:02:07+00:00",
         "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
       },
       "first_detected": {
         "id": "31754142cf09ab34994b725a",
@@ -8339,7 +9508,7 @@
         "url": "https://economynext.com/sri-lankas-softlogic-finance-plans-rs1bn-rights-issue-284055",
         "published_at": "2026-09-21T05:02:07+00:00",
         "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
       },
       "earliest_at": "2026-09-21T05:02:07+00:00",
       "latest_at": "2026-09-21T05:02:07+00:00",
@@ -8351,7 +9520,7 @@
           "url": "https://economynext.com/sri-lankas-softlogic-finance-plans-rs1bn-rights-issue-284055",
           "published_at": "2026-09-21T05:02:07+00:00",
           "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
         }
       ]
     },
@@ -8366,7 +9535,7 @@
         "url": "https://economynext.com/sri-lanka-rupee-closes-at-330-75-331-25-to-us-dollar-spot-bond-yields-drop-284016",
         "published_at": "2026-09-18T11:44:45+00:00",
         "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
       },
       "first_detected": {
         "id": "f2a50a552ac36f60aee8ecbb",
@@ -8375,7 +9544,7 @@
         "url": "https://economynext.com/sri-lanka-rupee-closes-at-330-75-331-25-to-us-dollar-spot-bond-yields-drop-284016",
         "published_at": "2026-09-18T11:44:45+00:00",
         "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
       },
       "earliest_at": "2026-09-18T11:44:45+00:00",
       "latest_at": "2026-09-21T04:36:47+00:00",
@@ -8387,7 +9556,7 @@
           "url": "https://economynext.com/sri-lanka-rupee-closes-at-330-75-331-25-to-us-dollar-spot-bond-yields-drop-284016",
           "published_at": "2026-09-18T11:44:45+00:00",
           "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
         },
         {
           "id": "8483b2b0963e2ca8bf7ac39d",
@@ -8396,7 +9565,7 @@
           "url": "https://economynext.com/sri-lanka-rupee-at-331-00-25-to-us-dollar-spot-bond-yields-lower-284062",
           "published_at": "2026-09-21T04:36:47+00:00",
           "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
         }
       ]
     },
@@ -8411,7 +9580,7 @@
         "url": "https://economynext.com/sri-lankas-aitken-spence-hotel-holdings-debenture-sale-oversubscribed-284073",
         "published_at": "2026-09-21T04:35:59+00:00",
         "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
       },
       "first_detected": {
         "id": "d490d584ddc553b720bcfd08",
@@ -8420,7 +9589,7 @@
         "url": "https://economynext.com/sri-lankas-aitken-spence-hotel-holdings-debenture-sale-oversubscribed-284073",
         "published_at": "2026-09-21T04:35:59+00:00",
         "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
       },
       "earliest_at": "2026-09-21T04:35:59+00:00",
       "latest_at": "2026-09-21T04:35:59+00:00",
@@ -8432,7 +9601,7 @@
           "url": "https://economynext.com/sri-lankas-aitken-spence-hotel-holdings-debenture-sale-oversubscribed-284073",
           "published_at": "2026-09-21T04:35:59+00:00",
           "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
         }
       ]
     },
@@ -8447,7 +9616,7 @@
         "url": "https://economynext.com/sri-lanka-stocks-open-marginally-up-on-monday-aspi-at-21070-284056",
         "published_at": "2026-09-21T04:34:43+00:00",
         "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
       },
       "first_detected": {
         "id": "5229dbe8cb25df1072f2cddf",
@@ -8456,7 +9625,7 @@
         "url": "https://economynext.com/sri-lanka-stocks-open-marginally-up-on-monday-aspi-at-21070-284056",
         "published_at": "2026-09-21T04:34:43+00:00",
         "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
       },
       "earliest_at": "2026-09-21T04:34:43+00:00",
       "latest_at": "2026-09-21T04:34:43+00:00",
@@ -8468,7 +9637,7 @@
           "url": "https://economynext.com/sri-lanka-stocks-open-marginally-up-on-monday-aspi-at-21070-284056",
           "published_at": "2026-09-21T04:34:43+00:00",
           "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
         }
       ]
     },
@@ -8698,51 +9867,6 @@
       ]
     },
     {
-      "id": "1031967413f036fc45551297",
-      "title": "Showers about 100 mm are likely at times in the Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya Districts",
-      "article_count": 1,
-      "first_report": {
-        "id": "1031967413f036fc45551297",
-        "source": "The Island",
-        "source_color": "#3B5F7A",
-        "title": "Showers about 100 mm are likely at times in the Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya Districts",
-        "url": "http://island.lk/showers-about-100-mm-are-likely-at-times-in-the-western-sabaragamuwa-and-north-western-provinces-and-in-galle-matara-kandy-and-nuwara-eliya-districts",
-        "published_at": "2026-09-21T00:30:50+00:00",
-        "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
-        "category": "main",
-        "discovery": "rss"
-      },
-      "first_detected": {
-        "id": "1031967413f036fc45551297",
-        "source": "The Island",
-        "source_color": "#3B5F7A",
-        "title": "Showers about 100 mm are likely at times in the Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya Districts",
-        "url": "http://island.lk/showers-about-100-mm-are-likely-at-times-in-the-western-sabaragamuwa-and-north-western-provinces-and-in-galle-matara-kandy-and-nuwara-eliya-districts",
-        "published_at": "2026-09-21T00:30:50+00:00",
-        "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
-        "category": "main",
-        "discovery": "rss"
-      },
-      "earliest_at": "2026-09-21T00:30:50+00:00",
-      "latest_at": "2026-09-21T00:30:50+00:00",
-      "articles": [
-        {
-          "id": "1031967413f036fc45551297",
-          "source": "The Island",
-          "source_color": "#3B5F7A",
-          "title": "Showers about 100 mm are likely at times in the Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya Districts",
-          "url": "http://island.lk/showers-about-100-mm-are-likely-at-times-in-the-western-sabaragamuwa-and-north-western-provinces-and-in-galle-matara-kandy-and-nuwara-eliya-districts",
-          "published_at": "2026-09-21T00:30:50+00:00",
-          "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
-          "category": "main",
-          "discovery": "rss"
-        }
-      ]
-    },
-    {
       "id": "1ea3e4ccaa37aad03de1522c",
       "title": "Fitch affirms and withdraws Capital Alliance Investment Grade Fund",
       "article_count": 1,
@@ -8753,7 +9877,7 @@
         "url": "https://economynext.com/fitch-affirms-and-withdraws-capital-alliance-investment-grade-fund-284040",
         "published_at": "2026-09-20T03:30:39+00:00",
         "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
       },
       "first_detected": {
         "id": "1ea3e4ccaa37aad03de1522c",
@@ -8762,7 +9886,7 @@
         "url": "https://economynext.com/fitch-affirms-and-withdraws-capital-alliance-investment-grade-fund-284040",
         "published_at": "2026-09-20T03:30:39+00:00",
         "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
       },
       "earliest_at": "2026-09-20T03:30:39+00:00",
       "latest_at": "2026-09-20T03:30:39+00:00",
@@ -8774,7 +9898,7 @@
           "url": "https://economynext.com/fitch-affirms-and-withdraws-capital-alliance-investment-grade-fund-284040",
           "published_at": "2026-09-20T03:30:39+00:00",
           "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
         }
       ]
     },
@@ -8789,7 +9913,7 @@
         "url": "https://economynext.com/sri-lankas-stories-reimagined-in-what-lives-between-exhibition-284048",
         "published_at": "2026-09-20T03:09:12+00:00",
         "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
       },
       "first_detected": {
         "id": "f3448ef44a3b235cc94176ea",
@@ -8798,7 +9922,7 @@
         "url": "https://economynext.com/sri-lankas-stories-reimagined-in-what-lives-between-exhibition-284048",
         "published_at": "2026-09-20T03:09:12+00:00",
         "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
       },
       "earliest_at": "2026-09-20T03:09:12+00:00",
       "latest_at": "2026-09-20T03:09:12+00:00",
@@ -8810,7 +9934,7 @@
           "url": "https://economynext.com/sri-lankas-stories-reimagined-in-what-lives-between-exhibition-284048",
           "published_at": "2026-09-20T03:09:12+00:00",
           "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
         }
       ]
     },
@@ -8825,7 +9949,7 @@
         "url": "https://economynext.com/sri-lankas-monthly-tourism-revenue-rises-for-first-time-in-10-months-up-2-1-pct-in-august-2026-284038",
         "published_at": "2026-09-19T11:01:29+00:00",
         "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
       },
       "first_detected": {
         "id": "b0ee45d49d81550b443eb7b7",
@@ -8834,7 +9958,7 @@
         "url": "https://economynext.com/sri-lankas-monthly-tourism-revenue-rises-for-first-time-in-10-months-up-2-1-pct-in-august-2026-284038",
         "published_at": "2026-09-19T11:01:29+00:00",
         "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
       },
       "earliest_at": "2026-09-19T11:01:29+00:00",
       "latest_at": "2026-09-19T11:01:29+00:00",
@@ -8846,7 +9970,7 @@
           "url": "https://economynext.com/sri-lankas-monthly-tourism-revenue-rises-for-first-time-in-10-months-up-2-1-pct-in-august-2026-284038",
           "published_at": "2026-09-19T11:01:29+00:00",
           "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
         }
       ]
     },
@@ -8861,7 +9985,7 @@
         "url": "https://economynext.com/new-macsync-malware-steals-macos-crypto-and-credentials-kaspersky-284030",
         "published_at": "2026-09-19T08:08:03+00:00",
         "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
       },
       "first_detected": {
         "id": "3dcdaa62094408dcb413aa0f",
@@ -8870,7 +9994,7 @@
         "url": "https://economynext.com/new-macsync-malware-steals-macos-crypto-and-credentials-kaspersky-284030",
         "published_at": "2026-09-19T08:08:03+00:00",
         "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
       },
       "earliest_at": "2026-09-19T08:08:03+00:00",
       "latest_at": "2026-09-19T08:08:03+00:00",
@@ -8882,7 +10006,7 @@
           "url": "https://economynext.com/new-macsync-malware-steals-macos-crypto-and-credentials-kaspersky-284030",
           "published_at": "2026-09-19T08:08:03+00:00",
           "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
         }
       ]
     },
@@ -8897,7 +10021,7 @@
         "url": "https://economynext.com/india-extends-gap-finance-to-continue-ferry-service-to-sri-lanka-284023",
         "published_at": "2026-09-18T12:49:50+00:00",
         "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
       },
       "first_detected": {
         "id": "37d3a727f86990e0ff06f094",
@@ -8906,7 +10030,7 @@
         "url": "https://economynext.com/india-extends-gap-finance-to-continue-ferry-service-to-sri-lanka-284023",
         "published_at": "2026-09-18T12:49:50+00:00",
         "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-        "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
       },
       "earliest_at": "2026-09-18T12:49:50+00:00",
       "latest_at": "2026-09-18T12:49:50+00:00",
@@ -8918,7 +10042,7 @@
           "url": "https://economynext.com/india-extends-gap-finance-to-continue-ferry-service-to-sri-lanka-284023",
           "published_at": "2026-09-18T12:49:50+00:00",
           "first_seen_at": "2026-09-21T11:12:33.776830+00:00",
-          "last_seen_at": "2026-09-21T17:31:21.249666+00:00"
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00"
         }
       ]
     },
