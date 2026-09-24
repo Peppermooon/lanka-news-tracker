@@ -1,55 +1,51 @@
 {
-  "updated_at": "2026-09-24T01:27:13.337091+00:00",
+  "updated_at": "2026-09-24T06:40:28.910292+00:00",
   "sources": [
     {
       "source": "Ada Derana",
       "status": "error",
       "message": "403 Client Error: Forbidden for url: https://sinhala.adaderana.lk/",
-      "checked_at": "2026-09-24T01:27:13.337091+00:00"
+      "checked_at": "2026-09-24T06:40:28.910292+00:00"
     },
     {
       "source": "Hiru News",
       "status": "error",
       "message": "403 Client Error: Forbidden for url: https://www.hirunews.lk/",
-      "checked_at": "2026-09-24T01:27:13.337091+00:00"
+      "checked_at": "2026-09-24T06:40:28.910292+00:00"
     },
     {
       "source": "News First",
       "status": "ok",
       "method": "homepage",
-      "new_articles": 0,
+      "new_articles": 7,
       "items_seen": 31,
-      "checked_at": "2026-09-24T01:27:13.337091+00:00"
+      "checked_at": "2026-09-24T06:40:28.910292+00:00"
     },
     {
       "source": "ITN News",
       "status": "error",
       "message": "403 Client Error: Forbidden for url: https://www.itnnews.lk/",
-      "checked_at": "2026-09-24T01:27:13.337091+00:00"
+      "checked_at": "2026-09-24T06:40:28.910292+00:00"
     },
     {
       "source": "Lankadeepa",
-      "status": "ok",
-      "method": "homepage",
-      "new_articles": 0,
-      "items_seen": 96,
-      "checked_at": "2026-09-24T01:27:13.337091+00:00"
+      "status": "error",
+      "message": "HTTPSConnectionPool(host='www.lankadeepa.lk', port=443): Read timed out. (read timeout=22)",
+      "checked_at": "2026-09-24T06:40:28.910292+00:00"
     },
     {
       "source": "Daily Mirror",
       "status": "ok",
       "method": "rss",
-      "new_articles": 0,
+      "new_articles": 11,
       "items_seen": 12,
-      "checked_at": "2026-09-24T01:27:13.337091+00:00"
+      "checked_at": "2026-09-24T06:40:28.910292+00:00"
     },
     {
       "source": "EconomyNext",
-      "status": "ok",
-      "method": "rss",
-      "new_articles": 0,
-      "items_seen": 20,
-      "checked_at": "2026-09-24T01:27:13.337091+00:00"
+      "status": "error",
+      "message": "Feed contains no entries",
+      "checked_at": "2026-09-24T06:40:28.910292+00:00"
     },
     {
       "source": "The Island",
@@ -57,11 +53,347 @@
       "method": "rss",
       "new_articles": 10,
       "items_seen": 10,
-      "checked_at": "2026-09-24T01:27:13.337091+00:00"
+      "checked_at": "2026-09-24T06:40:28.910292+00:00"
     }
   ],
-  "article_count": 479,
+  "article_count": 507,
   "articles": [
+    {
+      "id": "22b365dcf8c33f52c152573d",
+      "source": "Daily Mirror",
+      "source_color": "#A5222D",
+      "title": "No regrets whatsoever, accused still hold onto their ideology: ASG",
+      "url": "https://www.dailymirror.lk/breaking-news/No-regrets-whatsoever--accused-still-hold-onto-their-ideology:-ASG/108-351037",
+      "published_at": "2026-09-24T12:04:00+00:00",
+      "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "category": "main",
+      "discovery": "rss"
+    },
+    {
+      "id": "8c1e12c4b1b41cced1943091",
+      "source": "Daily Mirror",
+      "source_color": "#A5222D",
+      "title": "What is the 22nd Amendment to the Constitution?",
+      "url": "https://www.dailymirror.lk/breaking-news/What-is-the-22nd-Amendment-to-the-Constitution-/108-351035",
+      "published_at": "2026-09-24T11:59:00+00:00",
+      "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "category": "main",
+      "discovery": "rss"
+    },
+    {
+      "id": "d8105c6a8e7b7ed7a496a420",
+      "source": "Daily Mirror",
+      "source_color": "#A5222D",
+      "title": "Bill on dog registration and rabies elimination presented in Parliament",
+      "url": "https://www.dailymirror.lk/breaking-news/Bill-on-dog-registration-and-rabies-elimination-presented-in-Parliament/108-351032",
+      "published_at": "2026-09-24T11:55:00+00:00",
+      "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "category": "politics",
+      "discovery": "rss"
+    },
+    {
+      "id": "c3471293af2d425eeaff3072",
+      "source": "Daily Mirror",
+      "source_color": "#A5222D",
+      "title": "Parliamentary debate on 22nd Amendment begins",
+      "url": "https://www.dailymirror.lk/breaking-news/Parliamentary-debate-on-22nd-Amendment-begins/108-351028",
+      "published_at": "2026-09-24T11:35:00+00:00",
+      "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "category": "politics",
+      "discovery": "rss"
+    },
+    {
+      "id": "87aac2d85800d7f9a03a01be",
+      "source": "Daily Mirror",
+      "source_color": "#A5222D",
+      "title": "Security tightened around Parliament amid 22nd Amendment debate",
+      "url": "https://www.dailymirror.lk/breaking-news/Security-tightened-around-Parliament-amid-22nd-Amendment-debate/108-351009",
+      "published_at": "2026-09-24T11:01:00+00:00",
+      "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "category": "politics",
+      "discovery": "rss"
+    },
+    {
+      "id": "21d8a16fdc5ff35f445a89ed",
+      "source": "Daily Mirror",
+      "source_color": "#A5222D",
+      "title": "Australia says OpenAI agent hacked into government website",
+      "url": "https://www.dailymirror.lk/international/Australia-says-OpenAI-agent-hacked-into-government-website/107-351008",
+      "published_at": "2026-09-24T10:50:00+00:00",
+      "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "category": "politics",
+      "discovery": "rss"
+    },
+    {
+      "id": "9dbe0033ecb7b225adb62229",
+      "source": "Daily Mirror",
+      "source_color": "#A5222D",
+      "title": "Habib Rifan sworn in as MP",
+      "url": "https://www.dailymirror.lk/breaking-news/Habib-Rifan-sworn-in-as-MP/108-351004",
+      "published_at": "2026-09-24T09:50:00+00:00",
+      "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "category": "politics",
+      "discovery": "rss"
+    },
+    {
+      "id": "d489c916273e863ec113104f",
+      "source": "Daily Mirror",
+      "source_color": "#A5222D",
+      "title": "Opposition holds protest near Parliamentary Complex",
+      "url": "https://www.dailymirror.lk/breaking-news/Opposition-holds-protest-near-Parliamentary-Complex/108-351003",
+      "published_at": "2026-09-24T09:46:00+00:00",
+      "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "category": "politics",
+      "discovery": "rss"
+    },
+    {
+      "id": "427ed0be7684eac729d018fa",
+      "source": "Daily Mirror",
+      "source_color": "#A5222D",
+      "title": "Revenue license system goes offline in eight provinces for four days",
+      "url": "https://www.dailymirror.lk/breaking-news/Revenue-license-system-goes-offline-in-eight-provinces-for-four-days/108-351002",
+      "published_at": "2026-09-24T09:32:00+00:00",
+      "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "category": "main",
+      "discovery": "rss"
+    },
+    {
+      "id": "386c4cafaa00b0b98c8839ff",
+      "source": "Daily Mirror",
+      "source_color": "#A5222D",
+      "title": "Galle Face child abuse case: Police seek information to identify suspect",
+      "url": "https://www.dailymirror.lk/breaking-news/Galle-Face-child-abuse-case:-Police-seek-information-to-identify-suspect/108-351001",
+      "published_at": "2026-09-24T09:01:00+00:00",
+      "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "category": "main",
+      "discovery": "rss"
+    },
+    {
+      "id": "52f82bd208289993a07b3b72",
+      "source": "Daily Mirror",
+      "source_color": "#A5222D",
+      "title": "Trump offers warm welcome as China’s Xi arrives for US visit",
+      "url": "https://www.dailymirror.lk/international/Trump-offers-warm-welcome-as-China’s-Xi-arrives-for-US-visit/107-351000",
+      "published_at": "2026-09-24T08:53:00+00:00",
+      "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "category": "politics",
+      "discovery": "rss"
+    },
+    {
+      "id": "243a23dcd91b48f5e3f96e19",
+      "source": "News First",
+      "source_color": "#254A8A",
+      "title": "මහ වැසි මැද රිය ධාවනය ප්‍රවේශමෙන්! COLOMBO (News 1st) - මේ වන විට කොළඹ ඇතුළු තදාසන්න ප්‍රදේශවලට තද වැසි ඇතිවෙමින් පවතී.පොලීසිය පැවසුවේ, පවතින වර්ෂා සහිත කාලගුණයත් සමග රිය ධාවනයේදී සැළකිලිමත් වන ලෙසයි.වර්ෂාව පවතින අවස්ථාවේදී, රථවාහනවල ඉදිරිපස අලෝක සංඥා දල්වා ගමන් කරන ලෙස පොලිස් මාධ්‍ය ප්‍රකාශක සහකාර පොලිස් අධිකාරි එෆ්. යූ. වුට්ලර් පැව... 24-09-2026 | 10:13 AM වැඩි විස්තර",
+      "url": "https://sinhala.newsfirst.lk/2026/09/24/%e0%b6%b8%e0%b7%84-%e0%b7%80%e0%b7%90%e0%b7%83%e0%b7%92-%e0%b6%b8%e0%b7%90%e0%b6%af-%e0%b6%bb%e0%b7%92%e0%b6%ba-%e0%b6%b0%e0%b7%8f%e0%b7%80%e0%b6%b1",
+      "published_at": null,
+      "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "category": "world",
+      "discovery": "homepage"
+    },
+    {
+      "id": "02d967dd4bce2c98d317d8fc",
+      "source": "News First",
+      "source_color": "#254A8A",
+      "title": "පස්සර මධ්‍ය මහා විද්‍යාලයට සනීපාරක්ෂක පහසුකම් COLOMBO (News1st) - බදුල්ල පස්සර මධ්‍ය මහා විද්‍යාලයේ සනීපාරක්ෂක පද්ධතියකට මුල්ගල් තැබීම අද සිදුවේ.ඒ ගම්මැද්ද තවත් ව්‍යාපෘතියක් ලෙසයි.සිසු සිසුවියන් 1,100 කට අධික ප්‍රමාණයක් ඉගෙනුම ලබන විද්‍යාලයේ පවතින සනීපාරක්ෂක පද්ධතිය ප්‍රමාණවත් නොවීම හේතුවෙන් ඔවුන් පත්ව ඇත්තේ දැඩි අපහසුතාවකටයි.පසුගියදා ගම්මැද්ද ... 24-09-2026 | 9:03 AM වැඩි විස්තර",
+      "url": "https://sinhala.newsfirst.lk/2026/09/24/%e0%b6%9c%e0%b6%b8%e0%b7%8a%e0%b6%b8%e0%b7%90%e0%b6%af%e0%b7%8a%e0%b6%af%e0%b7%99%e0%b6%b1%e0%b7%8a-%e0%b6%b4%e0%b7%83%e0%b7%8a%e0%b7%83%e0%b6%bb-%e0%b6%b8%e0%b6%b0",
+      "published_at": null,
+      "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "category": "business",
+      "discovery": "homepage"
+    },
+    {
+      "id": "54a27a583ae79c43b7c42d4a",
+      "source": "News First",
+      "source_color": "#254A8A",
+      "title": "සොයිසාපුර ගින්නට හේතුව ගෑස් කාන්දුවක් COLOMBO (News 1st) - සොයිසාපුර මහල් නිවාස සංකීර්ණයේ ඊයේ (23) රාත්‍රියේ ඇතිවූ ගින්නට හේතුව ගෑස් කාන්දුවක් බවට අනාවරණය වී තිබේ.ගිනි නිවීම් සේවා දෙපාර්තමේන්තුව පැවසුවේ, ගිනි ගැනීමට ලක්වූ නිවසේ තිබී ගෑස් සිලින්ඩර් 22 ක් සොයාගත් බවයි.ඉන් සිලින්ඩර කිහිපයක් ගෑස් සහිත ඒවා බවත් එම දෙපාර්තමේන්තුව පැවසුවේ ය.ඊය... 24-09-2026 | 8:16 AM වැඩි විස්තර",
+      "url": "https://sinhala.newsfirst.lk/2026/09/24/%e0%b7%83%e0%b7%9c%e0%b6%ba%e0%b7%92%e0%b7%83%e0%b7%8f%e0%b6%b4%e0%b7%94%e0%b6%bb-%e0%b6%b8%e0%b7%84%e0%b6%bd%e0%b7%8a-%e0%b6%b1%e0%b7%92%e0%b7%80%e0%b7%8f%e0%b7%83",
+      "published_at": null,
+      "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "category": "main",
+      "discovery": "homepage"
+    },
+    {
+      "id": "72f7be39a69b443c9dd08aa0",
+      "source": "News First",
+      "source_color": "#254A8A",
+      "title": "ඩිජිටල් වෙන දිසා අධිකරණ පද්ධතිය... COLOMBO (News 1st) - සියලු දිසා අධිකරණවල විභාගවන නඩු සඳහා ගැලපෙන පරිදි විද්‍යුත් ගොනු කිරීමේ ඩිජිටල් පද්ධති හදුන්වාදීමට පියවර ගෙන තිබේ.අධිකරණ සේවා කොමිෂන් සභාව සඳහන් කළේ, එහි පළමු පියවර ලෙස කොළඹ සුළු හිම්කම් අධිකරණයේ විද්‍යුත් නඩු ගොනු කිරීමේ ඩිජිටල් පද්ධතිය ඊයේ (23) ආරම්භ කළ බවයි.ඒ අගවිනිසුරු ප්‍රී... 24-09-2026 | 8:08 AM වැඩි විස්තර",
+      "url": "https://sinhala.newsfirst.lk/2026/09/24/%e0%b7%83%e0%b7%92%e0%b6%ba%e0%b6%bd%e0%b7%94-%e0%b6%af%e0%b7%92%e0%b7%83%e0%b7%8f-%e0%b6%85%e0%b6%b0%e0%b7%92%e0%b6%9a%e0%b6%bb%e0%b6%ab%e0%b7%80%e0%b6%bd",
+      "published_at": null,
+      "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "category": "main",
+      "discovery": "homepage"
+    },
+    {
+      "id": "77add97555c9e8dc47704eca",
+      "source": "News First",
+      "source_color": "#254A8A",
+      "title": "නව පනත් ගැන විවාදය අද සහ හෙට.. COLOMBO (News 1st) - 22 වැනි ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය සහ අධිකරණ සංවිධාන සං⁣ශෝධන පනත් කෙටුම්පත පිළිබඳ පාර්ලිමේන්තු විවාදය අද (24) සහ හෙට (25) පැවැත්වේ.පාර්ලිමේන්තුවේ සන්නිවේදන දෙපාර්තමේන්තුව සඳහන් කළේ, අද පෙරවරු 11.30 සිට පස්වරු 7.00 දක්වා විසි දෙවන ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධන පනත් කෙටුම්පත සහ අධ... 24-09-2026 | 7:53 AM වැඩි විස්තර",
+      "url": "https://sinhala.newsfirst.lk/2026/09/24/22-%e0%b7%80%e0%b7%90%e0%b6%b1%e0%b7%92-%e0%b6%86%e0%b6%ab%e0%b7%8a%e0%b6%a9%e0%b7%94%e0%b6%9a%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%b8-%e0%b7%80",
+      "published_at": null,
+      "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "category": "politics",
+      "discovery": "homepage"
+    },
+    {
+      "id": "780ee3588d830b312bfa7a5f",
+      "source": "News First",
+      "source_color": "#254A8A",
+      "title": "නිල්වලා සහ ගිං ගංගා සුළු ගංවතුර මට්ටමට.... COLOMBO (News 1st) - පවතින අධික වර්ෂාපතනයත් සමග නිල්වලා ගඟ පස්ගොඩ, පිටබැද්දර, අතුරලිය, මාලිම්බඩ, කඹුරුපිටිය හා තිහගොඩ ප්‍රාදේශීය ලේකම් කොට්ඨාසවලින් සුළු ගංවතුර මට්ටමට පැමිණ තිබේ.වාරිමාර්ග දෙපාර්තමේන්තුව සඳහන් කළේ, ගිං ගඟද තවලම, නාගොඩ, බද්දේගම, වැලිවිටිය-දිවිතුර ප්‍රාදේශීය ලේකම් කොට්ඨාසවලින් සුළු ගංවතුර මට්ටමට පැමිණ ඇති බවයි.මෙම ප්‍රාදේශීය ලේකම් කොට්ඨාසවල වෙසෙන ජනතාව සැළකිල්ලෙන් කටයුතු කරන්නැයි වාරිමාර්ග දෙපාරතමේන්තුව ජනතාවට දැනුම් දෙයි.මේ අතර මහන... 24-09-2026 | 7:45 AM වැඩි විස්තර",
+      "url": "https://sinhala.newsfirst.lk/2026/09/24/%e0%b6%85%e0%b6%b0%e0%b7%92%e0%b6%9a-%e0%b7%80%e0%b7%90%e0%b7%83%e0%b7%92-%e0%b7%84%e0%b6%b8%e0%b7%94%e0%b7%80%e0%b7%9a-%e0%b6%b1%e0%b7%92%e0%b6%bd%e0%b7%8a",
+      "published_at": null,
+      "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "category": "main",
+      "discovery": "homepage"
+    },
+    {
+      "id": "caaff725913ac2a7d4878ad5",
+      "source": "News First",
+      "source_color": "#254A8A",
+      "title": "තෙදින නිල සංචාරය අරඹමින් චීන ජනපති ඇමරිකාවට... COLOMBO (News 1st) - චීන ජනාධිපති ෂී ජින්ග් පින්ග් සහ ජනාධිපති ආර්යා පන්ග් ලීවැන් අද (24) අලුයම ඇමරිකාවට පැමිණියහ.ඒ තුන් දින නිල රාජ්‍ය සංචාරයක් වෙනුවෙනි.අද මෙරට වේලාවෙන් අලුයම 3ට පමණ ඔවුන් රැගත් ගුවන් යානය ඇමරිකාවේ මේරිලන්ඩ් ප්‍රාන්තයේ ඇන්ඩෘස් ගුවන් හමුදා කඳවුරට ළඟා විය.චීන යුවල පිළිගැනීමට ඇමරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් සහ ඔහුගේ ආර්යාව වන මෙලා... 24-09-2026 | 7:25 AM වැඩි විස්තර",
+      "url": "https://sinhala.newsfirst.lk/2026/09/24/%e0%b6%ad%e0%b7%99%e0%b6%af%e0%b7%92%e0%b6%b1-%e0%b6%b1%e0%b7%92%e0%b6%bd-%e0%b7%83%e0%b6%82%e0%b6%a0%e0%b7%8f%e0%b6%bb%e0%b6%ba-%e0%b6%85%e0%b6%bb%e0%b6%b9",
+      "published_at": null,
+      "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "category": "politics",
+      "discovery": "homepage"
+    },
+    {
+      "id": "b90ae9cd15e418c7ea93afef",
+      "source": "The Island",
+      "source_color": "#3B5F7A",
+      "title": "Showerss above 100 mm are likely at some places in the Western, Sabaragamuwa, Central and North-western provinces and in Galle and Matara Districts",
+      "url": "http://island.lk/showerss-above-100-mm-are-likely-at-some-places-in-the-western-sabaragamuwa-central-and-north-western-provinces-and-in-galle-and-matara-districts",
+      "published_at": "2026-09-24T00:25:46+00:00",
+      "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "category": "main",
+      "discovery": "rss"
+    },
+    {
+      "id": "f447063f21cf6411ee912bbb",
+      "source": "The Island",
+      "source_color": "#3B5F7A",
+      "title": "Mirabai Chanu wins Asian Games silver as Ri breaks weightlifting record",
+      "url": "http://island.lk/mirabai-chanu-wins-asian-games-silver-as-ri-breaks-weightlifting-record",
+      "published_at": "2026-09-24T00:17:40+00:00",
+      "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "category": "main",
+      "discovery": "rss"
+    },
+    {
+      "id": "536731c3ea2119734989468d",
+      "source": "The Island",
+      "source_color": "#3B5F7A",
+      "title": "Trump greets China’s Xi Jinping on arrival for three-day US",
+      "url": "http://island.lk/trump-greets-chinas-xi-jinping-on-arrival-for-three-day-us",
+      "published_at": "2026-09-24T00:07:01+00:00",
+      "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "category": "politics",
+      "discovery": "rss"
+    },
+    {
+      "id": "0cca1c91bcdaa1f17108e7fc",
+      "source": "The Island",
+      "source_color": "#3B5F7A",
+      "title": "BASL calls for conscience vote on 22nd Amendment",
+      "url": "http://island.lk/basl-calls-for-conscience-vote-on-22nd-amendment",
+      "published_at": "2026-09-24T00:05:53+00:00",
+      "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "category": "main",
+      "discovery": "rss"
+    },
+    {
+      "id": "60b0a803bd99bf0127ddf3ff",
+      "source": "The Island",
+      "source_color": "#3B5F7A",
+      "title": "IMF: Sri Lanka on course for 2027 market return",
+      "url": "http://island.lk/imf-sri-lanka-on-course-for-2027-market-return",
+      "published_at": "2026-09-24T00:04:50+00:00",
+      "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "category": "business",
+      "discovery": "rss"
+    },
+    {
+      "id": "1b2c1064548ccc6c4c655d2b",
+      "source": "The Island",
+      "source_color": "#3B5F7A",
+      "title": "President appoints three new judges to High Court",
+      "url": "http://island.lk/president-appoints-three-new-judges-to-high-court",
+      "published_at": "2026-09-24T00:03:35+00:00",
+      "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "category": "politics",
+      "discovery": "rss"
+    },
+    {
+      "id": "603daa40483dc2c7770917ff",
+      "source": "The Island",
+      "source_color": "#3B5F7A",
+      "title": "Church welcomes Easter Sunday verdict, demands full probe",
+      "url": "http://island.lk/church-welcomes-easter-sunday-verdict-demands-full-probe",
+      "published_at": "2026-09-24T00:02:37+00:00",
+      "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "category": "main",
+      "discovery": "rss"
+    },
+    {
+      "id": "c13e3434b52dd8d2a358f80a",
+      "source": "The Island",
+      "source_color": "#3B5F7A",
+      "title": "Mahanayake Thera urges US to adopt flexible tax policies",
+      "url": "http://island.lk/mahanayake-thera-urges-us-to-adopt-flexible-tax-policies",
+      "published_at": "2026-09-24T00:01:48+00:00",
+      "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "category": "business",
+      "discovery": "rss"
+    },
+    {
+      "id": "5c2897003250171bb0a577b3",
+      "source": "The Island",
+      "source_color": "#3B5F7A",
+      "title": "No hiding place after another batting collapse",
+      "url": "http://island.lk/no-hiding-place-after-another-batting-collapse",
+      "published_at": "2026-09-24T00:00:56+00:00",
+      "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "category": "main",
+      "discovery": "rss"
+    },
+    {
+      "id": "69802188ba81e2089f6edd46",
+      "source": "The Island",
+      "source_color": "#3B5F7A",
+      "title": "IMF talks conclude without staff-level agreement as Sri Lanka prepares November Budget",
+      "url": "http://island.lk/imf-talks-conclude-without-staff-level-agreement-as-sri-lanka-prepares-november-budget",
+      "published_at": "2026-09-24T00:00:50+00:00",
+      "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+      "category": "main",
+      "discovery": "rss"
+    },
     {
       "id": "2a613b89de218a2711856fe2",
       "source": "The Island",
@@ -190,7 +522,7 @@
       "url": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-Easter-attacks-convicts-to-challenge-200-year-jail-terms/108-350999",
       "published_at": "2026-09-23T21:20:00+00:00",
       "first_seen_at": "2026-09-23T17:26:25.153955+00:00",
-      "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
       "category": "main",
       "discovery": "rss"
     },
@@ -274,7 +606,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/23/%e0%b6%9a%e0%b7%92%e0%b6%ad%e0%b7%94%e0%b6%bd%e0%b7%8a%e0%b6%9c%e0%b6%bd-%e0%b6%b8%e0%b6%b1%e0%b7%8a%e0%b6%b1%e0%b7%8f%e0%b6%b4%e0%b7%92%e0%b6%a7%e0%b7%92%e0%b6%ba",
       "published_at": null,
       "first_seen_at": "2026-09-23T17:26:25.153955+00:00",
-      "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
       "category": "main",
       "discovery": "homepage"
     },
@@ -286,7 +618,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/23/%e0%b7%80%e0%b7%90%e0%b6%bd%e0%b7%92%e0%b7%83%e0%b6%bb-%e0%b6%b8%e0%b7%84%e0%b6%b6%e0%b7%8f%e0%b6%9c%e0%b7%9a-%e0%b7%84%e0%b6%b1%e0%b7%8a%e0%b6%af%e0%b7%92%e0%b6%ba",
       "published_at": null,
       "first_seen_at": "2026-09-23T17:26:25.153955+00:00",
-      "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
       "category": "business",
       "discovery": "homepage"
     },
@@ -298,7 +630,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/23/%e0%b6%9c%e0%b7%99%e0%b7%80%e0%b7%94%e0%b6%ab%e0%b7%94-%e0%b6%b8%e0%b7%8f%e0%b7%83-8-%e0%b6%ad%e0%b7%94%e0%b7%85-%e0%b6%a9%e0%b7%9c%e0%b6%bd",
       "published_at": null,
       "first_seen_at": "2026-09-23T17:26:25.153955+00:00",
-      "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
       "category": "business",
       "discovery": "homepage"
     },
@@ -310,7 +642,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/23/%e0%b6%bb%e0%b7%94%e0%b6%b4%e0%b7%92%e0%b6%ba%e0%b6%bd%e0%b7%8a-%e0%b6%b6%e0%b7%92%e0%b6%bd%e0%b7%92%e0%b6%ba%e0%b6%b1-24%e0%b6%9a-%e0%b6%a9",
       "published_at": null,
       "first_seen_at": "2026-09-23T17:26:25.153955+00:00",
-      "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
       "category": "business",
       "discovery": "homepage"
     },
@@ -322,7 +654,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/23/%e0%b6%85%e0%b6%b7%e0%b7%92%e0%b6%ba%e0%b7%9d%e0%b6%9c-%e0%b7%84%e0%b6%b8%e0%b7%94%e0%b7%80%e0%b7%9a-%e0%b7%80%e0%b7%94%e0%b7%80%e0%b6%af-%e0%b6%b8%e0%b7%99",
       "published_at": null,
       "first_seen_at": "2026-09-23T17:26:25.153955+00:00",
-      "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
       "category": "business",
       "discovery": "homepage"
     },
@@ -334,7 +666,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/23/%e0%b6%b8%e0%b7%9c%e0%b6%bb%e0%b6%a7%e0%b7%94%e0%b7%80-%e0%b7%83%e0%b7%9c%e0%b6%ba%e0%b7%92%e0%b7%83%e0%b7%8f%e0%b6%b4%e0%b7%94%e0%b6%bb-%e0%b6%b8%e0%b7%84%e0%b6%bd",
       "published_at": null,
       "first_seen_at": "2026-09-23T17:26:25.153955+00:00",
-      "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
       "category": "main",
       "discovery": "homepage"
     },
@@ -3996,7 +4328,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/08/27/%e0%b6%bd%e0%b7%9c%e0%b7%80-%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%ae%e0%b6%b8-%e0%b7%80%e0%b6%ad%e0%b7%8f%e0%b7%80%e0%b6%a7-liv",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
       "category": "main",
       "discovery": "homepage"
     },
@@ -4008,7 +4340,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/08/08/%e0%b6%91%e0%b6%bd%e0%b7%8a-%e0%b6%b1%e0%b7%92%e0%b6%b1%e0%b7%9d-%e0%b7%84%e0%b7%9a%e0%b6%ad%e0%b7%94%e0%b7%80%e0%b7%99%e0%b6%b1%e0%b7%8a-%e0%b6%b8%e0%b7%99",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
       "category": "main",
       "discovery": "homepage"
     },
@@ -4020,7 +4352,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/07/27/%e0%b7%83%e0%b7%92%e0%b6%bb%e0%b7%83-%e0%b6%bd%e0%b6%9a%e0%b7%8a%e0%b7%82%e0%b6%b4%e0%b6%ad%e0%b7%92-%e0%b6%b1%e0%b7%90%e0%b7%80%e0%b7%94%e0%b6%b8%e0%b7%8a",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
       "category": "main",
       "discovery": "homepage"
     },
@@ -4068,7 +4400,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/20/%e0%b6%86%e0%b7%83%e0%b7%92%e0%b6%ba%e0%b7%8f%e0%b6%b1%e0%b7%94-%e0%b6%9a%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%93%e0%b6%a9%e0%b7%8f-%e0%b6%8b%e0%b7%85%e0%b7%99%e0%b6%bd",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
       "category": "sports",
       "discovery": "homepage"
     },
@@ -4092,7 +4424,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/20/%e0%b6%ad%e0%b6%bb%e0%b6%9c-3-0%e0%b6%9a%e0%b7%8a-%e0%b6%bd%e0%b7%99%e0%b7%83-%e0%b7%81%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%93",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
       "category": "sports",
       "discovery": "homepage"
     },
@@ -4104,7 +4436,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/16/%e0%b6%91%e0%b6%82%e0%b6%9c%e0%b6%bd%e0%b6%b1%e0%b7%8a%e0%b6%ad%e0%b6%ba-%e0%b7%84%e0%b6%b8%e0%b7%94%e0%b7%80%e0%b7%9a-%e0%b7%81%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%93",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
       "category": "sports",
       "discovery": "homepage"
     },
@@ -4116,7 +4448,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/15/%e0%b6%bb%e0%b7%94%e0%b6%b8%e0%b7%9a%e0%b7%82%e0%b7%8a%e0%b6%9c%e0%b7%9a-%e0%b7%84%e0%b7%99%e0%b6%bd%e0%b7%8a%e0%b6%bd-%e0%b6%9a%e0%b6%a7%e0%b7%8a%e0%b6%a7%e0%b6%bd",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
       "category": "sports",
       "discovery": "homepage"
     },
@@ -4128,7 +4460,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/14/%e0%b6%86%e0%b7%83%e0%b7%92%e0%b6%ba%e0%b7%8f%e0%b6%b1%e0%b7%94-%e0%b6%9a%e0%b7%94%e0%b7%83%e0%b6%bd%e0%b7%8f%e0%b6%b1-t20-%e0%b6%9a",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
       "category": "sports",
       "discovery": "homepage"
     },
@@ -4152,7 +4484,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/19/%e0%b6%bb%e0%b7%94%e0%b7%83%e0%b7%92%e0%b6%ba%e0%b7%8f%e0%b7%80%e0%b7%99%e0%b6%b1%e0%b7%8a-%e0%b6%ad%e0%b7%99%e0%b6%bd%e0%b7%8a-%e0%b7%83%e0%b7%84-%e0%b6%9c",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
       "category": "politics",
       "discovery": "homepage"
     },
@@ -4164,7 +4496,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/09/%e0%b6%bd%e0%b7%9d%e0%b6%9a-%e0%b7%83%e0%b7%9e%e0%b6%9b%e0%b7%8a%e2%80%8d%e0%b6%ba-%e0%b7%83%e0%b6%82%e0%b7%80%e0%b7%92%e0%b6%b0%e0%b7%8f%e0%b6%b1%e0%b6%ba%e0%b7%99",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
       "category": "world",
       "discovery": "homepage"
     },
@@ -4176,7 +4508,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/09/%e0%b6%b6%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%92%e0%b6%ad%e0%b7%8f%e0%b6%b1%e0%b7%8a%e2%80%8d%e0%b6%ba%e0%b6%ba%e0%b7%9a-%e0%b6%9c%e0%b7%94%e0%b7%80%e0%b6%b1%e0%b7%8a",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
       "category": "main",
       "discovery": "homepage"
     },
@@ -4188,7 +4520,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/08/%e0%b6%b1%e0%b7%90%e0%b7%80%e0%b6%ad-%e0%b6%bb%e0%b6%a7-%e0%b6%9c%e0%b7%9c%e0%b6%a9-%e0%b6%b1%e0%b7%90%e0%b6%9c%e0%b7%93%e0%b6%b8%e0%b7%9a-%e0%b6%9c",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
       "category": "main",
       "discovery": "homepage"
     },
@@ -4200,7 +4532,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/08/%e0%b7%83%e0%b7%9a%e0%b7%80%e0%b6%9a%e0%b6%ba%e0%b7%92%e0%b6%b1%e0%b7%8a-4-000%e0%b6%9a%e0%b7%8a-%e0%b6%89%e0%b7%80%e0%b6%ad",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
       "category": "main",
       "discovery": "homepage"
     },
@@ -4212,7 +4544,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/10/apple-%e0%b7%83%e0%b6%b8%e0%b7%8f%e0%b6%9c%e0%b6%b8-%e0%b6%8a%e0%b6%ba%e0%b7%9a-%e0%b6%b4%e0%b7%90%e0%b7%80%e0%b6%ad",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
       "category": "main",
       "discovery": "homepage"
     },
@@ -4224,7 +4556,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/09/10/%e0%b6%86%e0%b6%bb%e0%b7%8a%e0%b6%ae%e0%b7%92%e0%b6%9a-%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%ad%e0%b7%92%e0%b7%83%e0%b6%82%e0%b7%83%e0%b7%8a%e0%b6%9a%e0%b6%bb%e0%b6%ab",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
       "category": "business",
       "discovery": "homepage"
     },
@@ -4236,7 +4568,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/08/25/%e0%b6%bd%e0%b7%9d%e0%b6%9a-%e0%b7%80%e0%b7%99%e0%b7%85%e0%b6%b3%e0%b6%b4%e0%b7%9c%e0%b6%bd%e0%b7%9a-%e0%b6%bb%e0%b6%ad%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%b1%e0%b7%8a",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
       "category": "business",
       "discovery": "homepage"
     },
@@ -4248,7 +4580,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/08/24/%e0%b7%80%e0%b7%83%e0%b6%bb%e0%b7%9a-%e0%b6%b8%e0%b7%9a-%e0%b6%af%e0%b6%9a%e0%b7%8a%e0%b7%80%e0%b7%8f-%e0%b7%83%e0%b6%82%e0%b6%a0%e0%b7%8f%e0%b6%bb%e0%b6%9a",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
       "category": "world",
       "discovery": "homepage"
     },
@@ -4260,7 +4592,7 @@
       "url": "https://sinhala.newsfirst.lk/2026/08/19/meta-%e0%b7%83%e0%b6%b8%e0%b7%8f%e0%b6%9c%e0%b6%b8%e0%b6%a7-%e0%b6%91%e0%b6%bb%e0%b7%99%e0%b7%84%e0%b7%92%e0%b7%80-%e0%b6%a9",
       "published_at": null,
       "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-      "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+      "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
       "category": "business",
       "discovery": "homepage"
     },
@@ -5680,6 +6012,1422 @@
   ],
   "stories": [
     {
+      "id": "22b365dcf8c33f52c152573d",
+      "title": "No regrets whatsoever, accused still hold onto their ideology: ASG",
+      "article_count": 1,
+      "first_report": {
+        "id": "22b365dcf8c33f52c152573d",
+        "source": "Daily Mirror",
+        "source_color": "#A5222D",
+        "title": "No regrets whatsoever, accused still hold onto their ideology: ASG",
+        "url": "https://www.dailymirror.lk/breaking-news/No-regrets-whatsoever--accused-still-hold-onto-their-ideology:-ASG/108-351037",
+        "published_at": "2026-09-24T12:04:00+00:00",
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "main",
+        "discovery": "rss"
+      },
+      "first_detected": {
+        "id": "22b365dcf8c33f52c152573d",
+        "source": "Daily Mirror",
+        "source_color": "#A5222D",
+        "title": "No regrets whatsoever, accused still hold onto their ideology: ASG",
+        "url": "https://www.dailymirror.lk/breaking-news/No-regrets-whatsoever--accused-still-hold-onto-their-ideology:-ASG/108-351037",
+        "published_at": "2026-09-24T12:04:00+00:00",
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "main",
+        "discovery": "rss"
+      },
+      "earliest_at": "2026-09-24T12:04:00+00:00",
+      "latest_at": "2026-09-24T12:04:00+00:00",
+      "articles": [
+        {
+          "id": "22b365dcf8c33f52c152573d",
+          "source": "Daily Mirror",
+          "source_color": "#A5222D",
+          "title": "No regrets whatsoever, accused still hold onto their ideology: ASG",
+          "url": "https://www.dailymirror.lk/breaking-news/No-regrets-whatsoever--accused-still-hold-onto-their-ideology:-ASG/108-351037",
+          "published_at": "2026-09-24T12:04:00+00:00",
+          "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "category": "main",
+          "discovery": "rss"
+        }
+      ]
+    },
+    {
+      "id": "8c1e12c4b1b41cced1943091",
+      "title": "What is the 22nd Amendment to the Constitution?",
+      "article_count": 1,
+      "first_report": {
+        "id": "8c1e12c4b1b41cced1943091",
+        "source": "Daily Mirror",
+        "source_color": "#A5222D",
+        "title": "What is the 22nd Amendment to the Constitution?",
+        "url": "https://www.dailymirror.lk/breaking-news/What-is-the-22nd-Amendment-to-the-Constitution-/108-351035",
+        "published_at": "2026-09-24T11:59:00+00:00",
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "main",
+        "discovery": "rss"
+      },
+      "first_detected": {
+        "id": "8c1e12c4b1b41cced1943091",
+        "source": "Daily Mirror",
+        "source_color": "#A5222D",
+        "title": "What is the 22nd Amendment to the Constitution?",
+        "url": "https://www.dailymirror.lk/breaking-news/What-is-the-22nd-Amendment-to-the-Constitution-/108-351035",
+        "published_at": "2026-09-24T11:59:00+00:00",
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "main",
+        "discovery": "rss"
+      },
+      "earliest_at": "2026-09-24T11:59:00+00:00",
+      "latest_at": "2026-09-24T11:59:00+00:00",
+      "articles": [
+        {
+          "id": "8c1e12c4b1b41cced1943091",
+          "source": "Daily Mirror",
+          "source_color": "#A5222D",
+          "title": "What is the 22nd Amendment to the Constitution?",
+          "url": "https://www.dailymirror.lk/breaking-news/What-is-the-22nd-Amendment-to-the-Constitution-/108-351035",
+          "published_at": "2026-09-24T11:59:00+00:00",
+          "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "category": "main",
+          "discovery": "rss"
+        }
+      ]
+    },
+    {
+      "id": "d8105c6a8e7b7ed7a496a420",
+      "title": "Bill on dog registration and rabies elimination presented in Parliament",
+      "article_count": 1,
+      "first_report": {
+        "id": "d8105c6a8e7b7ed7a496a420",
+        "source": "Daily Mirror",
+        "source_color": "#A5222D",
+        "title": "Bill on dog registration and rabies elimination presented in Parliament",
+        "url": "https://www.dailymirror.lk/breaking-news/Bill-on-dog-registration-and-rabies-elimination-presented-in-Parliament/108-351032",
+        "published_at": "2026-09-24T11:55:00+00:00",
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "politics",
+        "discovery": "rss"
+      },
+      "first_detected": {
+        "id": "d8105c6a8e7b7ed7a496a420",
+        "source": "Daily Mirror",
+        "source_color": "#A5222D",
+        "title": "Bill on dog registration and rabies elimination presented in Parliament",
+        "url": "https://www.dailymirror.lk/breaking-news/Bill-on-dog-registration-and-rabies-elimination-presented-in-Parliament/108-351032",
+        "published_at": "2026-09-24T11:55:00+00:00",
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "politics",
+        "discovery": "rss"
+      },
+      "earliest_at": "2026-09-24T11:55:00+00:00",
+      "latest_at": "2026-09-24T11:55:00+00:00",
+      "articles": [
+        {
+          "id": "d8105c6a8e7b7ed7a496a420",
+          "source": "Daily Mirror",
+          "source_color": "#A5222D",
+          "title": "Bill on dog registration and rabies elimination presented in Parliament",
+          "url": "https://www.dailymirror.lk/breaking-news/Bill-on-dog-registration-and-rabies-elimination-presented-in-Parliament/108-351032",
+          "published_at": "2026-09-24T11:55:00+00:00",
+          "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "category": "politics",
+          "discovery": "rss"
+        }
+      ]
+    },
+    {
+      "id": "c3471293af2d425eeaff3072",
+      "title": "Parliamentary debate on 22nd Amendment begins",
+      "article_count": 1,
+      "first_report": {
+        "id": "c3471293af2d425eeaff3072",
+        "source": "Daily Mirror",
+        "source_color": "#A5222D",
+        "title": "Parliamentary debate on 22nd Amendment begins",
+        "url": "https://www.dailymirror.lk/breaking-news/Parliamentary-debate-on-22nd-Amendment-begins/108-351028",
+        "published_at": "2026-09-24T11:35:00+00:00",
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "politics",
+        "discovery": "rss"
+      },
+      "first_detected": {
+        "id": "c3471293af2d425eeaff3072",
+        "source": "Daily Mirror",
+        "source_color": "#A5222D",
+        "title": "Parliamentary debate on 22nd Amendment begins",
+        "url": "https://www.dailymirror.lk/breaking-news/Parliamentary-debate-on-22nd-Amendment-begins/108-351028",
+        "published_at": "2026-09-24T11:35:00+00:00",
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "politics",
+        "discovery": "rss"
+      },
+      "earliest_at": "2026-09-24T11:35:00+00:00",
+      "latest_at": "2026-09-24T11:35:00+00:00",
+      "articles": [
+        {
+          "id": "c3471293af2d425eeaff3072",
+          "source": "Daily Mirror",
+          "source_color": "#A5222D",
+          "title": "Parliamentary debate on 22nd Amendment begins",
+          "url": "https://www.dailymirror.lk/breaking-news/Parliamentary-debate-on-22nd-Amendment-begins/108-351028",
+          "published_at": "2026-09-24T11:35:00+00:00",
+          "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "category": "politics",
+          "discovery": "rss"
+        }
+      ]
+    },
+    {
+      "id": "87aac2d85800d7f9a03a01be",
+      "title": "Security tightened around Parliament amid 22nd Amendment debate",
+      "article_count": 1,
+      "first_report": {
+        "id": "87aac2d85800d7f9a03a01be",
+        "source": "Daily Mirror",
+        "source_color": "#A5222D",
+        "title": "Security tightened around Parliament amid 22nd Amendment debate",
+        "url": "https://www.dailymirror.lk/breaking-news/Security-tightened-around-Parliament-amid-22nd-Amendment-debate/108-351009",
+        "published_at": "2026-09-24T11:01:00+00:00",
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "politics",
+        "discovery": "rss"
+      },
+      "first_detected": {
+        "id": "87aac2d85800d7f9a03a01be",
+        "source": "Daily Mirror",
+        "source_color": "#A5222D",
+        "title": "Security tightened around Parliament amid 22nd Amendment debate",
+        "url": "https://www.dailymirror.lk/breaking-news/Security-tightened-around-Parliament-amid-22nd-Amendment-debate/108-351009",
+        "published_at": "2026-09-24T11:01:00+00:00",
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "politics",
+        "discovery": "rss"
+      },
+      "earliest_at": "2026-09-24T11:01:00+00:00",
+      "latest_at": "2026-09-24T11:01:00+00:00",
+      "articles": [
+        {
+          "id": "87aac2d85800d7f9a03a01be",
+          "source": "Daily Mirror",
+          "source_color": "#A5222D",
+          "title": "Security tightened around Parliament amid 22nd Amendment debate",
+          "url": "https://www.dailymirror.lk/breaking-news/Security-tightened-around-Parliament-amid-22nd-Amendment-debate/108-351009",
+          "published_at": "2026-09-24T11:01:00+00:00",
+          "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "category": "politics",
+          "discovery": "rss"
+        }
+      ]
+    },
+    {
+      "id": "21d8a16fdc5ff35f445a89ed",
+      "title": "Australia says OpenAI agent hacked into government website",
+      "article_count": 1,
+      "first_report": {
+        "id": "21d8a16fdc5ff35f445a89ed",
+        "source": "Daily Mirror",
+        "source_color": "#A5222D",
+        "title": "Australia says OpenAI agent hacked into government website",
+        "url": "https://www.dailymirror.lk/international/Australia-says-OpenAI-agent-hacked-into-government-website/107-351008",
+        "published_at": "2026-09-24T10:50:00+00:00",
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "politics",
+        "discovery": "rss"
+      },
+      "first_detected": {
+        "id": "21d8a16fdc5ff35f445a89ed",
+        "source": "Daily Mirror",
+        "source_color": "#A5222D",
+        "title": "Australia says OpenAI agent hacked into government website",
+        "url": "https://www.dailymirror.lk/international/Australia-says-OpenAI-agent-hacked-into-government-website/107-351008",
+        "published_at": "2026-09-24T10:50:00+00:00",
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "politics",
+        "discovery": "rss"
+      },
+      "earliest_at": "2026-09-24T10:50:00+00:00",
+      "latest_at": "2026-09-24T10:50:00+00:00",
+      "articles": [
+        {
+          "id": "21d8a16fdc5ff35f445a89ed",
+          "source": "Daily Mirror",
+          "source_color": "#A5222D",
+          "title": "Australia says OpenAI agent hacked into government website",
+          "url": "https://www.dailymirror.lk/international/Australia-says-OpenAI-agent-hacked-into-government-website/107-351008",
+          "published_at": "2026-09-24T10:50:00+00:00",
+          "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "category": "politics",
+          "discovery": "rss"
+        }
+      ]
+    },
+    {
+      "id": "9dbe0033ecb7b225adb62229",
+      "title": "Habib Rifan sworn in as MP",
+      "article_count": 1,
+      "first_report": {
+        "id": "9dbe0033ecb7b225adb62229",
+        "source": "Daily Mirror",
+        "source_color": "#A5222D",
+        "title": "Habib Rifan sworn in as MP",
+        "url": "https://www.dailymirror.lk/breaking-news/Habib-Rifan-sworn-in-as-MP/108-351004",
+        "published_at": "2026-09-24T09:50:00+00:00",
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "politics",
+        "discovery": "rss"
+      },
+      "first_detected": {
+        "id": "9dbe0033ecb7b225adb62229",
+        "source": "Daily Mirror",
+        "source_color": "#A5222D",
+        "title": "Habib Rifan sworn in as MP",
+        "url": "https://www.dailymirror.lk/breaking-news/Habib-Rifan-sworn-in-as-MP/108-351004",
+        "published_at": "2026-09-24T09:50:00+00:00",
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "politics",
+        "discovery": "rss"
+      },
+      "earliest_at": "2026-09-24T09:50:00+00:00",
+      "latest_at": "2026-09-24T09:50:00+00:00",
+      "articles": [
+        {
+          "id": "9dbe0033ecb7b225adb62229",
+          "source": "Daily Mirror",
+          "source_color": "#A5222D",
+          "title": "Habib Rifan sworn in as MP",
+          "url": "https://www.dailymirror.lk/breaking-news/Habib-Rifan-sworn-in-as-MP/108-351004",
+          "published_at": "2026-09-24T09:50:00+00:00",
+          "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "category": "politics",
+          "discovery": "rss"
+        }
+      ]
+    },
+    {
+      "id": "d489c916273e863ec113104f",
+      "title": "Opposition holds protest near Parliamentary Complex",
+      "article_count": 1,
+      "first_report": {
+        "id": "d489c916273e863ec113104f",
+        "source": "Daily Mirror",
+        "source_color": "#A5222D",
+        "title": "Opposition holds protest near Parliamentary Complex",
+        "url": "https://www.dailymirror.lk/breaking-news/Opposition-holds-protest-near-Parliamentary-Complex/108-351003",
+        "published_at": "2026-09-24T09:46:00+00:00",
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "politics",
+        "discovery": "rss"
+      },
+      "first_detected": {
+        "id": "d489c916273e863ec113104f",
+        "source": "Daily Mirror",
+        "source_color": "#A5222D",
+        "title": "Opposition holds protest near Parliamentary Complex",
+        "url": "https://www.dailymirror.lk/breaking-news/Opposition-holds-protest-near-Parliamentary-Complex/108-351003",
+        "published_at": "2026-09-24T09:46:00+00:00",
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "politics",
+        "discovery": "rss"
+      },
+      "earliest_at": "2026-09-24T09:46:00+00:00",
+      "latest_at": "2026-09-24T09:46:00+00:00",
+      "articles": [
+        {
+          "id": "d489c916273e863ec113104f",
+          "source": "Daily Mirror",
+          "source_color": "#A5222D",
+          "title": "Opposition holds protest near Parliamentary Complex",
+          "url": "https://www.dailymirror.lk/breaking-news/Opposition-holds-protest-near-Parliamentary-Complex/108-351003",
+          "published_at": "2026-09-24T09:46:00+00:00",
+          "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "category": "politics",
+          "discovery": "rss"
+        }
+      ]
+    },
+    {
+      "id": "427ed0be7684eac729d018fa",
+      "title": "Revenue license system goes offline in eight provinces for four days",
+      "article_count": 1,
+      "first_report": {
+        "id": "427ed0be7684eac729d018fa",
+        "source": "Daily Mirror",
+        "source_color": "#A5222D",
+        "title": "Revenue license system goes offline in eight provinces for four days",
+        "url": "https://www.dailymirror.lk/breaking-news/Revenue-license-system-goes-offline-in-eight-provinces-for-four-days/108-351002",
+        "published_at": "2026-09-24T09:32:00+00:00",
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "main",
+        "discovery": "rss"
+      },
+      "first_detected": {
+        "id": "427ed0be7684eac729d018fa",
+        "source": "Daily Mirror",
+        "source_color": "#A5222D",
+        "title": "Revenue license system goes offline in eight provinces for four days",
+        "url": "https://www.dailymirror.lk/breaking-news/Revenue-license-system-goes-offline-in-eight-provinces-for-four-days/108-351002",
+        "published_at": "2026-09-24T09:32:00+00:00",
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "main",
+        "discovery": "rss"
+      },
+      "earliest_at": "2026-09-24T09:32:00+00:00",
+      "latest_at": "2026-09-24T09:32:00+00:00",
+      "articles": [
+        {
+          "id": "427ed0be7684eac729d018fa",
+          "source": "Daily Mirror",
+          "source_color": "#A5222D",
+          "title": "Revenue license system goes offline in eight provinces for four days",
+          "url": "https://www.dailymirror.lk/breaking-news/Revenue-license-system-goes-offline-in-eight-provinces-for-four-days/108-351002",
+          "published_at": "2026-09-24T09:32:00+00:00",
+          "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "category": "main",
+          "discovery": "rss"
+        }
+      ]
+    },
+    {
+      "id": "386c4cafaa00b0b98c8839ff",
+      "title": "Galle Face child abuse case: Police seek information to identify suspect",
+      "article_count": 1,
+      "first_report": {
+        "id": "386c4cafaa00b0b98c8839ff",
+        "source": "Daily Mirror",
+        "source_color": "#A5222D",
+        "title": "Galle Face child abuse case: Police seek information to identify suspect",
+        "url": "https://www.dailymirror.lk/breaking-news/Galle-Face-child-abuse-case:-Police-seek-information-to-identify-suspect/108-351001",
+        "published_at": "2026-09-24T09:01:00+00:00",
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "main",
+        "discovery": "rss"
+      },
+      "first_detected": {
+        "id": "386c4cafaa00b0b98c8839ff",
+        "source": "Daily Mirror",
+        "source_color": "#A5222D",
+        "title": "Galle Face child abuse case: Police seek information to identify suspect",
+        "url": "https://www.dailymirror.lk/breaking-news/Galle-Face-child-abuse-case:-Police-seek-information-to-identify-suspect/108-351001",
+        "published_at": "2026-09-24T09:01:00+00:00",
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "main",
+        "discovery": "rss"
+      },
+      "earliest_at": "2026-09-24T09:01:00+00:00",
+      "latest_at": "2026-09-24T09:01:00+00:00",
+      "articles": [
+        {
+          "id": "386c4cafaa00b0b98c8839ff",
+          "source": "Daily Mirror",
+          "source_color": "#A5222D",
+          "title": "Galle Face child abuse case: Police seek information to identify suspect",
+          "url": "https://www.dailymirror.lk/breaking-news/Galle-Face-child-abuse-case:-Police-seek-information-to-identify-suspect/108-351001",
+          "published_at": "2026-09-24T09:01:00+00:00",
+          "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "category": "main",
+          "discovery": "rss"
+        }
+      ]
+    },
+    {
+      "id": "52f82bd208289993a07b3b72",
+      "title": "Trump offers warm welcome as China’s Xi arrives for US visit",
+      "article_count": 1,
+      "first_report": {
+        "id": "52f82bd208289993a07b3b72",
+        "source": "Daily Mirror",
+        "source_color": "#A5222D",
+        "title": "Trump offers warm welcome as China’s Xi arrives for US visit",
+        "url": "https://www.dailymirror.lk/international/Trump-offers-warm-welcome-as-China’s-Xi-arrives-for-US-visit/107-351000",
+        "published_at": "2026-09-24T08:53:00+00:00",
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "politics",
+        "discovery": "rss"
+      },
+      "first_detected": {
+        "id": "52f82bd208289993a07b3b72",
+        "source": "Daily Mirror",
+        "source_color": "#A5222D",
+        "title": "Trump offers warm welcome as China’s Xi arrives for US visit",
+        "url": "https://www.dailymirror.lk/international/Trump-offers-warm-welcome-as-China’s-Xi-arrives-for-US-visit/107-351000",
+        "published_at": "2026-09-24T08:53:00+00:00",
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "politics",
+        "discovery": "rss"
+      },
+      "earliest_at": "2026-09-24T08:53:00+00:00",
+      "latest_at": "2026-09-24T08:53:00+00:00",
+      "articles": [
+        {
+          "id": "52f82bd208289993a07b3b72",
+          "source": "Daily Mirror",
+          "source_color": "#A5222D",
+          "title": "Trump offers warm welcome as China’s Xi arrives for US visit",
+          "url": "https://www.dailymirror.lk/international/Trump-offers-warm-welcome-as-China’s-Xi-arrives-for-US-visit/107-351000",
+          "published_at": "2026-09-24T08:53:00+00:00",
+          "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "category": "politics",
+          "discovery": "rss"
+        }
+      ]
+    },
+    {
+      "id": "5c5e1bf06d8d747decd74abd",
+      "title": "ප්‍රධාන ගංගා 3ක් ගංවතුර අවදානම් මට්ටමේ... COLOMBO (News 1st) - නිල්වලා ගඟ පානඳුගමින් සුළු ගංවතුර මට්ටමට ළඟා වී තිබේ.වාරිමාර්ග දෙපාර්තමේන්තුව සඳහන් කළේ කැලණි, කළු, ගිං ගංගා සහ අත්තනගලු ඔය ගංවතුර අවදානම් මට්ටමේ පවතින බවයි.කැලණි ගඟ අවදානම් මට්ටමේ පවතින්නේ, හංවැල්ල සහ ග්ලෙන්කෝස් ප්‍රදේශවලිනි.රත්නපුර, මඟුර සහ මිල්ලකන්ඳ ප්‍රදේශවලින් කළු ගඟ, ගංවතු... 21-09-2026 | 7:32 AM වැඩි විස්තර",
+      "article_count": 2,
+      "first_report": {
+        "id": "5c5e1bf06d8d747decd74abd",
+        "source": "News First",
+        "source_color": "#254A8A",
+        "title": "ප්‍රධාන ගංගා 3ක් ගංවතුර අවදානම් මට්ටමේ... COLOMBO (News 1st) - නිල්වලා ගඟ පානඳුගමින් සුළු ගංවතුර මට්ටමට ළඟා වී තිබේ.වාරිමාර්ග දෙපාර්තමේන්තුව සඳහන් කළේ කැලණි, කළු, ගිං ගංගා සහ අත්තනගලු ඔය ගංවතුර අවදානම් මට්ටමේ පවතින බවයි.කැලණි ගඟ අවදානම් මට්ටමේ පවතින්නේ, හංවැල්ල සහ ග්ලෙන්කෝස් ප්‍රදේශවලිනි.රත්නපුර, මඟුර සහ මිල්ලකන්ඳ ප්‍රදේශවලින් කළු ගඟ, ගංවතු... 21-09-2026 | 7:32 AM වැඩි විස්තර",
+        "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%9a%e0%b7%90%e0%b6%bd%e0%b6%ab%e0%b7%92-%e0%b6%9a%e0%b7%85%e0%b7%94-%e0%b6%9c%e0%b7%92%e0%b6%82-%e0%b6%9c%e0%b6%82%e0%b6%9c%e0%b7%8f-%e0%b7%83",
+        "published_at": null,
+        "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-22T09:30:44.047669+00:00",
+        "category": "business",
+        "discovery": "homepage"
+      },
+      "first_detected": {
+        "id": "5c5e1bf06d8d747decd74abd",
+        "source": "News First",
+        "source_color": "#254A8A",
+        "title": "ප්‍රධාන ගංගා 3ක් ගංවතුර අවදානම් මට්ටමේ... COLOMBO (News 1st) - නිල්වලා ගඟ පානඳුගමින් සුළු ගංවතුර මට්ටමට ළඟා වී තිබේ.වාරිමාර්ග දෙපාර්තමේන්තුව සඳහන් කළේ කැලණි, කළු, ගිං ගංගා සහ අත්තනගලු ඔය ගංවතුර අවදානම් මට්ටමේ පවතින බවයි.කැලණි ගඟ අවදානම් මට්ටමේ පවතින්නේ, හංවැල්ල සහ ග්ලෙන්කෝස් ප්‍රදේශවලිනි.රත්නපුර, මඟුර සහ මිල්ලකන්ඳ ප්‍රදේශවලින් කළු ගඟ, ගංවතු... 21-09-2026 | 7:32 AM වැඩි විස්තර",
+        "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%9a%e0%b7%90%e0%b6%bd%e0%b6%ab%e0%b7%92-%e0%b6%9a%e0%b7%85%e0%b7%94-%e0%b6%9c%e0%b7%92%e0%b6%82-%e0%b6%9c%e0%b6%82%e0%b6%9c%e0%b7%8f-%e0%b7%83",
+        "published_at": null,
+        "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-22T09:30:44.047669+00:00",
+        "category": "business",
+        "discovery": "homepage"
+      },
+      "earliest_at": "2026-09-21T17:31:21.249666+00:00",
+      "latest_at": "2026-09-24T06:40:28.910292+00:00",
+      "articles": [
+        {
+          "id": "5c5e1bf06d8d747decd74abd",
+          "source": "News First",
+          "source_color": "#254A8A",
+          "title": "ප්‍රධාන ගංගා 3ක් ගංවතුර අවදානම් මට්ටමේ... COLOMBO (News 1st) - නිල්වලා ගඟ පානඳුගමින් සුළු ගංවතුර මට්ටමට ළඟා වී තිබේ.වාරිමාර්ග දෙපාර්තමේන්තුව සඳහන් කළේ කැලණි, කළු, ගිං ගංගා සහ අත්තනගලු ඔය ගංවතුර අවදානම් මට්ටමේ පවතින බවයි.කැලණි ගඟ අවදානම් මට්ටමේ පවතින්නේ, හංවැල්ල සහ ග්ලෙන්කෝස් ප්‍රදේශවලිනි.රත්නපුර, මඟුර සහ මිල්ලකන්ඳ ප්‍රදේශවලින් කළු ගඟ, ගංවතු... 21-09-2026 | 7:32 AM වැඩි විස්තර",
+          "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%9a%e0%b7%90%e0%b6%bd%e0%b6%ab%e0%b7%92-%e0%b6%9a%e0%b7%85%e0%b7%94-%e0%b6%9c%e0%b7%92%e0%b6%82-%e0%b6%9c%e0%b6%82%e0%b6%9c%e0%b7%8f-%e0%b7%83",
+          "published_at": null,
+          "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-22T09:30:44.047669+00:00",
+          "category": "business",
+          "discovery": "homepage"
+        },
+        {
+          "id": "780ee3588d830b312bfa7a5f",
+          "source": "News First",
+          "source_color": "#254A8A",
+          "title": "නිල්වලා සහ ගිං ගංගා සුළු ගංවතුර මට්ටමට.... COLOMBO (News 1st) - පවතින අධික වර්ෂාපතනයත් සමග නිල්වලා ගඟ පස්ගොඩ, පිටබැද්දර, අතුරලිය, මාලිම්බඩ, කඹුරුපිටිය හා තිහගොඩ ප්‍රාදේශීය ලේකම් කොට්ඨාසවලින් සුළු ගංවතුර මට්ටමට පැමිණ තිබේ.වාරිමාර්ග දෙපාර්තමේන්තුව සඳහන් කළේ, ගිං ගඟද තවලම, නාගොඩ, බද්දේගම, වැලිවිටිය-දිවිතුර ප්‍රාදේශීය ලේකම් කොට්ඨාසවලින් සුළු ගංවතුර මට්ටමට පැමිණ ඇති බවයි.මෙම ප්‍රාදේශීය ලේකම් කොට්ඨාසවල වෙසෙන ජනතාව සැළකිල්ලෙන් කටයුතු කරන්නැයි වාරිමාර්ග දෙපාරතමේන්තුව ජනතාවට දැනුම් දෙයි.මේ අතර මහන... 24-09-2026 | 7:45 AM වැඩි විස්තර",
+          "url": "https://sinhala.newsfirst.lk/2026/09/24/%e0%b6%85%e0%b6%b0%e0%b7%92%e0%b6%9a-%e0%b7%80%e0%b7%90%e0%b7%83%e0%b7%92-%e0%b7%84%e0%b6%b8%e0%b7%94%e0%b7%80%e0%b7%9a-%e0%b6%b1%e0%b7%92%e0%b6%bd%e0%b7%8a",
+          "published_at": null,
+          "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "category": "main",
+          "discovery": "homepage"
+        }
+      ]
+    },
+    {
+      "id": "6f7de98198a83754559bbb8f",
+      "title": "22 ගැන ශ්‍රේෂ්ඨාධිකරණයේ තීන්දුව COLOMBO (News 1st) - 22 වැනි ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය පිළිබඳ ශ්‍රේෂ්ඨාධිකරණයේ තීන්දුව අද (21) දිනයේ කථානායකවරයා වෙත ලැබීමට නියමිතව තිබේ.ඒ අනුව හෙට (22) දිනයේ එම තීරණය කථානායකවරයා විසින් පාර්ලිමේන්තුවට කරනු ඇත.ලබන 24 වැනිදා පෙරවරු 11.30 සිට පස්වරු 7.00 දක්වා විසි දෙවන ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධන ... 21-09-2026 | 7:13 AM වැඩි විස්තර",
+      "article_count": 7,
+      "first_report": {
+        "id": "6f7de98198a83754559bbb8f",
+        "source": "News First",
+        "source_color": "#254A8A",
+        "title": "22 ගැන ශ්‍රේෂ්ඨාධිකරණයේ තීන්දුව COLOMBO (News 1st) - 22 වැනි ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය පිළිබඳ ශ්‍රේෂ්ඨාධිකරණයේ තීන්දුව අද (21) දිනයේ කථානායකවරයා වෙත ලැබීමට නියමිතව තිබේ.ඒ අනුව හෙට (22) දිනයේ එම තීරණය කථානායකවරයා විසින් පාර්ලිමේන්තුවට කරනු ඇත.ලබන 24 වැනිදා පෙරවරු 11.30 සිට පස්වරු 7.00 දක්වා විසි දෙවන ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධන ... 21-09-2026 | 7:13 AM වැඩි විස්තර",
+        "url": "https://sinhala.newsfirst.lk/2026/09/21/22-%e0%b7%80%e0%b7%90%e0%b6%b1%e0%b7%92-%e0%b7%83%e0%b6%82%e0%b7%81%e0%b7%9d%e0%b6%b0%e0%b6%b1%e0%b6%ba-%e0%b6%b4%e0%b7%92%e0%b7%85%e0%b7%92",
+        "published_at": null,
+        "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "category": "politics",
+        "discovery": "homepage"
+      },
+      "first_detected": {
+        "id": "6f7de98198a83754559bbb8f",
+        "source": "News First",
+        "source_color": "#254A8A",
+        "title": "22 ගැන ශ්‍රේෂ්ඨාධිකරණයේ තීන්දුව COLOMBO (News 1st) - 22 වැනි ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය පිළිබඳ ශ්‍රේෂ්ඨාධිකරණයේ තීන්දුව අද (21) දිනයේ කථානායකවරයා වෙත ලැබීමට නියමිතව තිබේ.ඒ අනුව හෙට (22) දිනයේ එම තීරණය කථානායකවරයා විසින් පාර්ලිමේන්තුවට කරනු ඇත.ලබන 24 වැනිදා පෙරවරු 11.30 සිට පස්වරු 7.00 දක්වා විසි දෙවන ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධන ... 21-09-2026 | 7:13 AM වැඩි විස්තර",
+        "url": "https://sinhala.newsfirst.lk/2026/09/21/22-%e0%b7%80%e0%b7%90%e0%b6%b1%e0%b7%92-%e0%b7%83%e0%b6%82%e0%b7%81%e0%b7%9d%e0%b6%b0%e0%b6%b1%e0%b6%ba-%e0%b6%b4%e0%b7%92%e0%b7%85%e0%b7%92",
+        "published_at": null,
+        "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+        "category": "politics",
+        "discovery": "homepage"
+      },
+      "earliest_at": "2026-09-21T17:31:21.249666+00:00",
+      "latest_at": "2026-09-24T06:40:28.910292+00:00",
+      "articles": [
+        {
+          "id": "6f7de98198a83754559bbb8f",
+          "source": "News First",
+          "source_color": "#254A8A",
+          "title": "22 ගැන ශ්‍රේෂ්ඨාධිකරණයේ තීන්දුව COLOMBO (News 1st) - 22 වැනි ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය පිළිබඳ ශ්‍රේෂ්ඨාධිකරණයේ තීන්දුව අද (21) දිනයේ කථානායකවරයා වෙත ලැබීමට නියමිතව තිබේ.ඒ අනුව හෙට (22) දිනයේ එම තීරණය කථානායකවරයා විසින් පාර්ලිමේන්තුවට කරනු ඇත.ලබන 24 වැනිදා පෙරවරු 11.30 සිට පස්වරු 7.00 දක්වා විසි දෙවන ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධන ... 21-09-2026 | 7:13 AM වැඩි විස්තර",
+          "url": "https://sinhala.newsfirst.lk/2026/09/21/22-%e0%b7%80%e0%b7%90%e0%b6%b1%e0%b7%92-%e0%b7%83%e0%b6%82%e0%b7%81%e0%b7%9d%e0%b6%b0%e0%b6%b1%e0%b6%ba-%e0%b6%b4%e0%b7%92%e0%b7%85%e0%b7%92",
+          "published_at": null,
+          "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "category": "politics",
+          "discovery": "homepage"
+        },
+        {
+          "id": "e4142e9533243e91ea6e16c7",
+          "source": "News First",
+          "source_color": "#254A8A",
+          "title": "22 ගැන ශ්‍රේෂ්ඨාධිකරණ තීන්දුව අද පාර්ලිමේන්තුවට COLOMBO (News1st) - 22 වැනි ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය පිළිබඳ ශ්‍රේෂ්ඨාධිකරණයේ තීන්දුව කථානායකවරයා විසින් අද පාර්ලිමේන්තුවට ඉදිරිපත් කීරීමට නියමිත ය.ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය පිළිබඳ ශ්‍රේෂ්ඨාධිකරණයේ තීන්දුව කථානායකවරයාට දැනුම් දී තිබුණේ ඊයේ දිනයේ ය.22 වැනි ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය සහ අධිකරණ... 22-09-2026 | 8:58 AM වැඩි විස්තර",
+          "url": "https://sinhala.newsfirst.lk/2026/09/22/22-%e0%b7%80%e0%b7%90%e0%b6%b1%e0%b7%92-%e0%b7%80%e0%b7%8a%e2%80%8d%e0%b6%ba%e0%b7%80%e0%b7%83%e0%b7%8a%e0%b6%ae%e0%b7%8f-%e0%b7%83%e0%b6%82",
+          "published_at": null,
+          "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "last_seen_at": "2026-09-23T01:48:54.679242+00:00",
+          "category": "politics",
+          "discovery": "homepage"
+        },
+        {
+          "id": "db5dd70040a515fc9d607559",
+          "source": "News First",
+          "source_color": "#254A8A",
+          "title": "22 සංශෝධනය සම්මත කරන්න ජනමත විචාරණයක් අවශ්‍ය නෑ COLOMBO (News1st) - අගවිනිසුරුවරයා ඇතුළු උපරිමාධිකරණ විනිසුරු විශ්‍රාම වයස අවුරුදු දෙකකින් දීර්ඝ කිරීමට අදාළව ඉදිරිපත් කල විසි දෙවන ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධන පනත් කෙටුම්පත සම්මත කිරීම සඳහා ජනමත විචාරණයක් අවශ්‍ය නොවන බවට ශ්‍රේෂ්ඨාධිකරණය නිගමනය කර තිබේතශ්‍රේෂ්ඨාධිකරණ නිගමනය අනුව කෙටුම්පත පාර්ලිමේන්තුවේ තුනෙන් දෙකක බහුතරයෙන් සම්මත කළ හැකියි.අද පෙරවර... 22-09-2026 | 10:25 AM වැඩි විස්තර",
+          "url": "https://sinhala.newsfirst.lk/2026/09/22/2-%e0%b7%80%e0%b7%90%e0%b6%b1%e0%b7%92-%e0%b6%86%e0%b6%ab%e0%b7%8a%e0%b6%a9%e0%b7%94%e0%b6%9a%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%b8-%e0%b7%80%e0%b7%8a",
+          "published_at": null,
+          "first_seen_at": "2026-09-22T09:30:44.047669+00:00",
+          "last_seen_at": "2026-09-23T01:48:54.679242+00:00",
+          "category": "politics",
+          "discovery": "homepage"
+        },
+        {
+          "id": "2dd37633b1f7e18f863cb566",
+          "source": "Lankadeepa",
+          "source_color": "#2F6F4E",
+          "title": "විසිදෙකට ජනමත විචාරණයක් අවශ්‍ය නෑ",
+          "url": "https://www.lankadeepa.lk/news/වසදකට-ජනමත-වචරණයක-අවශය-න/101-698120",
+          "published_at": null,
+          "first_seen_at": "2026-09-22T09:30:44.047669+00:00",
+          "last_seen_at": "2026-09-22T09:30:44.047669+00:00",
+          "category": "main",
+          "discovery": "homepage"
+        },
+        {
+          "id": "cd2a315c97258b971331685b",
+          "source": "News First",
+          "source_color": "#254A8A",
+          "title": "ගෝඨා ගෝ ගම අරගල භූමියට පහරදීමේ සිද්ධියේ නඩුව : COLOMBO(News1st) - ගෝඨා ගෝ ගම අරගල භූමියට පහරදුන් බව කියන සිද්ධියට අදාළ නඩුව විභාග කිරීමට මහාධිකරණ ත්‍රිපුද්ගල විනිසුරු මඩුල්ලක් ඉල්ලා නීතීපතිවරයා, අගවිනිසුරුවරයාට ලිපියක් යොමු කර තිබේ.සිද්ධිය සම්බන්ධයෙන් හිටපු පොලිස්පති දේශබන්දු තෙන්නකෝන්, හිටපු අමාත්‍ය ජොන්ස්ටන් ප්‍රනාන්දු ඇතුළු විත්තිකරුවන් 20 දෙ... 22-09-2026 | 9:09 PM වැඩි විස්තර",
+          "url": "https://sinhala.newsfirst.lk/2026/09/22/%e0%b6%9c%e0%b7%9d%e0%b6%a8%e0%b7%8f-%e0%b6%9c%e0%b7%9d-%e0%b6%9c%e0%b6%b8-%e0%b6%85%e0%b6%bb%e0%b6%9c%e0%b6%bd-%e0%b6%b7%e0%b7%96%e0%b6%b8%e0%b7%92",
+          "published_at": null,
+          "first_seen_at": "2026-09-22T18:07:02.619658+00:00",
+          "last_seen_at": "2026-09-23T12:32:37.823869+00:00",
+          "category": "politics",
+          "discovery": "homepage"
+        },
+        {
+          "id": "87ede2c47e8d0903987e107c",
+          "source": "News First",
+          "source_color": "#254A8A",
+          "title": "නාමල් යළි රිමාන්ඩ් COLOMBO(News1st) - එයාර් බස් ගනුදෙනුව සම්බන්ධයෙන් මුදල් විශුද්ධිකරණ චෝදනා යටතේ, පවරා ඇති නඩුවේ සැකකාර පා.ම නාමල් රාජපක්ෂ ලබන 30 දක්වා යළි රක්ෂිත බන්ධනාගාර ගත කෙරේ.... 23-09-2026 | 2:25 PM වැඩි විස්තර",
+          "url": "https://sinhala.newsfirst.lk/2026/09/23/%e0%b6%b1%e0%b7%8f%e0%b6%b8%e0%b6%bd%e0%b7%8a-%e0%b6%ba%e0%b7%85%e0%b7%92-%e0%b6%bb%e0%b7%92%e0%b6%b8%e0%b7%8f%e0%b6%b1%e0%b7%8a%e0%b6%a9%e0%b7%8a",
+          "published_at": null,
+          "first_seen_at": "2026-09-23T12:32:37.823869+00:00",
+          "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+          "category": "main",
+          "discovery": "homepage"
+        },
+        {
+          "id": "77add97555c9e8dc47704eca",
+          "source": "News First",
+          "source_color": "#254A8A",
+          "title": "නව පනත් ගැන විවාදය අද සහ හෙට.. COLOMBO (News 1st) - 22 වැනි ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය සහ අධිකරණ සංවිධාන සං⁣ශෝධන පනත් කෙටුම්පත පිළිබඳ පාර්ලිමේන්තු විවාදය අද (24) සහ හෙට (25) පැවැත්වේ.පාර්ලිමේන්තුවේ සන්නිවේදන දෙපාර්තමේන්තුව සඳහන් කළේ, අද පෙරවරු 11.30 සිට පස්වරු 7.00 දක්වා විසි දෙවන ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධන පනත් කෙටුම්පත සහ අධ... 24-09-2026 | 7:53 AM වැඩි විස්තර",
+          "url": "https://sinhala.newsfirst.lk/2026/09/24/22-%e0%b7%80%e0%b7%90%e0%b6%b1%e0%b7%92-%e0%b6%86%e0%b6%ab%e0%b7%8a%e0%b6%a9%e0%b7%94%e0%b6%9a%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%b8-%e0%b7%80",
+          "published_at": null,
+          "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "category": "politics",
+          "discovery": "homepage"
+        }
+      ]
+    },
+    {
+      "id": "243a23dcd91b48f5e3f96e19",
+      "title": "මහ වැසි මැද රිය ධාවනය ප්‍රවේශමෙන්! COLOMBO (News 1st) - මේ වන විට කොළඹ ඇතුළු තදාසන්න ප්‍රදේශවලට තද වැසි ඇතිවෙමින් පවතී.පොලීසිය පැවසුවේ, පවතින වර්ෂා සහිත කාලගුණයත් සමග රිය ධාවනයේදී සැළකිලිමත් වන ලෙසයි.වර්ෂාව පවතින අවස්ථාවේදී, රථවාහනවල ඉදිරිපස අලෝක සංඥා දල්වා ගමන් කරන ලෙස පොලිස් මාධ්‍ය ප්‍රකාශක සහකාර පොලිස් අධිකාරි එෆ්. යූ. වුට්ලර් පැව... 24-09-2026 | 10:13 AM වැඩි විස්තර",
+      "article_count": 1,
+      "first_report": {
+        "id": "243a23dcd91b48f5e3f96e19",
+        "source": "News First",
+        "source_color": "#254A8A",
+        "title": "මහ වැසි මැද රිය ධාවනය ප්‍රවේශමෙන්! COLOMBO (News 1st) - මේ වන විට කොළඹ ඇතුළු තදාසන්න ප්‍රදේශවලට තද වැසි ඇතිවෙමින් පවතී.පොලීසිය පැවසුවේ, පවතින වර්ෂා සහිත කාලගුණයත් සමග රිය ධාවනයේදී සැළකිලිමත් වන ලෙසයි.වර්ෂාව පවතින අවස්ථාවේදී, රථවාහනවල ඉදිරිපස අලෝක සංඥා දල්වා ගමන් කරන ලෙස පොලිස් මාධ්‍ය ප්‍රකාශක සහකාර පොලිස් අධිකාරි එෆ්. යූ. වුට්ලර් පැව... 24-09-2026 | 10:13 AM වැඩි විස්තර",
+        "url": "https://sinhala.newsfirst.lk/2026/09/24/%e0%b6%b8%e0%b7%84-%e0%b7%80%e0%b7%90%e0%b7%83%e0%b7%92-%e0%b6%b8%e0%b7%90%e0%b6%af-%e0%b6%bb%e0%b7%92%e0%b6%ba-%e0%b6%b0%e0%b7%8f%e0%b7%80%e0%b6%b1",
+        "published_at": null,
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "world",
+        "discovery": "homepage"
+      },
+      "first_detected": {
+        "id": "243a23dcd91b48f5e3f96e19",
+        "source": "News First",
+        "source_color": "#254A8A",
+        "title": "මහ වැසි මැද රිය ධාවනය ප්‍රවේශමෙන්! COLOMBO (News 1st) - මේ වන විට කොළඹ ඇතුළු තදාසන්න ප්‍රදේශවලට තද වැසි ඇතිවෙමින් පවතී.පොලීසිය පැවසුවේ, පවතින වර්ෂා සහිත කාලගුණයත් සමග රිය ධාවනයේදී සැළකිලිමත් වන ලෙසයි.වර්ෂාව පවතින අවස්ථාවේදී, රථවාහනවල ඉදිරිපස අලෝක සංඥා දල්වා ගමන් කරන ලෙස පොලිස් මාධ්‍ය ප්‍රකාශක සහකාර පොලිස් අධිකාරි එෆ්. යූ. වුට්ලර් පැව... 24-09-2026 | 10:13 AM වැඩි විස්තර",
+        "url": "https://sinhala.newsfirst.lk/2026/09/24/%e0%b6%b8%e0%b7%84-%e0%b7%80%e0%b7%90%e0%b7%83%e0%b7%92-%e0%b6%b8%e0%b7%90%e0%b6%af-%e0%b6%bb%e0%b7%92%e0%b6%ba-%e0%b6%b0%e0%b7%8f%e0%b7%80%e0%b6%b1",
+        "published_at": null,
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "world",
+        "discovery": "homepage"
+      },
+      "earliest_at": "2026-09-24T06:40:28.910292+00:00",
+      "latest_at": "2026-09-24T06:40:28.910292+00:00",
+      "articles": [
+        {
+          "id": "243a23dcd91b48f5e3f96e19",
+          "source": "News First",
+          "source_color": "#254A8A",
+          "title": "මහ වැසි මැද රිය ධාවනය ප්‍රවේශමෙන්! COLOMBO (News 1st) - මේ වන විට කොළඹ ඇතුළු තදාසන්න ප්‍රදේශවලට තද වැසි ඇතිවෙමින් පවතී.පොලීසිය පැවසුවේ, පවතින වර්ෂා සහිත කාලගුණයත් සමග රිය ධාවනයේදී සැළකිලිමත් වන ලෙසයි.වර්ෂාව පවතින අවස්ථාවේදී, රථවාහනවල ඉදිරිපස අලෝක සංඥා දල්වා ගමන් කරන ලෙස පොලිස් මාධ්‍ය ප්‍රකාශක සහකාර පොලිස් අධිකාරි එෆ්. යූ. වුට්ලර් පැව... 24-09-2026 | 10:13 AM වැඩි විස්තර",
+          "url": "https://sinhala.newsfirst.lk/2026/09/24/%e0%b6%b8%e0%b7%84-%e0%b7%80%e0%b7%90%e0%b7%83%e0%b7%92-%e0%b6%b8%e0%b7%90%e0%b6%af-%e0%b6%bb%e0%b7%92%e0%b6%ba-%e0%b6%b0%e0%b7%8f%e0%b7%80%e0%b6%b1",
+          "published_at": null,
+          "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "category": "world",
+          "discovery": "homepage"
+        }
+      ]
+    },
+    {
+      "id": "02d967dd4bce2c98d317d8fc",
+      "title": "පස්සර මධ්‍ය මහා විද්‍යාලයට සනීපාරක්ෂක පහසුකම් COLOMBO (News1st) - බදුල්ල පස්සර මධ්‍ය මහා විද්‍යාලයේ සනීපාරක්ෂක පද්ධතියකට මුල්ගල් තැබීම අද සිදුවේ.ඒ ගම්මැද්ද තවත් ව්‍යාපෘතියක් ලෙසයි.සිසු සිසුවියන් 1,100 කට අධික ප්‍රමාණයක් ඉගෙනුම ලබන විද්‍යාලයේ පවතින සනීපාරක්ෂක පද්ධතිය ප්‍රමාණවත් නොවීම හේතුවෙන් ඔවුන් පත්ව ඇත්තේ දැඩි අපහසුතාවකටයි.පසුගියදා ගම්මැද්ද ... 24-09-2026 | 9:03 AM වැඩි විස්තර",
+      "article_count": 1,
+      "first_report": {
+        "id": "02d967dd4bce2c98d317d8fc",
+        "source": "News First",
+        "source_color": "#254A8A",
+        "title": "පස්සර මධ්‍ය මහා විද්‍යාලයට සනීපාරක්ෂක පහසුකම් COLOMBO (News1st) - බදුල්ල පස්සර මධ්‍ය මහා විද්‍යාලයේ සනීපාරක්ෂක පද්ධතියකට මුල්ගල් තැබීම අද සිදුවේ.ඒ ගම්මැද්ද තවත් ව්‍යාපෘතියක් ලෙසයි.සිසු සිසුවියන් 1,100 කට අධික ප්‍රමාණයක් ඉගෙනුම ලබන විද්‍යාලයේ පවතින සනීපාරක්ෂක පද්ධතිය ප්‍රමාණවත් නොවීම හේතුවෙන් ඔවුන් පත්ව ඇත්තේ දැඩි අපහසුතාවකටයි.පසුගියදා ගම්මැද්ද ... 24-09-2026 | 9:03 AM වැඩි විස්තර",
+        "url": "https://sinhala.newsfirst.lk/2026/09/24/%e0%b6%9c%e0%b6%b8%e0%b7%8a%e0%b6%b8%e0%b7%90%e0%b6%af%e0%b7%8a%e0%b6%af%e0%b7%99%e0%b6%b1%e0%b7%8a-%e0%b6%b4%e0%b7%83%e0%b7%8a%e0%b7%83%e0%b6%bb-%e0%b6%b8%e0%b6%b0",
+        "published_at": null,
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "business",
+        "discovery": "homepage"
+      },
+      "first_detected": {
+        "id": "02d967dd4bce2c98d317d8fc",
+        "source": "News First",
+        "source_color": "#254A8A",
+        "title": "පස්සර මධ්‍ය මහා විද්‍යාලයට සනීපාරක්ෂක පහසුකම් COLOMBO (News1st) - බදුල්ල පස්සර මධ්‍ය මහා විද්‍යාලයේ සනීපාරක්ෂක පද්ධතියකට මුල්ගල් තැබීම අද සිදුවේ.ඒ ගම්මැද්ද තවත් ව්‍යාපෘතියක් ලෙසයි.සිසු සිසුවියන් 1,100 කට අධික ප්‍රමාණයක් ඉගෙනුම ලබන විද්‍යාලයේ පවතින සනීපාරක්ෂක පද්ධතිය ප්‍රමාණවත් නොවීම හේතුවෙන් ඔවුන් පත්ව ඇත්තේ දැඩි අපහසුතාවකටයි.පසුගියදා ගම්මැද්ද ... 24-09-2026 | 9:03 AM වැඩි විස්තර",
+        "url": "https://sinhala.newsfirst.lk/2026/09/24/%e0%b6%9c%e0%b6%b8%e0%b7%8a%e0%b6%b8%e0%b7%90%e0%b6%af%e0%b7%8a%e0%b6%af%e0%b7%99%e0%b6%b1%e0%b7%8a-%e0%b6%b4%e0%b7%83%e0%b7%8a%e0%b7%83%e0%b6%bb-%e0%b6%b8%e0%b6%b0",
+        "published_at": null,
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "business",
+        "discovery": "homepage"
+      },
+      "earliest_at": "2026-09-24T06:40:28.910292+00:00",
+      "latest_at": "2026-09-24T06:40:28.910292+00:00",
+      "articles": [
+        {
+          "id": "02d967dd4bce2c98d317d8fc",
+          "source": "News First",
+          "source_color": "#254A8A",
+          "title": "පස්සර මධ්‍ය මහා විද්‍යාලයට සනීපාරක්ෂක පහසුකම් COLOMBO (News1st) - බදුල්ල පස්සර මධ්‍ය මහා විද්‍යාලයේ සනීපාරක්ෂක පද්ධතියකට මුල්ගල් තැබීම අද සිදුවේ.ඒ ගම්මැද්ද තවත් ව්‍යාපෘතියක් ලෙසයි.සිසු සිසුවියන් 1,100 කට අධික ප්‍රමාණයක් ඉගෙනුම ලබන විද්‍යාලයේ පවතින සනීපාරක්ෂක පද්ධතිය ප්‍රමාණවත් නොවීම හේතුවෙන් ඔවුන් පත්ව ඇත්තේ දැඩි අපහසුතාවකටයි.පසුගියදා ගම්මැද්ද ... 24-09-2026 | 9:03 AM වැඩි විස්තර",
+          "url": "https://sinhala.newsfirst.lk/2026/09/24/%e0%b6%9c%e0%b6%b8%e0%b7%8a%e0%b6%b8%e0%b7%90%e0%b6%af%e0%b7%8a%e0%b6%af%e0%b7%99%e0%b6%b1%e0%b7%8a-%e0%b6%b4%e0%b7%83%e0%b7%8a%e0%b7%83%e0%b6%bb-%e0%b6%b8%e0%b6%b0",
+          "published_at": null,
+          "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "category": "business",
+          "discovery": "homepage"
+        }
+      ]
+    },
+    {
+      "id": "54a27a583ae79c43b7c42d4a",
+      "title": "සොයිසාපුර ගින්නට හේතුව ගෑස් කාන්දුවක් COLOMBO (News 1st) - සොයිසාපුර මහල් නිවාස සංකීර්ණයේ ඊයේ (23) රාත්‍රියේ ඇතිවූ ගින්නට හේතුව ගෑස් කාන්දුවක් බවට අනාවරණය වී තිබේ.ගිනි නිවීම් සේවා දෙපාර්තමේන්තුව පැවසුවේ, ගිනි ගැනීමට ලක්වූ නිවසේ තිබී ගෑස් සිලින්ඩර් 22 ක් සොයාගත් බවයි.ඉන් සිලින්ඩර කිහිපයක් ගෑස් සහිත ඒවා බවත් එම දෙපාර්තමේන්තුව පැවසුවේ ය.ඊය... 24-09-2026 | 8:16 AM වැඩි විස්තර",
+      "article_count": 1,
+      "first_report": {
+        "id": "54a27a583ae79c43b7c42d4a",
+        "source": "News First",
+        "source_color": "#254A8A",
+        "title": "සොයිසාපුර ගින්නට හේතුව ගෑස් කාන්දුවක් COLOMBO (News 1st) - සොයිසාපුර මහල් නිවාස සංකීර්ණයේ ඊයේ (23) රාත්‍රියේ ඇතිවූ ගින්නට හේතුව ගෑස් කාන්දුවක් බවට අනාවරණය වී තිබේ.ගිනි නිවීම් සේවා දෙපාර්තමේන්තුව පැවසුවේ, ගිනි ගැනීමට ලක්වූ නිවසේ තිබී ගෑස් සිලින්ඩර් 22 ක් සොයාගත් බවයි.ඉන් සිලින්ඩර කිහිපයක් ගෑස් සහිත ඒවා බවත් එම දෙපාර්තමේන්තුව පැවසුවේ ය.ඊය... 24-09-2026 | 8:16 AM වැඩි විස්තර",
+        "url": "https://sinhala.newsfirst.lk/2026/09/24/%e0%b7%83%e0%b7%9c%e0%b6%ba%e0%b7%92%e0%b7%83%e0%b7%8f%e0%b6%b4%e0%b7%94%e0%b6%bb-%e0%b6%b8%e0%b7%84%e0%b6%bd%e0%b7%8a-%e0%b6%b1%e0%b7%92%e0%b7%80%e0%b7%8f%e0%b7%83",
+        "published_at": null,
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "main",
+        "discovery": "homepage"
+      },
+      "first_detected": {
+        "id": "54a27a583ae79c43b7c42d4a",
+        "source": "News First",
+        "source_color": "#254A8A",
+        "title": "සොයිසාපුර ගින්නට හේතුව ගෑස් කාන්දුවක් COLOMBO (News 1st) - සොයිසාපුර මහල් නිවාස සංකීර්ණයේ ඊයේ (23) රාත්‍රියේ ඇතිවූ ගින්නට හේතුව ගෑස් කාන්දුවක් බවට අනාවරණය වී තිබේ.ගිනි නිවීම් සේවා දෙපාර්තමේන්තුව පැවසුවේ, ගිනි ගැනීමට ලක්වූ නිවසේ තිබී ගෑස් සිලින්ඩර් 22 ක් සොයාගත් බවයි.ඉන් සිලින්ඩර කිහිපයක් ගෑස් සහිත ඒවා බවත් එම දෙපාර්තමේන්තුව පැවසුවේ ය.ඊය... 24-09-2026 | 8:16 AM වැඩි විස්තර",
+        "url": "https://sinhala.newsfirst.lk/2026/09/24/%e0%b7%83%e0%b7%9c%e0%b6%ba%e0%b7%92%e0%b7%83%e0%b7%8f%e0%b6%b4%e0%b7%94%e0%b6%bb-%e0%b6%b8%e0%b7%84%e0%b6%bd%e0%b7%8a-%e0%b6%b1%e0%b7%92%e0%b7%80%e0%b7%8f%e0%b7%83",
+        "published_at": null,
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "main",
+        "discovery": "homepage"
+      },
+      "earliest_at": "2026-09-24T06:40:28.910292+00:00",
+      "latest_at": "2026-09-24T06:40:28.910292+00:00",
+      "articles": [
+        {
+          "id": "54a27a583ae79c43b7c42d4a",
+          "source": "News First",
+          "source_color": "#254A8A",
+          "title": "සොයිසාපුර ගින්නට හේතුව ගෑස් කාන්දුවක් COLOMBO (News 1st) - සොයිසාපුර මහල් නිවාස සංකීර්ණයේ ඊයේ (23) රාත්‍රියේ ඇතිවූ ගින්නට හේතුව ගෑස් කාන්දුවක් බවට අනාවරණය වී තිබේ.ගිනි නිවීම් සේවා දෙපාර්තමේන්තුව පැවසුවේ, ගිනි ගැනීමට ලක්වූ නිවසේ තිබී ගෑස් සිලින්ඩර් 22 ක් සොයාගත් බවයි.ඉන් සිලින්ඩර කිහිපයක් ගෑස් සහිත ඒවා බවත් එම දෙපාර්තමේන්තුව පැවසුවේ ය.ඊය... 24-09-2026 | 8:16 AM වැඩි විස්තර",
+          "url": "https://sinhala.newsfirst.lk/2026/09/24/%e0%b7%83%e0%b7%9c%e0%b6%ba%e0%b7%92%e0%b7%83%e0%b7%8f%e0%b6%b4%e0%b7%94%e0%b6%bb-%e0%b6%b8%e0%b7%84%e0%b6%bd%e0%b7%8a-%e0%b6%b1%e0%b7%92%e0%b7%80%e0%b7%8f%e0%b7%83",
+          "published_at": null,
+          "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "category": "main",
+          "discovery": "homepage"
+        }
+      ]
+    },
+    {
+      "id": "72f7be39a69b443c9dd08aa0",
+      "title": "ඩිජිටල් වෙන දිසා අධිකරණ පද්ධතිය... COLOMBO (News 1st) - සියලු දිසා අධිකරණවල විභාගවන නඩු සඳහා ගැලපෙන පරිදි විද්‍යුත් ගොනු කිරීමේ ඩිජිටල් පද්ධති හදුන්වාදීමට පියවර ගෙන තිබේ.අධිකරණ සේවා කොමිෂන් සභාව සඳහන් කළේ, එහි පළමු පියවර ලෙස කොළඹ සුළු හිම්කම් අධිකරණයේ විද්‍යුත් නඩු ගොනු කිරීමේ ඩිජිටල් පද්ධතිය ඊයේ (23) ආරම්භ කළ බවයි.ඒ අගවිනිසුරු ප්‍රී... 24-09-2026 | 8:08 AM වැඩි විස්තර",
+      "article_count": 1,
+      "first_report": {
+        "id": "72f7be39a69b443c9dd08aa0",
+        "source": "News First",
+        "source_color": "#254A8A",
+        "title": "ඩිජිටල් වෙන දිසා අධිකරණ පද්ධතිය... COLOMBO (News 1st) - සියලු දිසා අධිකරණවල විභාගවන නඩු සඳහා ගැලපෙන පරිදි විද්‍යුත් ගොනු කිරීමේ ඩිජිටල් පද්ධති හදුන්වාදීමට පියවර ගෙන තිබේ.අධිකරණ සේවා කොමිෂන් සභාව සඳහන් කළේ, එහි පළමු පියවර ලෙස කොළඹ සුළු හිම්කම් අධිකරණයේ විද්‍යුත් නඩු ගොනු කිරීමේ ඩිජිටල් පද්ධතිය ඊයේ (23) ආරම්භ කළ බවයි.ඒ අගවිනිසුරු ප්‍රී... 24-09-2026 | 8:08 AM වැඩි විස්තර",
+        "url": "https://sinhala.newsfirst.lk/2026/09/24/%e0%b7%83%e0%b7%92%e0%b6%ba%e0%b6%bd%e0%b7%94-%e0%b6%af%e0%b7%92%e0%b7%83%e0%b7%8f-%e0%b6%85%e0%b6%b0%e0%b7%92%e0%b6%9a%e0%b6%bb%e0%b6%ab%e0%b7%80%e0%b6%bd",
+        "published_at": null,
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "main",
+        "discovery": "homepage"
+      },
+      "first_detected": {
+        "id": "72f7be39a69b443c9dd08aa0",
+        "source": "News First",
+        "source_color": "#254A8A",
+        "title": "ඩිජිටල් වෙන දිසා අධිකරණ පද්ධතිය... COLOMBO (News 1st) - සියලු දිසා අධිකරණවල විභාගවන නඩු සඳහා ගැලපෙන පරිදි විද්‍යුත් ගොනු කිරීමේ ඩිජිටල් පද්ධති හදුන්වාදීමට පියවර ගෙන තිබේ.අධිකරණ සේවා කොමිෂන් සභාව සඳහන් කළේ, එහි පළමු පියවර ලෙස කොළඹ සුළු හිම්කම් අධිකරණයේ විද්‍යුත් නඩු ගොනු කිරීමේ ඩිජිටල් පද්ධතිය ඊයේ (23) ආරම්භ කළ බවයි.ඒ අගවිනිසුරු ප්‍රී... 24-09-2026 | 8:08 AM වැඩි විස්තර",
+        "url": "https://sinhala.newsfirst.lk/2026/09/24/%e0%b7%83%e0%b7%92%e0%b6%ba%e0%b6%bd%e0%b7%94-%e0%b6%af%e0%b7%92%e0%b7%83%e0%b7%8f-%e0%b6%85%e0%b6%b0%e0%b7%92%e0%b6%9a%e0%b6%bb%e0%b6%ab%e0%b7%80%e0%b6%bd",
+        "published_at": null,
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "main",
+        "discovery": "homepage"
+      },
+      "earliest_at": "2026-09-24T06:40:28.910292+00:00",
+      "latest_at": "2026-09-24T06:40:28.910292+00:00",
+      "articles": [
+        {
+          "id": "72f7be39a69b443c9dd08aa0",
+          "source": "News First",
+          "source_color": "#254A8A",
+          "title": "ඩිජිටල් වෙන දිසා අධිකරණ පද්ධතිය... COLOMBO (News 1st) - සියලු දිසා අධිකරණවල විභාගවන නඩු සඳහා ගැලපෙන පරිදි විද්‍යුත් ගොනු කිරීමේ ඩිජිටල් පද්ධති හදුන්වාදීමට පියවර ගෙන තිබේ.අධිකරණ සේවා කොමිෂන් සභාව සඳහන් කළේ, එහි පළමු පියවර ලෙස කොළඹ සුළු හිම්කම් අධිකරණයේ විද්‍යුත් නඩු ගොනු කිරීමේ ඩිජිටල් පද්ධතිය ඊයේ (23) ආරම්භ කළ බවයි.ඒ අගවිනිසුරු ප්‍රී... 24-09-2026 | 8:08 AM වැඩි විස්තර",
+          "url": "https://sinhala.newsfirst.lk/2026/09/24/%e0%b7%83%e0%b7%92%e0%b6%ba%e0%b6%bd%e0%b7%94-%e0%b6%af%e0%b7%92%e0%b7%83%e0%b7%8f-%e0%b6%85%e0%b6%b0%e0%b7%92%e0%b6%9a%e0%b6%bb%e0%b6%ab%e0%b7%80%e0%b6%bd",
+          "published_at": null,
+          "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "category": "main",
+          "discovery": "homepage"
+        }
+      ]
+    },
+    {
+      "id": "caaff725913ac2a7d4878ad5",
+      "title": "තෙදින නිල සංචාරය අරඹමින් චීන ජනපති ඇමරිකාවට... COLOMBO (News 1st) - චීන ජනාධිපති ෂී ජින්ග් පින්ග් සහ ජනාධිපති ආර්යා පන්ග් ලීවැන් අද (24) අලුයම ඇමරිකාවට පැමිණියහ.ඒ තුන් දින නිල රාජ්‍ය සංචාරයක් වෙනුවෙනි.අද මෙරට වේලාවෙන් අලුයම 3ට පමණ ඔවුන් රැගත් ගුවන් යානය ඇමරිකාවේ මේරිලන්ඩ් ප්‍රාන්තයේ ඇන්ඩෘස් ගුවන් හමුදා කඳවුරට ළඟා විය.චීන යුවල පිළිගැනීමට ඇමරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් සහ ඔහුගේ ආර්යාව වන මෙලා... 24-09-2026 | 7:25 AM වැඩි විස්තර",
+      "article_count": 1,
+      "first_report": {
+        "id": "caaff725913ac2a7d4878ad5",
+        "source": "News First",
+        "source_color": "#254A8A",
+        "title": "තෙදින නිල සංචාරය අරඹමින් චීන ජනපති ඇමරිකාවට... COLOMBO (News 1st) - චීන ජනාධිපති ෂී ජින්ග් පින්ග් සහ ජනාධිපති ආර්යා පන්ග් ලීවැන් අද (24) අලුයම ඇමරිකාවට පැමිණියහ.ඒ තුන් දින නිල රාජ්‍ය සංචාරයක් වෙනුවෙනි.අද මෙරට වේලාවෙන් අලුයම 3ට පමණ ඔවුන් රැගත් ගුවන් යානය ඇමරිකාවේ මේරිලන්ඩ් ප්‍රාන්තයේ ඇන්ඩෘස් ගුවන් හමුදා කඳවුරට ළඟා විය.චීන යුවල පිළිගැනීමට ඇමරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් සහ ඔහුගේ ආර්යාව වන මෙලා... 24-09-2026 | 7:25 AM වැඩි විස්තර",
+        "url": "https://sinhala.newsfirst.lk/2026/09/24/%e0%b6%ad%e0%b7%99%e0%b6%af%e0%b7%92%e0%b6%b1-%e0%b6%b1%e0%b7%92%e0%b6%bd-%e0%b7%83%e0%b6%82%e0%b6%a0%e0%b7%8f%e0%b6%bb%e0%b6%ba-%e0%b6%85%e0%b6%bb%e0%b6%b9",
+        "published_at": null,
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "politics",
+        "discovery": "homepage"
+      },
+      "first_detected": {
+        "id": "caaff725913ac2a7d4878ad5",
+        "source": "News First",
+        "source_color": "#254A8A",
+        "title": "තෙදින නිල සංචාරය අරඹමින් චීන ජනපති ඇමරිකාවට... COLOMBO (News 1st) - චීන ජනාධිපති ෂී ජින්ග් පින්ග් සහ ජනාධිපති ආර්යා පන්ග් ලීවැන් අද (24) අලුයම ඇමරිකාවට පැමිණියහ.ඒ තුන් දින නිල රාජ්‍ය සංචාරයක් වෙනුවෙනි.අද මෙරට වේලාවෙන් අලුයම 3ට පමණ ඔවුන් රැගත් ගුවන් යානය ඇමරිකාවේ මේරිලන්ඩ් ප්‍රාන්තයේ ඇන්ඩෘස් ගුවන් හමුදා කඳවුරට ළඟා විය.චීන යුවල පිළිගැනීමට ඇමරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් සහ ඔහුගේ ආර්යාව වන මෙලා... 24-09-2026 | 7:25 AM වැඩි විස්තර",
+        "url": "https://sinhala.newsfirst.lk/2026/09/24/%e0%b6%ad%e0%b7%99%e0%b6%af%e0%b7%92%e0%b6%b1-%e0%b6%b1%e0%b7%92%e0%b6%bd-%e0%b7%83%e0%b6%82%e0%b6%a0%e0%b7%8f%e0%b6%bb%e0%b6%ba-%e0%b6%85%e0%b6%bb%e0%b6%b9",
+        "published_at": null,
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "politics",
+        "discovery": "homepage"
+      },
+      "earliest_at": "2026-09-24T06:40:28.910292+00:00",
+      "latest_at": "2026-09-24T06:40:28.910292+00:00",
+      "articles": [
+        {
+          "id": "caaff725913ac2a7d4878ad5",
+          "source": "News First",
+          "source_color": "#254A8A",
+          "title": "තෙදින නිල සංචාරය අරඹමින් චීන ජනපති ඇමරිකාවට... COLOMBO (News 1st) - චීන ජනාධිපති ෂී ජින්ග් පින්ග් සහ ජනාධිපති ආර්යා පන්ග් ලීවැන් අද (24) අලුයම ඇමරිකාවට පැමිණියහ.ඒ තුන් දින නිල රාජ්‍ය සංචාරයක් වෙනුවෙනි.අද මෙරට වේලාවෙන් අලුයම 3ට පමණ ඔවුන් රැගත් ගුවන් යානය ඇමරිකාවේ මේරිලන්ඩ් ප්‍රාන්තයේ ඇන්ඩෘස් ගුවන් හමුදා කඳවුරට ළඟා විය.චීන යුවල පිළිගැනීමට ඇමරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් සහ ඔහුගේ ආර්යාව වන මෙලා... 24-09-2026 | 7:25 AM වැඩි විස්තර",
+          "url": "https://sinhala.newsfirst.lk/2026/09/24/%e0%b6%ad%e0%b7%99%e0%b6%af%e0%b7%92%e0%b6%b1-%e0%b6%b1%e0%b7%92%e0%b6%bd-%e0%b7%83%e0%b6%82%e0%b6%a0%e0%b7%8f%e0%b6%bb%e0%b6%ba-%e0%b6%85%e0%b6%bb%e0%b6%b9",
+          "published_at": null,
+          "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "category": "politics",
+          "discovery": "homepage"
+        }
+      ]
+    },
+    {
+      "id": "1031967413f036fc45551297",
+      "title": "Showers about 100 mm are likely at times in the Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya Districts",
+      "article_count": 4,
+      "first_report": {
+        "id": "1031967413f036fc45551297",
+        "source": "The Island",
+        "source_color": "#3B5F7A",
+        "title": "Showers about 100 mm are likely at times in the Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya Districts",
+        "url": "http://island.lk/showers-about-100-mm-are-likely-at-times-in-the-western-sabaragamuwa-and-north-western-provinces-and-in-galle-matara-kandy-and-nuwara-eliya-districts",
+        "published_at": "2026-09-21T00:30:50+00:00",
+        "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
+        "category": "main",
+        "discovery": "rss"
+      },
+      "first_detected": {
+        "id": "1031967413f036fc45551297",
+        "source": "The Island",
+        "source_color": "#3B5F7A",
+        "title": "Showers about 100 mm are likely at times in the Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya Districts",
+        "url": "http://island.lk/showers-about-100-mm-are-likely-at-times-in-the-western-sabaragamuwa-and-north-western-provinces-and-in-galle-matara-kandy-and-nuwara-eliya-districts",
+        "published_at": "2026-09-21T00:30:50+00:00",
+        "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
+        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
+        "category": "main",
+        "discovery": "rss"
+      },
+      "earliest_at": "2026-09-21T00:30:50+00:00",
+      "latest_at": "2026-09-24T00:25:46+00:00",
+      "articles": [
+        {
+          "id": "1031967413f036fc45551297",
+          "source": "The Island",
+          "source_color": "#3B5F7A",
+          "title": "Showers about 100 mm are likely at times in the Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya Districts",
+          "url": "http://island.lk/showers-about-100-mm-are-likely-at-times-in-the-western-sabaragamuwa-and-north-western-provinces-and-in-galle-matara-kandy-and-nuwara-eliya-districts",
+          "published_at": "2026-09-21T00:30:50+00:00",
+          "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
+          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
+          "category": "main",
+          "discovery": "rss"
+        },
+        {
+          "id": "4c892eb1ea17d45e3098a9fb",
+          "source": "The Island",
+          "source_color": "#3B5F7A",
+          "title": "Showers about 100mm will occur in the Western, Sabaragamuwa, Central and North-western provinces and in Galle and Matara Districts",
+          "url": "http://island.lk/showers-about-100mm-will-occur-in-the-western-sabaragamuwa-central-and-north-western-provinces-and-in-galle-and-matara-districts",
+          "published_at": "2026-09-22T00:29:33+00:00",
+          "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
+          "last_seen_at": "2026-09-22T21:17:27.493280+00:00",
+          "category": "main",
+          "discovery": "rss"
+        },
+        {
+          "id": "efd440b03f2fe78e37528f2f",
+          "source": "The Island",
+          "source_color": "#3B5F7A",
+          "title": "Showers above 100 mm are likely in the Western, Sabaragamuwa, Central and North-western provinces and in Galle and Matara Districts",
+          "url": "http://island.lk/showers-above-100-mm-are-likely-in-the-western-sabaragamuwa-central-and-north-western-provinces-and-in-galle-and-matara-districts",
+          "published_at": "2026-09-23T01:38:05+00:00",
+          "first_seen_at": "2026-09-23T06:52:09.929708+00:00",
+          "last_seen_at": "2026-09-23T12:32:37.823869+00:00",
+          "category": "main",
+          "discovery": "rss"
+        },
+        {
+          "id": "b90ae9cd15e418c7ea93afef",
+          "source": "The Island",
+          "source_color": "#3B5F7A",
+          "title": "Showerss above 100 mm are likely at some places in the Western, Sabaragamuwa, Central and North-western provinces and in Galle and Matara Districts",
+          "url": "http://island.lk/showerss-above-100-mm-are-likely-at-some-places-in-the-western-sabaragamuwa-central-and-north-western-provinces-and-in-galle-and-matara-districts",
+          "published_at": "2026-09-24T00:25:46+00:00",
+          "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "category": "main",
+          "discovery": "rss"
+        }
+      ]
+    },
+    {
+      "id": "f447063f21cf6411ee912bbb",
+      "title": "Mirabai Chanu wins Asian Games silver as Ri breaks weightlifting record",
+      "article_count": 1,
+      "first_report": {
+        "id": "f447063f21cf6411ee912bbb",
+        "source": "The Island",
+        "source_color": "#3B5F7A",
+        "title": "Mirabai Chanu wins Asian Games silver as Ri breaks weightlifting record",
+        "url": "http://island.lk/mirabai-chanu-wins-asian-games-silver-as-ri-breaks-weightlifting-record",
+        "published_at": "2026-09-24T00:17:40+00:00",
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "main",
+        "discovery": "rss"
+      },
+      "first_detected": {
+        "id": "f447063f21cf6411ee912bbb",
+        "source": "The Island",
+        "source_color": "#3B5F7A",
+        "title": "Mirabai Chanu wins Asian Games silver as Ri breaks weightlifting record",
+        "url": "http://island.lk/mirabai-chanu-wins-asian-games-silver-as-ri-breaks-weightlifting-record",
+        "published_at": "2026-09-24T00:17:40+00:00",
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "main",
+        "discovery": "rss"
+      },
+      "earliest_at": "2026-09-24T00:17:40+00:00",
+      "latest_at": "2026-09-24T00:17:40+00:00",
+      "articles": [
+        {
+          "id": "f447063f21cf6411ee912bbb",
+          "source": "The Island",
+          "source_color": "#3B5F7A",
+          "title": "Mirabai Chanu wins Asian Games silver as Ri breaks weightlifting record",
+          "url": "http://island.lk/mirabai-chanu-wins-asian-games-silver-as-ri-breaks-weightlifting-record",
+          "published_at": "2026-09-24T00:17:40+00:00",
+          "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "category": "main",
+          "discovery": "rss"
+        }
+      ]
+    },
+    {
+      "id": "536731c3ea2119734989468d",
+      "title": "Trump greets China’s Xi Jinping on arrival for three-day US",
+      "article_count": 1,
+      "first_report": {
+        "id": "536731c3ea2119734989468d",
+        "source": "The Island",
+        "source_color": "#3B5F7A",
+        "title": "Trump greets China’s Xi Jinping on arrival for three-day US",
+        "url": "http://island.lk/trump-greets-chinas-xi-jinping-on-arrival-for-three-day-us",
+        "published_at": "2026-09-24T00:07:01+00:00",
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "politics",
+        "discovery": "rss"
+      },
+      "first_detected": {
+        "id": "536731c3ea2119734989468d",
+        "source": "The Island",
+        "source_color": "#3B5F7A",
+        "title": "Trump greets China’s Xi Jinping on arrival for three-day US",
+        "url": "http://island.lk/trump-greets-chinas-xi-jinping-on-arrival-for-three-day-us",
+        "published_at": "2026-09-24T00:07:01+00:00",
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "politics",
+        "discovery": "rss"
+      },
+      "earliest_at": "2026-09-24T00:07:01+00:00",
+      "latest_at": "2026-09-24T00:07:01+00:00",
+      "articles": [
+        {
+          "id": "536731c3ea2119734989468d",
+          "source": "The Island",
+          "source_color": "#3B5F7A",
+          "title": "Trump greets China’s Xi Jinping on arrival for three-day US",
+          "url": "http://island.lk/trump-greets-chinas-xi-jinping-on-arrival-for-three-day-us",
+          "published_at": "2026-09-24T00:07:01+00:00",
+          "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "category": "politics",
+          "discovery": "rss"
+        }
+      ]
+    },
+    {
+      "id": "d6c559d949f1a8ce131ccb5d",
+      "title": "BASL calls for conscience vote by MPs on 22A",
+      "article_count": 2,
+      "first_report": {
+        "id": "d6c559d949f1a8ce131ccb5d",
+        "source": "Daily Mirror",
+        "source_color": "#A5222D",
+        "title": "BASL calls for conscience vote by MPs on 22A",
+        "url": "https://www.dailymirror.lk/breaking-news/BASL-calls-for-conscience-vote-by-MPs-on-22A/108-350991",
+        "published_at": "2026-09-23T17:08:00+00:00",
+        "first_seen_at": "2026-09-23T12:32:37.823869+00:00",
+        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "category": "politics",
+        "discovery": "rss"
+      },
+      "first_detected": {
+        "id": "d6c559d949f1a8ce131ccb5d",
+        "source": "Daily Mirror",
+        "source_color": "#A5222D",
+        "title": "BASL calls for conscience vote by MPs on 22A",
+        "url": "https://www.dailymirror.lk/breaking-news/BASL-calls-for-conscience-vote-by-MPs-on-22A/108-350991",
+        "published_at": "2026-09-23T17:08:00+00:00",
+        "first_seen_at": "2026-09-23T12:32:37.823869+00:00",
+        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "category": "politics",
+        "discovery": "rss"
+      },
+      "earliest_at": "2026-09-23T17:08:00+00:00",
+      "latest_at": "2026-09-24T00:05:53+00:00",
+      "articles": [
+        {
+          "id": "d6c559d949f1a8ce131ccb5d",
+          "source": "Daily Mirror",
+          "source_color": "#A5222D",
+          "title": "BASL calls for conscience vote by MPs on 22A",
+          "url": "https://www.dailymirror.lk/breaking-news/BASL-calls-for-conscience-vote-by-MPs-on-22A/108-350991",
+          "published_at": "2026-09-23T17:08:00+00:00",
+          "first_seen_at": "2026-09-23T12:32:37.823869+00:00",
+          "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+          "category": "politics",
+          "discovery": "rss"
+        },
+        {
+          "id": "0cca1c91bcdaa1f17108e7fc",
+          "source": "The Island",
+          "source_color": "#3B5F7A",
+          "title": "BASL calls for conscience vote on 22nd Amendment",
+          "url": "http://island.lk/basl-calls-for-conscience-vote-on-22nd-amendment",
+          "published_at": "2026-09-24T00:05:53+00:00",
+          "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "category": "main",
+          "discovery": "rss"
+        }
+      ]
+    },
+    {
+      "id": "60b0a803bd99bf0127ddf3ff",
+      "title": "IMF: Sri Lanka on course for 2027 market return",
+      "article_count": 1,
+      "first_report": {
+        "id": "60b0a803bd99bf0127ddf3ff",
+        "source": "The Island",
+        "source_color": "#3B5F7A",
+        "title": "IMF: Sri Lanka on course for 2027 market return",
+        "url": "http://island.lk/imf-sri-lanka-on-course-for-2027-market-return",
+        "published_at": "2026-09-24T00:04:50+00:00",
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "business",
+        "discovery": "rss"
+      },
+      "first_detected": {
+        "id": "60b0a803bd99bf0127ddf3ff",
+        "source": "The Island",
+        "source_color": "#3B5F7A",
+        "title": "IMF: Sri Lanka on course for 2027 market return",
+        "url": "http://island.lk/imf-sri-lanka-on-course-for-2027-market-return",
+        "published_at": "2026-09-24T00:04:50+00:00",
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "business",
+        "discovery": "rss"
+      },
+      "earliest_at": "2026-09-24T00:04:50+00:00",
+      "latest_at": "2026-09-24T00:04:50+00:00",
+      "articles": [
+        {
+          "id": "60b0a803bd99bf0127ddf3ff",
+          "source": "The Island",
+          "source_color": "#3B5F7A",
+          "title": "IMF: Sri Lanka on course for 2027 market return",
+          "url": "http://island.lk/imf-sri-lanka-on-course-for-2027-market-return",
+          "published_at": "2026-09-24T00:04:50+00:00",
+          "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "category": "business",
+          "discovery": "rss"
+        }
+      ]
+    },
+    {
+      "id": "24707e036858c440c20725c5",
+      "title": "President recommends two High Court judges for Court of Appeal",
+      "article_count": 3,
+      "first_report": {
+        "id": "24707e036858c440c20725c5",
+        "source": "Daily Mirror",
+        "source_color": "#A5222D",
+        "title": "President recommends two High Court judges for Court of Appeal",
+        "url": "https://www.dailymirror.lk/breaking-news/President-recommends-two-High-Court-judges-for-Court-of-Appeal/108-350911",
+        "published_at": "2026-09-22T16:44:00+00:00",
+        "first_seen_at": "2026-09-22T14:09:48.347719+00:00",
+        "last_seen_at": "2026-09-23T01:48:54.679242+00:00",
+        "category": "politics",
+        "discovery": "rss"
+      },
+      "first_detected": {
+        "id": "24707e036858c440c20725c5",
+        "source": "Daily Mirror",
+        "source_color": "#A5222D",
+        "title": "President recommends two High Court judges for Court of Appeal",
+        "url": "https://www.dailymirror.lk/breaking-news/President-recommends-two-High-Court-judges-for-Court-of-Appeal/108-350911",
+        "published_at": "2026-09-22T16:44:00+00:00",
+        "first_seen_at": "2026-09-22T14:09:48.347719+00:00",
+        "last_seen_at": "2026-09-23T01:48:54.679242+00:00",
+        "category": "politics",
+        "discovery": "rss"
+      },
+      "earliest_at": "2026-09-22T16:44:00+00:00",
+      "latest_at": "2026-09-24T00:03:35+00:00",
+      "articles": [
+        {
+          "id": "24707e036858c440c20725c5",
+          "source": "Daily Mirror",
+          "source_color": "#A5222D",
+          "title": "President recommends two High Court judges for Court of Appeal",
+          "url": "https://www.dailymirror.lk/breaking-news/President-recommends-two-High-Court-judges-for-Court-of-Appeal/108-350911",
+          "published_at": "2026-09-22T16:44:00+00:00",
+          "first_seen_at": "2026-09-22T14:09:48.347719+00:00",
+          "last_seen_at": "2026-09-23T01:48:54.679242+00:00",
+          "category": "politics",
+          "discovery": "rss"
+        },
+        {
+          "id": "7dafb9a2899d25e4d0a037cf",
+          "source": "EconomyNext",
+          "source_color": "#B77A1D",
+          "title": "Sri Lanka appoints 3 new high court judges",
+          "url": "https://economynext.com/sri-lanka-appoints-3-new-high-court-judges-284466",
+          "published_at": "2026-09-23T10:06:11+00:00",
+          "first_seen_at": "2026-09-23T12:32:37.823869+00:00",
+          "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+          "category": "main",
+          "discovery": "rss"
+        },
+        {
+          "id": "1b2c1064548ccc6c4c655d2b",
+          "source": "The Island",
+          "source_color": "#3B5F7A",
+          "title": "President appoints three new judges to High Court",
+          "url": "http://island.lk/president-appoints-three-new-judges-to-high-court",
+          "published_at": "2026-09-24T00:03:35+00:00",
+          "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "category": "politics",
+          "discovery": "rss"
+        }
+      ]
+    },
+    {
+      "id": "603daa40483dc2c7770917ff",
+      "title": "Church welcomes Easter Sunday verdict, demands full probe",
+      "article_count": 1,
+      "first_report": {
+        "id": "603daa40483dc2c7770917ff",
+        "source": "The Island",
+        "source_color": "#3B5F7A",
+        "title": "Church welcomes Easter Sunday verdict, demands full probe",
+        "url": "http://island.lk/church-welcomes-easter-sunday-verdict-demands-full-probe",
+        "published_at": "2026-09-24T00:02:37+00:00",
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "main",
+        "discovery": "rss"
+      },
+      "first_detected": {
+        "id": "603daa40483dc2c7770917ff",
+        "source": "The Island",
+        "source_color": "#3B5F7A",
+        "title": "Church welcomes Easter Sunday verdict, demands full probe",
+        "url": "http://island.lk/church-welcomes-easter-sunday-verdict-demands-full-probe",
+        "published_at": "2026-09-24T00:02:37+00:00",
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "main",
+        "discovery": "rss"
+      },
+      "earliest_at": "2026-09-24T00:02:37+00:00",
+      "latest_at": "2026-09-24T00:02:37+00:00",
+      "articles": [
+        {
+          "id": "603daa40483dc2c7770917ff",
+          "source": "The Island",
+          "source_color": "#3B5F7A",
+          "title": "Church welcomes Easter Sunday verdict, demands full probe",
+          "url": "http://island.lk/church-welcomes-easter-sunday-verdict-demands-full-probe",
+          "published_at": "2026-09-24T00:02:37+00:00",
+          "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "category": "main",
+          "discovery": "rss"
+        }
+      ]
+    },
+    {
+      "id": "c13e3434b52dd8d2a358f80a",
+      "title": "Mahanayake Thera urges US to adopt flexible tax policies",
+      "article_count": 1,
+      "first_report": {
+        "id": "c13e3434b52dd8d2a358f80a",
+        "source": "The Island",
+        "source_color": "#3B5F7A",
+        "title": "Mahanayake Thera urges US to adopt flexible tax policies",
+        "url": "http://island.lk/mahanayake-thera-urges-us-to-adopt-flexible-tax-policies",
+        "published_at": "2026-09-24T00:01:48+00:00",
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "business",
+        "discovery": "rss"
+      },
+      "first_detected": {
+        "id": "c13e3434b52dd8d2a358f80a",
+        "source": "The Island",
+        "source_color": "#3B5F7A",
+        "title": "Mahanayake Thera urges US to adopt flexible tax policies",
+        "url": "http://island.lk/mahanayake-thera-urges-us-to-adopt-flexible-tax-policies",
+        "published_at": "2026-09-24T00:01:48+00:00",
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "business",
+        "discovery": "rss"
+      },
+      "earliest_at": "2026-09-24T00:01:48+00:00",
+      "latest_at": "2026-09-24T00:01:48+00:00",
+      "articles": [
+        {
+          "id": "c13e3434b52dd8d2a358f80a",
+          "source": "The Island",
+          "source_color": "#3B5F7A",
+          "title": "Mahanayake Thera urges US to adopt flexible tax policies",
+          "url": "http://island.lk/mahanayake-thera-urges-us-to-adopt-flexible-tax-policies",
+          "published_at": "2026-09-24T00:01:48+00:00",
+          "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "category": "business",
+          "discovery": "rss"
+        }
+      ]
+    },
+    {
+      "id": "5c2897003250171bb0a577b3",
+      "title": "No hiding place after another batting collapse",
+      "article_count": 1,
+      "first_report": {
+        "id": "5c2897003250171bb0a577b3",
+        "source": "The Island",
+        "source_color": "#3B5F7A",
+        "title": "No hiding place after another batting collapse",
+        "url": "http://island.lk/no-hiding-place-after-another-batting-collapse",
+        "published_at": "2026-09-24T00:00:56+00:00",
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "main",
+        "discovery": "rss"
+      },
+      "first_detected": {
+        "id": "5c2897003250171bb0a577b3",
+        "source": "The Island",
+        "source_color": "#3B5F7A",
+        "title": "No hiding place after another batting collapse",
+        "url": "http://island.lk/no-hiding-place-after-another-batting-collapse",
+        "published_at": "2026-09-24T00:00:56+00:00",
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "main",
+        "discovery": "rss"
+      },
+      "earliest_at": "2026-09-24T00:00:56+00:00",
+      "latest_at": "2026-09-24T00:00:56+00:00",
+      "articles": [
+        {
+          "id": "5c2897003250171bb0a577b3",
+          "source": "The Island",
+          "source_color": "#3B5F7A",
+          "title": "No hiding place after another batting collapse",
+          "url": "http://island.lk/no-hiding-place-after-another-batting-collapse",
+          "published_at": "2026-09-24T00:00:56+00:00",
+          "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "category": "main",
+          "discovery": "rss"
+        }
+      ]
+    },
+    {
+      "id": "69802188ba81e2089f6edd46",
+      "title": "IMF talks conclude without staff-level agreement as Sri Lanka prepares November Budget",
+      "article_count": 1,
+      "first_report": {
+        "id": "69802188ba81e2089f6edd46",
+        "source": "The Island",
+        "source_color": "#3B5F7A",
+        "title": "IMF talks conclude without staff-level agreement as Sri Lanka prepares November Budget",
+        "url": "http://island.lk/imf-talks-conclude-without-staff-level-agreement-as-sri-lanka-prepares-november-budget",
+        "published_at": "2026-09-24T00:00:50+00:00",
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "main",
+        "discovery": "rss"
+      },
+      "first_detected": {
+        "id": "69802188ba81e2089f6edd46",
+        "source": "The Island",
+        "source_color": "#3B5F7A",
+        "title": "IMF talks conclude without staff-level agreement as Sri Lanka prepares November Budget",
+        "url": "http://island.lk/imf-talks-conclude-without-staff-level-agreement-as-sri-lanka-prepares-november-budget",
+        "published_at": "2026-09-24T00:00:50+00:00",
+        "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+        "category": "main",
+        "discovery": "rss"
+      },
+      "earliest_at": "2026-09-24T00:00:50+00:00",
+      "latest_at": "2026-09-24T00:00:50+00:00",
+      "articles": [
+        {
+          "id": "69802188ba81e2089f6edd46",
+          "source": "The Island",
+          "source_color": "#3B5F7A",
+          "title": "IMF talks conclude without staff-level agreement as Sri Lanka prepares November Budget",
+          "url": "http://island.lk/imf-talks-conclude-without-staff-level-agreement-as-sri-lanka-prepares-november-budget",
+          "published_at": "2026-09-24T00:00:50+00:00",
+          "first_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
+          "category": "main",
+          "discovery": "rss"
+        }
+      ]
+    },
+    {
       "id": "2a613b89de218a2711856fe2",
       "title": "Madushani aims for personal best in Nagoya",
       "article_count": 1,
@@ -6153,7 +7901,7 @@
         "url": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-Easter-attacks-convicts-to-challenge-200-year-jail-terms/108-350999",
         "published_at": "2026-09-23T21:20:00+00:00",
         "first_seen_at": "2026-09-23T17:26:25.153955+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "main",
         "discovery": "rss"
       },
@@ -6165,7 +7913,7 @@
         "url": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-Easter-attacks-convicts-to-challenge-200-year-jail-terms/108-350999",
         "published_at": "2026-09-23T21:20:00+00:00",
         "first_seen_at": "2026-09-23T17:26:25.153955+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "main",
         "discovery": "rss"
       },
@@ -6180,7 +7928,7 @@
           "url": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-Easter-attacks-convicts-to-challenge-200-year-jail-terms/108-350999",
           "published_at": "2026-09-23T21:20:00+00:00",
           "first_seen_at": "2026-09-23T17:26:25.153955+00:00",
-          "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
           "category": "main",
           "discovery": "rss"
         }
@@ -6582,7 +8330,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/23/%e0%b6%9a%e0%b7%92%e0%b6%ad%e0%b7%94%e0%b6%bd%e0%b7%8a%e0%b6%9c%e0%b6%bd-%e0%b6%b8%e0%b6%b1%e0%b7%8a%e0%b6%b1%e0%b7%8f%e0%b6%b4%e0%b7%92%e0%b6%a7%e0%b7%92%e0%b6%ba",
         "published_at": null,
         "first_seen_at": "2026-09-23T17:26:25.153955+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -6594,7 +8342,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/23/%e0%b6%9a%e0%b7%92%e0%b6%ad%e0%b7%94%e0%b6%bd%e0%b7%8a%e0%b6%9c%e0%b6%bd-%e0%b6%b8%e0%b6%b1%e0%b7%8a%e0%b6%b1%e0%b7%8f%e0%b6%b4%e0%b7%92%e0%b6%a7%e0%b7%92%e0%b6%ba",
         "published_at": null,
         "first_seen_at": "2026-09-23T17:26:25.153955+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -6609,7 +8357,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/23/%e0%b6%9a%e0%b7%92%e0%b6%ad%e0%b7%94%e0%b6%bd%e0%b7%8a%e0%b6%9c%e0%b6%bd-%e0%b6%b8%e0%b6%b1%e0%b7%8a%e0%b6%b1%e0%b7%8f%e0%b6%b4%e0%b7%92%e0%b6%a7%e0%b7%92%e0%b6%ba",
           "published_at": null,
           "first_seen_at": "2026-09-23T17:26:25.153955+00:00",
-          "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
           "category": "main",
           "discovery": "homepage"
         },
@@ -6621,7 +8369,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/23/%e0%b7%80%e0%b7%90%e0%b6%bd%e0%b7%92%e0%b7%83%e0%b6%bb-%e0%b6%b8%e0%b7%84%e0%b6%b6%e0%b7%8f%e0%b6%9c%e0%b7%9a-%e0%b7%84%e0%b6%b1%e0%b7%8a%e0%b6%af%e0%b7%92%e0%b6%ba",
           "published_at": null,
           "first_seen_at": "2026-09-23T17:26:25.153955+00:00",
-          "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
           "category": "business",
           "discovery": "homepage"
         }
@@ -6639,7 +8387,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/23/%e0%b6%9c%e0%b7%99%e0%b7%80%e0%b7%94%e0%b6%ab%e0%b7%94-%e0%b6%b8%e0%b7%8f%e0%b7%83-8-%e0%b6%ad%e0%b7%94%e0%b7%85-%e0%b6%a9%e0%b7%9c%e0%b6%bd",
         "published_at": null,
         "first_seen_at": "2026-09-23T17:26:25.153955+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "business",
         "discovery": "homepage"
       },
@@ -6651,7 +8399,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/23/%e0%b6%9c%e0%b7%99%e0%b7%80%e0%b7%94%e0%b6%ab%e0%b7%94-%e0%b6%b8%e0%b7%8f%e0%b7%83-8-%e0%b6%ad%e0%b7%94%e0%b7%85-%e0%b6%a9%e0%b7%9c%e0%b6%bd",
         "published_at": null,
         "first_seen_at": "2026-09-23T17:26:25.153955+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "business",
         "discovery": "homepage"
       },
@@ -6666,7 +8414,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/23/%e0%b6%9c%e0%b7%99%e0%b7%80%e0%b7%94%e0%b6%ab%e0%b7%94-%e0%b6%b8%e0%b7%8f%e0%b7%83-8-%e0%b6%ad%e0%b7%94%e0%b7%85-%e0%b6%a9%e0%b7%9c%e0%b6%bd",
           "published_at": null,
           "first_seen_at": "2026-09-23T17:26:25.153955+00:00",
-          "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
           "category": "business",
           "discovery": "homepage"
         }
@@ -6684,7 +8432,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/23/%e0%b6%bb%e0%b7%94%e0%b6%b4%e0%b7%92%e0%b6%ba%e0%b6%bd%e0%b7%8a-%e0%b6%b6%e0%b7%92%e0%b6%bd%e0%b7%92%e0%b6%ba%e0%b6%b1-24%e0%b6%9a-%e0%b6%a9",
         "published_at": null,
         "first_seen_at": "2026-09-23T17:26:25.153955+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "business",
         "discovery": "homepage"
       },
@@ -6696,7 +8444,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/23/%e0%b6%bb%e0%b7%94%e0%b6%b4%e0%b7%92%e0%b6%ba%e0%b6%bd%e0%b7%8a-%e0%b6%b6%e0%b7%92%e0%b6%bd%e0%b7%92%e0%b6%ba%e0%b6%b1-24%e0%b6%9a-%e0%b6%a9",
         "published_at": null,
         "first_seen_at": "2026-09-23T17:26:25.153955+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "business",
         "discovery": "homepage"
       },
@@ -6711,7 +8459,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/23/%e0%b6%bb%e0%b7%94%e0%b6%b4%e0%b7%92%e0%b6%ba%e0%b6%bd%e0%b7%8a-%e0%b6%b6%e0%b7%92%e0%b6%bd%e0%b7%92%e0%b6%ba%e0%b6%b1-24%e0%b6%9a-%e0%b6%a9",
           "published_at": null,
           "first_seen_at": "2026-09-23T17:26:25.153955+00:00",
-          "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
           "category": "business",
           "discovery": "homepage"
         }
@@ -6729,7 +8477,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/23/%e0%b6%85%e0%b6%b7%e0%b7%92%e0%b6%ba%e0%b7%9d%e0%b6%9c-%e0%b7%84%e0%b6%b8%e0%b7%94%e0%b7%80%e0%b7%9a-%e0%b7%80%e0%b7%94%e0%b7%80%e0%b6%af-%e0%b6%b8%e0%b7%99",
         "published_at": null,
         "first_seen_at": "2026-09-23T17:26:25.153955+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "business",
         "discovery": "homepage"
       },
@@ -6741,7 +8489,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/23/%e0%b6%85%e0%b6%b7%e0%b7%92%e0%b6%ba%e0%b7%9d%e0%b6%9c-%e0%b7%84%e0%b6%b8%e0%b7%94%e0%b7%80%e0%b7%9a-%e0%b7%80%e0%b7%94%e0%b7%80%e0%b6%af-%e0%b6%b8%e0%b7%99",
         "published_at": null,
         "first_seen_at": "2026-09-23T17:26:25.153955+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "business",
         "discovery": "homepage"
       },
@@ -6756,7 +8504,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/23/%e0%b6%85%e0%b6%b7%e0%b7%92%e0%b6%ba%e0%b7%9d%e0%b6%9c-%e0%b7%84%e0%b6%b8%e0%b7%94%e0%b7%80%e0%b7%9a-%e0%b7%80%e0%b7%94%e0%b7%80%e0%b6%af-%e0%b6%b8%e0%b7%99",
           "published_at": null,
           "first_seen_at": "2026-09-23T17:26:25.153955+00:00",
-          "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
           "category": "business",
           "discovery": "homepage"
         }
@@ -6774,7 +8522,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/23/%e0%b6%b8%e0%b7%9c%e0%b6%bb%e0%b6%a7%e0%b7%94%e0%b7%80-%e0%b7%83%e0%b7%9c%e0%b6%ba%e0%b7%92%e0%b7%83%e0%b7%8f%e0%b6%b4%e0%b7%94%e0%b6%bb-%e0%b6%b8%e0%b7%84%e0%b6%bd",
         "published_at": null,
         "first_seen_at": "2026-09-23T17:26:25.153955+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -6786,7 +8534,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/23/%e0%b6%b8%e0%b7%9c%e0%b6%bb%e0%b6%a7%e0%b7%94%e0%b7%80-%e0%b7%83%e0%b7%9c%e0%b6%ba%e0%b7%92%e0%b7%83%e0%b7%8f%e0%b6%b4%e0%b7%94%e0%b6%bb-%e0%b6%b8%e0%b7%84%e0%b6%bd",
         "published_at": null,
         "first_seen_at": "2026-09-23T17:26:25.153955+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -6801,7 +8549,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/23/%e0%b6%b8%e0%b7%9c%e0%b6%bb%e0%b6%a7%e0%b7%94%e0%b7%80-%e0%b7%83%e0%b7%9c%e0%b6%ba%e0%b7%92%e0%b7%83%e0%b7%8f%e0%b6%b4%e0%b7%94%e0%b6%bb-%e0%b6%b8%e0%b7%84%e0%b6%bd",
           "published_at": null,
           "first_seen_at": "2026-09-23T17:26:25.153955+00:00",
-          "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
           "category": "main",
           "discovery": "homepage"
         }
@@ -6939,51 +8687,6 @@
           "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
           "category": "main",
           "discovery": "homepage"
-        }
-      ]
-    },
-    {
-      "id": "d6c559d949f1a8ce131ccb5d",
-      "title": "BASL calls for conscience vote by MPs on 22A",
-      "article_count": 1,
-      "first_report": {
-        "id": "d6c559d949f1a8ce131ccb5d",
-        "source": "Daily Mirror",
-        "source_color": "#A5222D",
-        "title": "BASL calls for conscience vote by MPs on 22A",
-        "url": "https://www.dailymirror.lk/breaking-news/BASL-calls-for-conscience-vote-by-MPs-on-22A/108-350991",
-        "published_at": "2026-09-23T17:08:00+00:00",
-        "first_seen_at": "2026-09-23T12:32:37.823869+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
-        "category": "politics",
-        "discovery": "rss"
-      },
-      "first_detected": {
-        "id": "d6c559d949f1a8ce131ccb5d",
-        "source": "Daily Mirror",
-        "source_color": "#A5222D",
-        "title": "BASL calls for conscience vote by MPs on 22A",
-        "url": "https://www.dailymirror.lk/breaking-news/BASL-calls-for-conscience-vote-by-MPs-on-22A/108-350991",
-        "published_at": "2026-09-23T17:08:00+00:00",
-        "first_seen_at": "2026-09-23T12:32:37.823869+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
-        "category": "politics",
-        "discovery": "rss"
-      },
-      "earliest_at": "2026-09-23T17:08:00+00:00",
-      "latest_at": "2026-09-23T17:08:00+00:00",
-      "articles": [
-        {
-          "id": "d6c559d949f1a8ce131ccb5d",
-          "source": "Daily Mirror",
-          "source_color": "#A5222D",
-          "title": "BASL calls for conscience vote by MPs on 22A",
-          "url": "https://www.dailymirror.lk/breaking-news/BASL-calls-for-conscience-vote-by-MPs-on-22A/108-350991",
-          "published_at": "2026-09-23T17:08:00+00:00",
-          "first_seen_at": "2026-09-23T12:32:37.823869+00:00",
-          "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
-          "category": "politics",
-          "discovery": "rss"
         }
       ]
     },
@@ -7474,111 +9177,6 @@
           "category": "business",
           "discovery": "rss",
           "latest_claimed_published_at": "2026-09-23T11:32:11+00:00"
-        }
-      ]
-    },
-    {
-      "id": "6f7de98198a83754559bbb8f",
-      "title": "22 ගැන ශ්‍රේෂ්ඨාධිකරණයේ තීන්දුව COLOMBO (News 1st) - 22 වැනි ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය පිළිබඳ ශ්‍රේෂ්ඨාධිකරණයේ තීන්දුව අද (21) දිනයේ කථානායකවරයා වෙත ලැබීමට නියමිතව තිබේ.ඒ අනුව හෙට (22) දිනයේ එම තීරණය කථානායකවරයා විසින් පාර්ලිමේන්තුවට කරනු ඇත.ලබන 24 වැනිදා පෙරවරු 11.30 සිට පස්වරු 7.00 දක්වා විසි දෙවන ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධන ... 21-09-2026 | 7:13 AM වැඩි විස්තර",
-      "article_count": 6,
-      "first_report": {
-        "id": "6f7de98198a83754559bbb8f",
-        "source": "News First",
-        "source_color": "#254A8A",
-        "title": "22 ගැන ශ්‍රේෂ්ඨාධිකරණයේ තීන්දුව COLOMBO (News 1st) - 22 වැනි ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය පිළිබඳ ශ්‍රේෂ්ඨාධිකරණයේ තීන්දුව අද (21) දිනයේ කථානායකවරයා වෙත ලැබීමට නියමිතව තිබේ.ඒ අනුව හෙට (22) දිනයේ එම තීරණය කථානායකවරයා විසින් පාර්ලිමේන්තුවට කරනු ඇත.ලබන 24 වැනිදා පෙරවරු 11.30 සිට පස්වරු 7.00 දක්වා විසි දෙවන ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධන ... 21-09-2026 | 7:13 AM වැඩි විස්තර",
-        "url": "https://sinhala.newsfirst.lk/2026/09/21/22-%e0%b7%80%e0%b7%90%e0%b6%b1%e0%b7%92-%e0%b7%83%e0%b6%82%e0%b7%81%e0%b7%9d%e0%b6%b0%e0%b6%b1%e0%b6%ba-%e0%b6%b4%e0%b7%92%e0%b7%85%e0%b7%92",
-        "published_at": null,
-        "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
-        "category": "politics",
-        "discovery": "homepage"
-      },
-      "first_detected": {
-        "id": "6f7de98198a83754559bbb8f",
-        "source": "News First",
-        "source_color": "#254A8A",
-        "title": "22 ගැන ශ්‍රේෂ්ඨාධිකරණයේ තීන්දුව COLOMBO (News 1st) - 22 වැනි ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය පිළිබඳ ශ්‍රේෂ්ඨාධිකරණයේ තීන්දුව අද (21) දිනයේ කථානායකවරයා වෙත ලැබීමට නියමිතව තිබේ.ඒ අනුව හෙට (22) දිනයේ එම තීරණය කථානායකවරයා විසින් පාර්ලිමේන්තුවට කරනු ඇත.ලබන 24 වැනිදා පෙරවරු 11.30 සිට පස්වරු 7.00 දක්වා විසි දෙවන ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධන ... 21-09-2026 | 7:13 AM වැඩි විස්තර",
-        "url": "https://sinhala.newsfirst.lk/2026/09/21/22-%e0%b7%80%e0%b7%90%e0%b6%b1%e0%b7%92-%e0%b7%83%e0%b6%82%e0%b7%81%e0%b7%9d%e0%b6%b0%e0%b6%b1%e0%b6%ba-%e0%b6%b4%e0%b7%92%e0%b7%85%e0%b7%92",
-        "published_at": null,
-        "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
-        "category": "politics",
-        "discovery": "homepage"
-      },
-      "earliest_at": "2026-09-21T17:31:21.249666+00:00",
-      "latest_at": "2026-09-23T12:32:37.823869+00:00",
-      "articles": [
-        {
-          "id": "6f7de98198a83754559bbb8f",
-          "source": "News First",
-          "source_color": "#254A8A",
-          "title": "22 ගැන ශ්‍රේෂ්ඨාධිකරණයේ තීන්දුව COLOMBO (News 1st) - 22 වැනි ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය පිළිබඳ ශ්‍රේෂ්ඨාධිකරණයේ තීන්දුව අද (21) දිනයේ කථානායකවරයා වෙත ලැබීමට නියමිතව තිබේ.ඒ අනුව හෙට (22) දිනයේ එම තීරණය කථානායකවරයා විසින් පාර්ලිමේන්තුවට කරනු ඇත.ලබන 24 වැනිදා පෙරවරු 11.30 සිට පස්වරු 7.00 දක්වා විසි දෙවන ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධන ... 21-09-2026 | 7:13 AM වැඩි විස්තර",
-          "url": "https://sinhala.newsfirst.lk/2026/09/21/22-%e0%b7%80%e0%b7%90%e0%b6%b1%e0%b7%92-%e0%b7%83%e0%b6%82%e0%b7%81%e0%b7%9d%e0%b6%b0%e0%b6%b1%e0%b6%ba-%e0%b6%b4%e0%b7%92%e0%b7%85%e0%b7%92",
-          "published_at": null,
-          "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-22T04:47:43.703248+00:00",
-          "category": "politics",
-          "discovery": "homepage"
-        },
-        {
-          "id": "e4142e9533243e91ea6e16c7",
-          "source": "News First",
-          "source_color": "#254A8A",
-          "title": "22 ගැන ශ්‍රේෂ්ඨාධිකරණ තීන්දුව අද පාර්ලිමේන්තුවට COLOMBO (News1st) - 22 වැනි ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය පිළිබඳ ශ්‍රේෂ්ඨාධිකරණයේ තීන්දුව කථානායකවරයා විසින් අද පාර්ලිමේන්තුවට ඉදිරිපත් කීරීමට නියමිත ය.ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය පිළිබඳ ශ්‍රේෂ්ඨාධිකරණයේ තීන්දුව කථානායකවරයාට දැනුම් දී තිබුණේ ඊයේ දිනයේ ය.22 වැනි ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය සහ අධිකරණ... 22-09-2026 | 8:58 AM වැඩි විස්තර",
-          "url": "https://sinhala.newsfirst.lk/2026/09/22/22-%e0%b7%80%e0%b7%90%e0%b6%b1%e0%b7%92-%e0%b7%80%e0%b7%8a%e2%80%8d%e0%b6%ba%e0%b7%80%e0%b7%83%e0%b7%8a%e0%b6%ae%e0%b7%8f-%e0%b7%83%e0%b6%82",
-          "published_at": null,
-          "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
-          "last_seen_at": "2026-09-23T01:48:54.679242+00:00",
-          "category": "politics",
-          "discovery": "homepage"
-        },
-        {
-          "id": "db5dd70040a515fc9d607559",
-          "source": "News First",
-          "source_color": "#254A8A",
-          "title": "22 සංශෝධනය සම්මත කරන්න ජනමත විචාරණයක් අවශ්‍ය නෑ COLOMBO (News1st) - අගවිනිසුරුවරයා ඇතුළු උපරිමාධිකරණ විනිසුරු විශ්‍රාම වයස අවුරුදු දෙකකින් දීර්ඝ කිරීමට අදාළව ඉදිරිපත් කල විසි දෙවන ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධන පනත් කෙටුම්පත සම්මත කිරීම සඳහා ජනමත විචාරණයක් අවශ්‍ය නොවන බවට ශ්‍රේෂ්ඨාධිකරණය නිගමනය කර තිබේතශ්‍රේෂ්ඨාධිකරණ නිගමනය අනුව කෙටුම්පත පාර්ලිමේන්තුවේ තුනෙන් දෙකක බහුතරයෙන් සම්මත කළ හැකියි.අද පෙරවර... 22-09-2026 | 10:25 AM වැඩි විස්තර",
-          "url": "https://sinhala.newsfirst.lk/2026/09/22/2-%e0%b7%80%e0%b7%90%e0%b6%b1%e0%b7%92-%e0%b6%86%e0%b6%ab%e0%b7%8a%e0%b6%a9%e0%b7%94%e0%b6%9a%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%b8-%e0%b7%80%e0%b7%8a",
-          "published_at": null,
-          "first_seen_at": "2026-09-22T09:30:44.047669+00:00",
-          "last_seen_at": "2026-09-23T01:48:54.679242+00:00",
-          "category": "politics",
-          "discovery": "homepage"
-        },
-        {
-          "id": "2dd37633b1f7e18f863cb566",
-          "source": "Lankadeepa",
-          "source_color": "#2F6F4E",
-          "title": "විසිදෙකට ජනමත විචාරණයක් අවශ්‍ය නෑ",
-          "url": "https://www.lankadeepa.lk/news/වසදකට-ජනමත-වචරණයක-අවශය-න/101-698120",
-          "published_at": null,
-          "first_seen_at": "2026-09-22T09:30:44.047669+00:00",
-          "last_seen_at": "2026-09-22T09:30:44.047669+00:00",
-          "category": "main",
-          "discovery": "homepage"
-        },
-        {
-          "id": "cd2a315c97258b971331685b",
-          "source": "News First",
-          "source_color": "#254A8A",
-          "title": "ගෝඨා ගෝ ගම අරගල භූමියට පහරදීමේ සිද්ධියේ නඩුව : COLOMBO(News1st) - ගෝඨා ගෝ ගම අරගල භූමියට පහරදුන් බව කියන සිද්ධියට අදාළ නඩුව විභාග කිරීමට මහාධිකරණ ත්‍රිපුද්ගල විනිසුරු මඩුල්ලක් ඉල්ලා නීතීපතිවරයා, අගවිනිසුරුවරයාට ලිපියක් යොමු කර තිබේ.සිද්ධිය සම්බන්ධයෙන් හිටපු පොලිස්පති දේශබන්දු තෙන්නකෝන්, හිටපු අමාත්‍ය ජොන්ස්ටන් ප්‍රනාන්දු ඇතුළු විත්තිකරුවන් 20 දෙ... 22-09-2026 | 9:09 PM වැඩි විස්තර",
-          "url": "https://sinhala.newsfirst.lk/2026/09/22/%e0%b6%9c%e0%b7%9d%e0%b6%a8%e0%b7%8f-%e0%b6%9c%e0%b7%9d-%e0%b6%9c%e0%b6%b8-%e0%b6%85%e0%b6%bb%e0%b6%9c%e0%b6%bd-%e0%b6%b7%e0%b7%96%e0%b6%b8%e0%b7%92",
-          "published_at": null,
-          "first_seen_at": "2026-09-22T18:07:02.619658+00:00",
-          "last_seen_at": "2026-09-23T12:32:37.823869+00:00",
-          "category": "politics",
-          "discovery": "homepage"
-        },
-        {
-          "id": "87ede2c47e8d0903987e107c",
-          "source": "News First",
-          "source_color": "#254A8A",
-          "title": "නාමල් යළි රිමාන්ඩ් COLOMBO(News1st) - එයාර් බස් ගනුදෙනුව සම්බන්ධයෙන් මුදල් විශුද්ධිකරණ චෝදනා යටතේ, පවරා ඇති නඩුවේ සැකකාර පා.ම නාමල් රාජපක්ෂ ලබන 30 දක්වා යළි රක්ෂිත බන්ධනාගාර ගත කෙරේ.... 23-09-2026 | 2:25 PM වැඩි විස්තර",
-          "url": "https://sinhala.newsfirst.lk/2026/09/23/%e0%b6%b1%e0%b7%8f%e0%b6%b8%e0%b6%bd%e0%b7%8a-%e0%b6%ba%e0%b7%85%e0%b7%92-%e0%b6%bb%e0%b7%92%e0%b6%b8%e0%b7%8f%e0%b6%b1%e0%b7%8a%e0%b6%a9%e0%b7%8a",
-          "published_at": null,
-          "first_seen_at": "2026-09-23T12:32:37.823869+00:00",
-          "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
-          "category": "main",
-          "discovery": "homepage"
         }
       ]
     },
@@ -9480,63 +11078,6 @@
           "title": "Sri Lanka’s ASPI closes up on positive sentiment after rating hike",
           "url": "https://economynext.com/sri-lankas-aspi-closes-up-on-positive-sentiment-after-rating-hike-284479",
           "published_at": "2026-09-23T10:22:08+00:00",
-          "first_seen_at": "2026-09-23T12:32:37.823869+00:00",
-          "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
-          "category": "main",
-          "discovery": "rss"
-        }
-      ]
-    },
-    {
-      "id": "24707e036858c440c20725c5",
-      "title": "President recommends two High Court judges for Court of Appeal",
-      "article_count": 2,
-      "first_report": {
-        "id": "24707e036858c440c20725c5",
-        "source": "Daily Mirror",
-        "source_color": "#A5222D",
-        "title": "President recommends two High Court judges for Court of Appeal",
-        "url": "https://www.dailymirror.lk/breaking-news/President-recommends-two-High-Court-judges-for-Court-of-Appeal/108-350911",
-        "published_at": "2026-09-22T16:44:00+00:00",
-        "first_seen_at": "2026-09-22T14:09:48.347719+00:00",
-        "last_seen_at": "2026-09-23T01:48:54.679242+00:00",
-        "category": "politics",
-        "discovery": "rss"
-      },
-      "first_detected": {
-        "id": "24707e036858c440c20725c5",
-        "source": "Daily Mirror",
-        "source_color": "#A5222D",
-        "title": "President recommends two High Court judges for Court of Appeal",
-        "url": "https://www.dailymirror.lk/breaking-news/President-recommends-two-High-Court-judges-for-Court-of-Appeal/108-350911",
-        "published_at": "2026-09-22T16:44:00+00:00",
-        "first_seen_at": "2026-09-22T14:09:48.347719+00:00",
-        "last_seen_at": "2026-09-23T01:48:54.679242+00:00",
-        "category": "politics",
-        "discovery": "rss"
-      },
-      "earliest_at": "2026-09-22T16:44:00+00:00",
-      "latest_at": "2026-09-23T10:06:11+00:00",
-      "articles": [
-        {
-          "id": "24707e036858c440c20725c5",
-          "source": "Daily Mirror",
-          "source_color": "#A5222D",
-          "title": "President recommends two High Court judges for Court of Appeal",
-          "url": "https://www.dailymirror.lk/breaking-news/President-recommends-two-High-Court-judges-for-Court-of-Appeal/108-350911",
-          "published_at": "2026-09-22T16:44:00+00:00",
-          "first_seen_at": "2026-09-22T14:09:48.347719+00:00",
-          "last_seen_at": "2026-09-23T01:48:54.679242+00:00",
-          "category": "politics",
-          "discovery": "rss"
-        },
-        {
-          "id": "7dafb9a2899d25e4d0a037cf",
-          "source": "EconomyNext",
-          "source_color": "#B77A1D",
-          "title": "Sri Lanka appoints 3 new high court judges",
-          "url": "https://economynext.com/sri-lanka-appoints-3-new-high-court-judges-284466",
-          "published_at": "2026-09-23T10:06:11+00:00",
           "first_seen_at": "2026-09-23T12:32:37.823869+00:00",
           "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
           "category": "main",
@@ -12181,75 +13722,6 @@
           "last_seen_at": "2026-09-23T06:52:09.929708+00:00",
           "category": "main",
           "discovery": "homepage"
-        }
-      ]
-    },
-    {
-      "id": "1031967413f036fc45551297",
-      "title": "Showers about 100 mm are likely at times in the Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya Districts",
-      "article_count": 3,
-      "first_report": {
-        "id": "1031967413f036fc45551297",
-        "source": "The Island",
-        "source_color": "#3B5F7A",
-        "title": "Showers about 100 mm are likely at times in the Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya Districts",
-        "url": "http://island.lk/showers-about-100-mm-are-likely-at-times-in-the-western-sabaragamuwa-and-north-western-provinces-and-in-galle-matara-kandy-and-nuwara-eliya-districts",
-        "published_at": "2026-09-21T00:30:50+00:00",
-        "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
-        "category": "main",
-        "discovery": "rss"
-      },
-      "first_detected": {
-        "id": "1031967413f036fc45551297",
-        "source": "The Island",
-        "source_color": "#3B5F7A",
-        "title": "Showers about 100 mm are likely at times in the Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya Districts",
-        "url": "http://island.lk/showers-about-100-mm-are-likely-at-times-in-the-western-sabaragamuwa-and-north-western-provinces-and-in-galle-matara-kandy-and-nuwara-eliya-districts",
-        "published_at": "2026-09-21T00:30:50+00:00",
-        "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
-        "category": "main",
-        "discovery": "rss"
-      },
-      "earliest_at": "2026-09-21T00:30:50+00:00",
-      "latest_at": "2026-09-23T01:38:05+00:00",
-      "articles": [
-        {
-          "id": "1031967413f036fc45551297",
-          "source": "The Island",
-          "source_color": "#3B5F7A",
-          "title": "Showers about 100 mm are likely at times in the Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya Districts",
-          "url": "http://island.lk/showers-about-100-mm-are-likely-at-times-in-the-western-sabaragamuwa-and-north-western-provinces-and-in-galle-matara-kandy-and-nuwara-eliya-districts",
-          "published_at": "2026-09-21T00:30:50+00:00",
-          "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-21T21:03:17.446664+00:00",
-          "category": "main",
-          "discovery": "rss"
-        },
-        {
-          "id": "4c892eb1ea17d45e3098a9fb",
-          "source": "The Island",
-          "source_color": "#3B5F7A",
-          "title": "Showers about 100mm will occur in the Western, Sabaragamuwa, Central and North-western provinces and in Galle and Matara Districts",
-          "url": "http://island.lk/showers-about-100mm-will-occur-in-the-western-sabaragamuwa-central-and-north-western-provinces-and-in-galle-and-matara-districts",
-          "published_at": "2026-09-22T00:29:33+00:00",
-          "first_seen_at": "2026-09-22T04:47:43.703248+00:00",
-          "last_seen_at": "2026-09-22T21:17:27.493280+00:00",
-          "category": "main",
-          "discovery": "rss"
-        },
-        {
-          "id": "efd440b03f2fe78e37528f2f",
-          "source": "The Island",
-          "source_color": "#3B5F7A",
-          "title": "Showers above 100 mm are likely in the Western, Sabaragamuwa, Central and North-western provinces and in Galle and Matara Districts",
-          "url": "http://island.lk/showers-above-100-mm-are-likely-in-the-western-sabaragamuwa-central-and-north-western-provinces-and-in-galle-and-matara-districts",
-          "published_at": "2026-09-23T01:38:05+00:00",
-          "first_seen_at": "2026-09-23T06:52:09.929708+00:00",
-          "last_seen_at": "2026-09-23T12:32:37.823869+00:00",
-          "category": "main",
-          "discovery": "rss"
         }
       ]
     },
@@ -19250,51 +20722,6 @@
       ]
     },
     {
-      "id": "5c5e1bf06d8d747decd74abd",
-      "title": "ප්‍රධාන ගංගා 3ක් ගංවතුර අවදානම් මට්ටමේ... COLOMBO (News 1st) - නිල්වලා ගඟ පානඳුගමින් සුළු ගංවතුර මට්ටමට ළඟා වී තිබේ.වාරිමාර්ග දෙපාර්තමේන්තුව සඳහන් කළේ කැලණි, කළු, ගිං ගංගා සහ අත්තනගලු ඔය ගංවතුර අවදානම් මට්ටමේ පවතින බවයි.කැලණි ගඟ අවදානම් මට්ටමේ පවතින්නේ, හංවැල්ල සහ ග්ලෙන්කෝස් ප්‍රදේශවලිනි.රත්නපුර, මඟුර සහ මිල්ලකන්ඳ ප්‍රදේශවලින් කළු ගඟ, ගංවතු... 21-09-2026 | 7:32 AM වැඩි විස්තර",
-      "article_count": 1,
-      "first_report": {
-        "id": "5c5e1bf06d8d747decd74abd",
-        "source": "News First",
-        "source_color": "#254A8A",
-        "title": "ප්‍රධාන ගංගා 3ක් ගංවතුර අවදානම් මට්ටමේ... COLOMBO (News 1st) - නිල්වලා ගඟ පානඳුගමින් සුළු ගංවතුර මට්ටමට ළඟා වී තිබේ.වාරිමාර්ග දෙපාර්තමේන්තුව සඳහන් කළේ කැලණි, කළු, ගිං ගංගා සහ අත්තනගලු ඔය ගංවතුර අවදානම් මට්ටමේ පවතින බවයි.කැලණි ගඟ අවදානම් මට්ටමේ පවතින්නේ, හංවැල්ල සහ ග්ලෙන්කෝස් ප්‍රදේශවලිනි.රත්නපුර, මඟුර සහ මිල්ලකන්ඳ ප්‍රදේශවලින් කළු ගඟ, ගංවතු... 21-09-2026 | 7:32 AM වැඩි විස්තර",
-        "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%9a%e0%b7%90%e0%b6%bd%e0%b6%ab%e0%b7%92-%e0%b6%9a%e0%b7%85%e0%b7%94-%e0%b6%9c%e0%b7%92%e0%b6%82-%e0%b6%9c%e0%b6%82%e0%b6%9c%e0%b7%8f-%e0%b7%83",
-        "published_at": null,
-        "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T09:30:44.047669+00:00",
-        "category": "business",
-        "discovery": "homepage"
-      },
-      "first_detected": {
-        "id": "5c5e1bf06d8d747decd74abd",
-        "source": "News First",
-        "source_color": "#254A8A",
-        "title": "ප්‍රධාන ගංගා 3ක් ගංවතුර අවදානම් මට්ටමේ... COLOMBO (News 1st) - නිල්වලා ගඟ පානඳුගමින් සුළු ගංවතුර මට්ටමට ළඟා වී තිබේ.වාරිමාර්ග දෙපාර්තමේන්තුව සඳහන් කළේ කැලණි, කළු, ගිං ගංගා සහ අත්තනගලු ඔය ගංවතුර අවදානම් මට්ටමේ පවතින බවයි.කැලණි ගඟ අවදානම් මට්ටමේ පවතින්නේ, හංවැල්ල සහ ග්ලෙන්කෝස් ප්‍රදේශවලිනි.රත්නපුර, මඟුර සහ මිල්ලකන්ඳ ප්‍රදේශවලින් කළු ගඟ, ගංවතු... 21-09-2026 | 7:32 AM වැඩි විස්තර",
-        "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%9a%e0%b7%90%e0%b6%bd%e0%b6%ab%e0%b7%92-%e0%b6%9a%e0%b7%85%e0%b7%94-%e0%b6%9c%e0%b7%92%e0%b6%82-%e0%b6%9c%e0%b6%82%e0%b6%9c%e0%b7%8f-%e0%b7%83",
-        "published_at": null,
-        "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-22T09:30:44.047669+00:00",
-        "category": "business",
-        "discovery": "homepage"
-      },
-      "earliest_at": "2026-09-21T17:31:21.249666+00:00",
-      "latest_at": "2026-09-21T17:31:21.249666+00:00",
-      "articles": [
-        {
-          "id": "5c5e1bf06d8d747decd74abd",
-          "source": "News First",
-          "source_color": "#254A8A",
-          "title": "ප්‍රධාන ගංගා 3ක් ගංවතුර අවදානම් මට්ටමේ... COLOMBO (News 1st) - නිල්වලා ගඟ පානඳුගමින් සුළු ගංවතුර මට්ටමට ළඟා වී තිබේ.වාරිමාර්ග දෙපාර්තමේන්තුව සඳහන් කළේ කැලණි, කළු, ගිං ගංගා සහ අත්තනගලු ඔය ගංවතුර අවදානම් මට්ටමේ පවතින බවයි.කැලණි ගඟ අවදානම් මට්ටමේ පවතින්නේ, හංවැල්ල සහ ග්ලෙන්කෝස් ප්‍රදේශවලිනි.රත්නපුර, මඟුර සහ මිල්ලකන්ඳ ප්‍රදේශවලින් කළු ගඟ, ගංවතු... 21-09-2026 | 7:32 AM වැඩි විස්තර",
-          "url": "https://sinhala.newsfirst.lk/2026/09/21/%e0%b6%9a%e0%b7%90%e0%b6%bd%e0%b6%ab%e0%b7%92-%e0%b6%9a%e0%b7%85%e0%b7%94-%e0%b6%9c%e0%b7%92%e0%b6%82-%e0%b6%9c%e0%b6%82%e0%b6%9c%e0%b7%8f-%e0%b7%83",
-          "published_at": null,
-          "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-22T09:30:44.047669+00:00",
-          "category": "business",
-          "discovery": "homepage"
-        }
-      ]
-    },
-    {
       "id": "8125a83077c88c1fefd8655c",
       "title": "News1st සම්මාන රැසකින් පිදුම් ලබයි.. COLOMBO(News1st) - රූපවාහිනී, ගුවන් විදුලි ඇතුළු ක්ෂේත්‍ර රැසක ජනප්‍රිය නිර්මාණ අගයමින් CALIN POPULAR AWARDS 2026 මෙවර සංවිධානය කෙරුණේ හතරවන වරටයි.උත්සවය සඳහා කලා කරුවන් ඇතුළු සම්භාවනීය ආරාධිත අමුත්තන් රැසක් එක්ව සිටියේය.ජීවිතයට එක් වරක් පමණක් හිමි වෙන CALIN POPULAR AWARDS 2026 ගෞරව සම්මානය සිරස TV මහජන සබඳතා අධ්‍යක්ෂ ප්‍රියන්ත විජේසිංහට හිමි වුණි.වසරේ ජනප්‍රියම ප්‍රවෘත්ති නිවේදිකාව News1st හී ඔමායා කෝවිලගොඩගේ..වසරේ නවෝත්පාදනශීලී ගුවන්විදුලි නිවේ... 21-09-2026 | 10:42 PM වැඩි විස්තර",
       "article_count": 1,
@@ -19465,7 +20892,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/08/27/%e0%b6%bd%e0%b7%9c%e0%b7%80-%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%ae%e0%b6%b8-%e0%b7%80%e0%b6%ad%e0%b7%8f%e0%b7%80%e0%b6%a7-liv",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -19477,7 +20904,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/08/27/%e0%b6%bd%e0%b7%9c%e0%b7%80-%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%ae%e0%b6%b8-%e0%b7%80%e0%b6%ad%e0%b7%8f%e0%b7%80%e0%b6%a7-liv",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -19492,7 +20919,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/08/27/%e0%b6%bd%e0%b7%9c%e0%b7%80-%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%ae%e0%b6%b8-%e0%b7%80%e0%b6%ad%e0%b7%8f%e0%b7%80%e0%b6%a7-liv",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
           "category": "main",
           "discovery": "homepage"
         },
@@ -19522,7 +20949,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/08/08/%e0%b6%91%e0%b6%bd%e0%b7%8a-%e0%b6%b1%e0%b7%92%e0%b6%b1%e0%b7%9d-%e0%b7%84%e0%b7%9a%e0%b6%ad%e0%b7%94%e0%b7%80%e0%b7%99%e0%b6%b1%e0%b7%8a-%e0%b6%b8%e0%b7%99",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -19534,7 +20961,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/08/08/%e0%b6%91%e0%b6%bd%e0%b7%8a-%e0%b6%b1%e0%b7%92%e0%b6%b1%e0%b7%9d-%e0%b7%84%e0%b7%9a%e0%b6%ad%e0%b7%94%e0%b7%80%e0%b7%99%e0%b6%b1%e0%b7%8a-%e0%b6%b8%e0%b7%99",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -19549,7 +20976,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/08/08/%e0%b6%91%e0%b6%bd%e0%b7%8a-%e0%b6%b1%e0%b7%92%e0%b6%b1%e0%b7%9d-%e0%b7%84%e0%b7%9a%e0%b6%ad%e0%b7%94%e0%b7%80%e0%b7%99%e0%b6%b1%e0%b7%8a-%e0%b6%b8%e0%b7%99",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
           "category": "main",
           "discovery": "homepage"
         }
@@ -19567,7 +20994,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/07/27/%e0%b7%83%e0%b7%92%e0%b6%bb%e0%b7%83-%e0%b6%bd%e0%b6%9a%e0%b7%8a%e0%b7%82%e0%b6%b4%e0%b6%ad%e0%b7%92-%e0%b6%b1%e0%b7%90%e0%b7%80%e0%b7%94%e0%b6%b8%e0%b7%8a",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -19579,7 +21006,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/07/27/%e0%b7%83%e0%b7%92%e0%b6%bb%e0%b7%83-%e0%b6%bd%e0%b6%9a%e0%b7%8a%e0%b7%82%e0%b6%b4%e0%b6%ad%e0%b7%92-%e0%b6%b1%e0%b7%90%e0%b7%80%e0%b7%94%e0%b6%b8%e0%b7%8a",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -19594,7 +21021,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/07/27/%e0%b7%83%e0%b7%92%e0%b6%bb%e0%b7%83-%e0%b6%bd%e0%b6%9a%e0%b7%8a%e0%b7%82%e0%b6%b4%e0%b6%ad%e0%b7%92-%e0%b6%b1%e0%b7%90%e0%b7%80%e0%b7%94%e0%b6%b8%e0%b7%8a",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
           "category": "main",
           "discovery": "homepage"
         }
@@ -19702,7 +21129,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/20/%e0%b6%86%e0%b7%83%e0%b7%92%e0%b6%ba%e0%b7%8f%e0%b6%b1%e0%b7%94-%e0%b6%9a%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%93%e0%b6%a9%e0%b7%8f-%e0%b6%8b%e0%b7%85%e0%b7%99%e0%b6%bd",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "sports",
         "discovery": "homepage"
       },
@@ -19714,7 +21141,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/20/%e0%b6%86%e0%b7%83%e0%b7%92%e0%b6%ba%e0%b7%8f%e0%b6%b1%e0%b7%94-%e0%b6%9a%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%93%e0%b6%a9%e0%b7%8f-%e0%b6%8b%e0%b7%85%e0%b7%99%e0%b6%bd",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "sports",
         "discovery": "homepage"
       },
@@ -19729,7 +21156,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/20/%e0%b6%86%e0%b7%83%e0%b7%92%e0%b6%ba%e0%b7%8f%e0%b6%b1%e0%b7%94-%e0%b6%9a%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%93%e0%b6%a9%e0%b7%8f-%e0%b6%8b%e0%b7%85%e0%b7%99%e0%b6%bd",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
           "category": "sports",
           "discovery": "homepage"
         }
@@ -19792,7 +21219,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/20/%e0%b6%ad%e0%b6%bb%e0%b6%9c-3-0%e0%b6%9a%e0%b7%8a-%e0%b6%bd%e0%b7%99%e0%b7%83-%e0%b7%81%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%93",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "sports",
         "discovery": "homepage"
       },
@@ -19804,7 +21231,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/20/%e0%b6%ad%e0%b6%bb%e0%b6%9c-3-0%e0%b6%9a%e0%b7%8a-%e0%b6%bd%e0%b7%99%e0%b7%83-%e0%b7%81%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%93",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "sports",
         "discovery": "homepage"
       },
@@ -19819,7 +21246,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/20/%e0%b6%ad%e0%b6%bb%e0%b6%9c-3-0%e0%b6%9a%e0%b7%8a-%e0%b6%bd%e0%b7%99%e0%b7%83-%e0%b7%81%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%93",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
           "category": "sports",
           "discovery": "homepage"
         },
@@ -19831,7 +21258,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/16/%e0%b6%91%e0%b6%82%e0%b6%9c%e0%b6%bd%e0%b6%b1%e0%b7%8a%e0%b6%ad%e0%b6%ba-%e0%b7%84%e0%b6%b8%e0%b7%94%e0%b7%80%e0%b7%9a-%e0%b7%81%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%93",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
           "category": "sports",
           "discovery": "homepage"
         },
@@ -19843,7 +21270,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/14/%e0%b6%86%e0%b7%83%e0%b7%92%e0%b6%ba%e0%b7%8f%e0%b6%b1%e0%b7%94-%e0%b6%9a%e0%b7%94%e0%b7%83%e0%b6%bd%e0%b7%8f%e0%b6%b1-t20-%e0%b6%9a",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
           "category": "sports",
           "discovery": "homepage"
         },
@@ -19873,7 +21300,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/15/%e0%b6%bb%e0%b7%94%e0%b6%b8%e0%b7%9a%e0%b7%82%e0%b7%8a%e0%b6%9c%e0%b7%9a-%e0%b7%84%e0%b7%99%e0%b6%bd%e0%b7%8a%e0%b6%bd-%e0%b6%9a%e0%b6%a7%e0%b7%8a%e0%b6%a7%e0%b6%bd",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "sports",
         "discovery": "homepage"
       },
@@ -19885,7 +21312,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/15/%e0%b6%bb%e0%b7%94%e0%b6%b8%e0%b7%9a%e0%b7%82%e0%b7%8a%e0%b6%9c%e0%b7%9a-%e0%b7%84%e0%b7%99%e0%b6%bd%e0%b7%8a%e0%b6%bd-%e0%b6%9a%e0%b6%a7%e0%b7%8a%e0%b6%a7%e0%b6%bd",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "sports",
         "discovery": "homepage"
       },
@@ -19900,7 +21327,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/15/%e0%b6%bb%e0%b7%94%e0%b6%b8%e0%b7%9a%e0%b7%82%e0%b7%8a%e0%b6%9c%e0%b7%9a-%e0%b7%84%e0%b7%99%e0%b6%bd%e0%b7%8a%e0%b6%bd-%e0%b6%9a%e0%b6%a7%e0%b7%8a%e0%b6%a7%e0%b6%bd",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
           "category": "sports",
           "discovery": "homepage"
         }
@@ -19918,7 +21345,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/19/%e0%b6%bb%e0%b7%94%e0%b7%83%e0%b7%92%e0%b6%ba%e0%b7%8f%e0%b7%80%e0%b7%99%e0%b6%b1%e0%b7%8a-%e0%b6%ad%e0%b7%99%e0%b6%bd%e0%b7%8a-%e0%b7%83%e0%b7%84-%e0%b6%9c",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "politics",
         "discovery": "homepage"
       },
@@ -19930,7 +21357,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/19/%e0%b6%bb%e0%b7%94%e0%b7%83%e0%b7%92%e0%b6%ba%e0%b7%8f%e0%b7%80%e0%b7%99%e0%b6%b1%e0%b7%8a-%e0%b6%ad%e0%b7%99%e0%b6%bd%e0%b7%8a-%e0%b7%83%e0%b7%84-%e0%b6%9c",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "politics",
         "discovery": "homepage"
       },
@@ -19945,7 +21372,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/19/%e0%b6%bb%e0%b7%94%e0%b7%83%e0%b7%92%e0%b6%ba%e0%b7%8f%e0%b7%80%e0%b7%99%e0%b6%b1%e0%b7%8a-%e0%b6%ad%e0%b7%99%e0%b6%bd%e0%b7%8a-%e0%b7%83%e0%b7%84-%e0%b6%9c",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
           "category": "politics",
           "discovery": "homepage"
         }
@@ -19963,7 +21390,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/09/%e0%b6%bd%e0%b7%9d%e0%b6%9a-%e0%b7%83%e0%b7%9e%e0%b6%9b%e0%b7%8a%e2%80%8d%e0%b6%ba-%e0%b7%83%e0%b6%82%e0%b7%80%e0%b7%92%e0%b6%b0%e0%b7%8f%e0%b6%b1%e0%b6%ba%e0%b7%99",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "world",
         "discovery": "homepage"
       },
@@ -19975,7 +21402,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/09/%e0%b6%bd%e0%b7%9d%e0%b6%9a-%e0%b7%83%e0%b7%9e%e0%b6%9b%e0%b7%8a%e2%80%8d%e0%b6%ba-%e0%b7%83%e0%b6%82%e0%b7%80%e0%b7%92%e0%b6%b0%e0%b7%8f%e0%b6%b1%e0%b6%ba%e0%b7%99",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "world",
         "discovery": "homepage"
       },
@@ -19990,7 +21417,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/09/%e0%b6%bd%e0%b7%9d%e0%b6%9a-%e0%b7%83%e0%b7%9e%e0%b6%9b%e0%b7%8a%e2%80%8d%e0%b6%ba-%e0%b7%83%e0%b6%82%e0%b7%80%e0%b7%92%e0%b6%b0%e0%b7%8f%e0%b6%b1%e0%b6%ba%e0%b7%99",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
           "category": "world",
           "discovery": "homepage"
         }
@@ -20008,7 +21435,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/09/%e0%b6%b6%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%92%e0%b6%ad%e0%b7%8f%e0%b6%b1%e0%b7%8a%e2%80%8d%e0%b6%ba%e0%b6%ba%e0%b7%9a-%e0%b6%9c%e0%b7%94%e0%b7%80%e0%b6%b1%e0%b7%8a",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -20020,7 +21447,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/09/%e0%b6%b6%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%92%e0%b6%ad%e0%b7%8f%e0%b6%b1%e0%b7%8a%e2%80%8d%e0%b6%ba%e0%b6%ba%e0%b7%9a-%e0%b6%9c%e0%b7%94%e0%b7%80%e0%b6%b1%e0%b7%8a",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -20035,7 +21462,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/09/%e0%b6%b6%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b7%92%e0%b6%ad%e0%b7%8f%e0%b6%b1%e0%b7%8a%e2%80%8d%e0%b6%ba%e0%b6%ba%e0%b7%9a-%e0%b6%9c%e0%b7%94%e0%b7%80%e0%b6%b1%e0%b7%8a",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
           "category": "main",
           "discovery": "homepage"
         }
@@ -20053,7 +21480,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/08/%e0%b6%b1%e0%b7%90%e0%b7%80%e0%b6%ad-%e0%b6%bb%e0%b6%a7-%e0%b6%9c%e0%b7%9c%e0%b6%a9-%e0%b6%b1%e0%b7%90%e0%b6%9c%e0%b7%93%e0%b6%b8%e0%b7%9a-%e0%b6%9c",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -20065,7 +21492,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/08/%e0%b6%b1%e0%b7%90%e0%b7%80%e0%b6%ad-%e0%b6%bb%e0%b6%a7-%e0%b6%9c%e0%b7%9c%e0%b6%a9-%e0%b6%b1%e0%b7%90%e0%b6%9c%e0%b7%93%e0%b6%b8%e0%b7%9a-%e0%b6%9c",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -20080,7 +21507,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/08/%e0%b6%b1%e0%b7%90%e0%b7%80%e0%b6%ad-%e0%b6%bb%e0%b6%a7-%e0%b6%9c%e0%b7%9c%e0%b6%a9-%e0%b6%b1%e0%b7%90%e0%b6%9c%e0%b7%93%e0%b6%b8%e0%b7%9a-%e0%b6%9c",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
           "category": "main",
           "discovery": "homepage"
         }
@@ -20098,7 +21525,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/08/%e0%b7%83%e0%b7%9a%e0%b7%80%e0%b6%9a%e0%b6%ba%e0%b7%92%e0%b6%b1%e0%b7%8a-4-000%e0%b6%9a%e0%b7%8a-%e0%b6%89%e0%b7%80%e0%b6%ad",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -20110,7 +21537,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/08/%e0%b7%83%e0%b7%9a%e0%b7%80%e0%b6%9a%e0%b6%ba%e0%b7%92%e0%b6%b1%e0%b7%8a-4-000%e0%b6%9a%e0%b7%8a-%e0%b6%89%e0%b7%80%e0%b6%ad",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -20125,7 +21552,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/08/%e0%b7%83%e0%b7%9a%e0%b7%80%e0%b6%9a%e0%b6%ba%e0%b7%92%e0%b6%b1%e0%b7%8a-4-000%e0%b6%9a%e0%b7%8a-%e0%b6%89%e0%b7%80%e0%b6%ad",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
           "category": "main",
           "discovery": "homepage"
         }
@@ -20143,7 +21570,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/10/apple-%e0%b7%83%e0%b6%b8%e0%b7%8f%e0%b6%9c%e0%b6%b8-%e0%b6%8a%e0%b6%ba%e0%b7%9a-%e0%b6%b4%e0%b7%90%e0%b7%80%e0%b6%ad",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -20155,7 +21582,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/10/apple-%e0%b7%83%e0%b6%b8%e0%b7%8f%e0%b6%9c%e0%b6%b8-%e0%b6%8a%e0%b6%ba%e0%b7%9a-%e0%b6%b4%e0%b7%90%e0%b7%80%e0%b6%ad",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "main",
         "discovery": "homepage"
       },
@@ -20170,7 +21597,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/10/apple-%e0%b7%83%e0%b6%b8%e0%b7%8f%e0%b6%9c%e0%b6%b8-%e0%b6%8a%e0%b6%ba%e0%b7%9a-%e0%b6%b4%e0%b7%90%e0%b7%80%e0%b6%ad",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
           "category": "main",
           "discovery": "homepage"
         }
@@ -20188,7 +21615,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/10/%e0%b6%86%e0%b6%bb%e0%b7%8a%e0%b6%ae%e0%b7%92%e0%b6%9a-%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%ad%e0%b7%92%e0%b7%83%e0%b6%82%e0%b7%83%e0%b7%8a%e0%b6%9a%e0%b6%bb%e0%b6%ab",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "business",
         "discovery": "homepage"
       },
@@ -20200,7 +21627,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/09/10/%e0%b6%86%e0%b6%bb%e0%b7%8a%e0%b6%ae%e0%b7%92%e0%b6%9a-%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%ad%e0%b7%92%e0%b7%83%e0%b6%82%e0%b7%83%e0%b7%8a%e0%b6%9a%e0%b6%bb%e0%b6%ab",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "business",
         "discovery": "homepage"
       },
@@ -20215,7 +21642,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/09/10/%e0%b6%86%e0%b6%bb%e0%b7%8a%e0%b6%ae%e0%b7%92%e0%b6%9a-%e0%b6%b4%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%ad%e0%b7%92%e0%b7%83%e0%b6%82%e0%b7%83%e0%b7%8a%e0%b6%9a%e0%b6%bb%e0%b6%ab",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
           "category": "business",
           "discovery": "homepage"
         }
@@ -20233,7 +21660,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/08/25/%e0%b6%bd%e0%b7%9d%e0%b6%9a-%e0%b7%80%e0%b7%99%e0%b7%85%e0%b6%b3%e0%b6%b4%e0%b7%9c%e0%b6%bd%e0%b7%9a-%e0%b6%bb%e0%b6%ad%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%b1%e0%b7%8a",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "business",
         "discovery": "homepage"
       },
@@ -20245,7 +21672,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/08/25/%e0%b6%bd%e0%b7%9d%e0%b6%9a-%e0%b7%80%e0%b7%99%e0%b7%85%e0%b6%b3%e0%b6%b4%e0%b7%9c%e0%b6%bd%e0%b7%9a-%e0%b6%bb%e0%b6%ad%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%b1%e0%b7%8a",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "business",
         "discovery": "homepage"
       },
@@ -20260,7 +21687,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/08/25/%e0%b6%bd%e0%b7%9d%e0%b6%9a-%e0%b7%80%e0%b7%99%e0%b7%85%e0%b6%b3%e0%b6%b4%e0%b7%9c%e0%b6%bd%e0%b7%9a-%e0%b6%bb%e0%b6%ad%e0%b7%8a%e2%80%8d%e0%b6%bb%e0%b6%b1%e0%b7%8a",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
           "category": "business",
           "discovery": "homepage"
         }
@@ -20278,7 +21705,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/08/24/%e0%b7%80%e0%b7%83%e0%b6%bb%e0%b7%9a-%e0%b6%b8%e0%b7%9a-%e0%b6%af%e0%b6%9a%e0%b7%8a%e0%b7%80%e0%b7%8f-%e0%b7%83%e0%b6%82%e0%b6%a0%e0%b7%8f%e0%b6%bb%e0%b6%9a",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "world",
         "discovery": "homepage"
       },
@@ -20290,7 +21717,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/08/24/%e0%b7%80%e0%b7%83%e0%b6%bb%e0%b7%9a-%e0%b6%b8%e0%b7%9a-%e0%b6%af%e0%b6%9a%e0%b7%8a%e0%b7%80%e0%b7%8f-%e0%b7%83%e0%b6%82%e0%b6%a0%e0%b7%8f%e0%b6%bb%e0%b6%9a",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "world",
         "discovery": "homepage"
       },
@@ -20305,7 +21732,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/08/24/%e0%b7%80%e0%b7%83%e0%b6%bb%e0%b7%9a-%e0%b6%b8%e0%b7%9a-%e0%b6%af%e0%b6%9a%e0%b7%8a%e0%b7%80%e0%b7%8f-%e0%b7%83%e0%b6%82%e0%b6%a0%e0%b7%8f%e0%b6%bb%e0%b6%9a",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
           "category": "world",
           "discovery": "homepage"
         }
@@ -20323,7 +21750,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/08/19/meta-%e0%b7%83%e0%b6%b8%e0%b7%8f%e0%b6%9c%e0%b6%b8%e0%b6%a7-%e0%b6%91%e0%b6%bb%e0%b7%99%e0%b7%84%e0%b7%92%e0%b7%80-%e0%b6%a9",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "business",
         "discovery": "homepage"
       },
@@ -20335,7 +21762,7 @@
         "url": "https://sinhala.newsfirst.lk/2026/08/19/meta-%e0%b7%83%e0%b6%b8%e0%b7%8f%e0%b6%9c%e0%b6%b8%e0%b6%a7-%e0%b6%91%e0%b6%bb%e0%b7%99%e0%b7%84%e0%b7%92%e0%b7%80-%e0%b6%a9",
         "published_at": null,
         "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-        "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+        "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
         "category": "business",
         "discovery": "homepage"
       },
@@ -20350,7 +21777,7 @@
           "url": "https://sinhala.newsfirst.lk/2026/08/19/meta-%e0%b7%83%e0%b6%b8%e0%b7%8f%e0%b6%9c%e0%b6%b8%e0%b6%a7-%e0%b6%91%e0%b6%bb%e0%b7%99%e0%b7%84%e0%b7%92%e0%b7%80-%e0%b6%a9",
           "published_at": null,
           "first_seen_at": "2026-09-21T17:31:21.249666+00:00",
-          "last_seen_at": "2026-09-24T01:27:13.337091+00:00",
+          "last_seen_at": "2026-09-24T06:40:28.910292+00:00",
           "category": "business",
           "discovery": "homepage"
         }
